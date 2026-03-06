@@ -1,0 +1,73 @@
+POST https://www.bigbasket.com/choose-city/ HTTP/2.0
+content-length: 410
+cache-control: max-age=0
+sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+origin: https://www.bigbasket.com
+content-type: application/x-www-form-urlencoded
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+referer: https://www.bigbasket.com/pd/10000069/fresho-capsicum-green-500-g/?nc=smart_basket&t_pg=/oct-homepage-t1/&t_p=Oct-T1_2023&t_s=smart_basket&t_pos_sec=1&t_pos_item=1&t_ch=desktop
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9,hi;q=0.8,gu;q=0.7,ja;q=0.6
+cookie: x-channel=web
+cookie: _bb_cid=1
+cookie: _bb_vid=MTE0Mzk4NjI4OTk0MDk0NTY0Ng==
+cookie: _bb_nhid=7427
+cookie: _bb_dsid=7427
+cookie: _bb_dsevid=7427
+cookie: _bb_bhid=
+cookie: _bb_loid=
+cookie: isintegratedsa=true
+cookie: jentrycontextid=10
+cookie: xentrycontextid=10
+cookie: xentrycontext=bbnow
+cookie: _bb_bb2.0=1
+cookie: _bb_addressinfo=
+cookie: _bb_pin_code=
+cookie: _bb_sa_ids=19224
+cookie: _is_tobacco_enabled=1
+cookie: _bb_cda_sa_info=djIuY2RhX3NhLjEwLjE5MjI0
+cookie: is_integrated_sa=1
+cookie: is_subscribe_sa=0
+cookie: ufi=1
+cookie: csurftoken=xJ5zdQ.MTE0Mzk4NjI4OTk0MDk0NTY0Ng==.1772254098592.8r3rKdLbkX/WeJ1yMrsHV7DBWYYjObvdhQTvvCdBKyQ=
+cookie: adb=0
+cookie: _gcl_au=1.1.394372909.1772254100
+cookie: jarvis-id=234f87aa-9d09-4c58-901e-772a13a246fc
+cookie: _gid=GA1.2.1199325860.1772254101
+cookie: bigbasket.com=5f618ce5-0c9b-483f-bc88-3d5876f6972e
+cookie: _bb_lat_long=MTIuOTc2NTk0NHw3Ny41OTkyNzA4
+cookie: _bb_aid="MzAwNDkxOTI2MA=="
+cookie: _sp_van_encom_hid=1722
+cookie: _client_version=2843
+cookie: _bb_hid=1723
+cookie: _sp_bike_hid=1720
+cookie: sessionid=ret47gi5bhrdig073en16rqru5m82z70
+cookie: _bb_tc=0
+cookie: csrftoken=ZQEGOFLfTVwSAw9HNETRJ2ksdNIonCTl6PHU4yH0pUWtUROOnYdZOrnmv7oHHDSM
+cookie: _bb_rdt="MzEwNzIyNDU3NA==.0"
+cookie: _bb_rd=6
+cookie: _gat_gtag_UA_27455376_1=1
+cookie: bb2_enabled=false
+cookie: _bb_source=pwa
+cookie: ts="2026-02-28 10:24:04.278"
+cookie: _gat_UA-27455376-1=1
+cookie: _ga=GA1.1.1781862938.1772254101
+cookie: _ga_FRRYG5VKHX=GS2.1.s1772254100$o1$g1$t1772254444$j59$l0$h0
+priority: u=0, i
+URL-encoded
+ 
+ 
+ 
+city_id: '1000023'
+next: /pd/10000069/fresho-capsicum-green-500-g/
+csrfmiddlewaretoken: 
+  ZQEGOFLfTVwSAw9HNETRJ2ksdNIonCTl6PHU4yH0pUWtUROOnYdZOrnmv7oHHDSM
+places: '{"pincode":"560001","street":"","location":[77.58876593476566,12.97991258636462],"id":1,"display_name":"560001","landmark":"","type":"pincode","area_id":0}'

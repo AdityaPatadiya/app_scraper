@@ -1,0 +1,339 @@
+3: "727cd2c9-e137-40d8-8a7c-6870f2cea548"
+4: "689db868-2317-405c-ac53-b43d0ac0f723"
+5: "q1yb88ecac0-bc0d-4074-b6ac-f4c80e13a"
+1 {
+  3 {
+    1 {
+      1 {
+        1: "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget"
+        2 {
+          2 {
+            1: 1
+            2: 1
+            8 {
+              1 {
+                1: 0x41400000
+                3: 0x41400000
+                4: 0x41900000
+              }
+            }
+          }
+          5 {
+            1 {
+              1: "type.googleapis.com/swiggy.im.v1.ItemCollectionCard"
+              2 {
+                1: 3
+                2 {
+                  1: "Hocco Hazelnut Mudslide Cone Ice Cream"
+                  2: "Hocco"
+                  3: 1
+                  4: 1
+                  5 {
+                    1: "2K90K60D8D"
+                    2: "KUTFIZTH7W"
+                    3: "135 ml"
+                    4: "Hocco Hazelnut Mudslide Cone Ice Cream"
+                    5: "Hocco"
+                    6: "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png"
+                    6: "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png"
+                    6: "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png"
+                    6: "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png"
+                    6: "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                    7: 1
+                    9: "\n\007\n\003INR\020d\022\007\n\003INR\020U\032\t63/100 ml\"\007\n\003INR\020\017*#\n\00715% OFF\"\030\n\00715% OFF\022\rcolorPositive"
+                    10: "Ice Creams"
+                    11: "\010\020\020\006\030\006 \300\004"
+                    12: "\010\001"
+                    13: "\010\001\0223Only 1 unit(s) of this item can be added per order."
+                    14: "\010\001"
+                    15: 135
+                    19: "1403139"
+                    21: "Hazelnut-flavored ice cream in a crispy cone."
+                    25: "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\030\001"
+                    25: "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\030\001"
+                    25: "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\030\001"
+                    25: "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\030\001"
+                    25: "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\030\001"
+                    27: "\n\0034.3\022\010positive\032\00526.8k\"\007#DFF9EE"
+                    28: "\n\00212\022\004MINS\032\007#B6B6B6\"\027text_color_med_emphasis"
+                    35: "\010\002\022\n\342\202\271150 OFF\032\016Payment Offers\"\033text_color_highest_emphasis*\027text_color_low_emphasis2\003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\201\001\n\177https://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1403139&item_type=ITEM_TYPE_PAYMENT_OFFER"
+                    35: "\010\004\022>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\022text_high_emphasis*\010positive:\'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\027\n\025Swiggy HDFC Bank Card"
+                    36: "Ice Cream and Indian Sweets"
+                  }
+                  8 {
+                    1: "store-item-view-instamart"
+                    2: "{\"itemId\":\"2K90K60D8D\",\"slotAvailability\":true}"
+                    4: "item-impression"
+                    5: "click-item"
+                    7: "\n\014skuAvailable\022\004true"
+                    7: "\n\003sla\022\00712 MINS"
+                    7: "\n\013storeIDflag\022\007PRIMARY"
+                    7: "\n\025variantAttributeArray\022Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]"
+                    7: "\n\004ppid\022\nHUUMLIWVJH"
+                    7: "\n\007oosFlag\022\002no"
+                  }
+                  9: "KITP4MZKVL"
+                  12: "HUUMLIWVJH"
+                }
+                3 {
+                  1 {
+                    1: 1
+                    2: 0x3f000000
+                    3: 1
+                  }
+                  2 {
+                    1: 2
+                    2: 0x437f0000
+                  }
+                }
+                6 {
+                  1: "135 ml"
+                  2 {
+                    1: "pack_size"
+                    2: "Quantity"
+                    3: 3
+                    4: "135 ml"
+                    6: "\n\006135 ml\022PNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\032\006135 ml*K\n\007\n\003INR\020d\022\007\n\003INR\020U\032\t63/100 ml\"\007\n\003INR\020\017*#\n\00715% OFF\"\030\n\00715% OFF\022\rcolorPositive8\001"
+                    6: "\n\n2 x 135 ml\022PNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\032\n2 x 135 ml*M\n\010\n\003INR\020\310\001\022\010\n\003INR\020\252\001\032\t63/100 ml\"\007\n\003INR\020\036*#\n\00715% OFF\"\030\n\00715% OFF\022\rcolorPositive8\001"
+                  }
+                }
+              }
+            }
+          }
+          8 {
+            1: "store-item-view-instamart"
+          }
+        }
+      }
+    }
+  }
+  3 {
+    2 {
+      1 {
+        1 {
+          9: 0x5452414d4154534e
+        }
+        2 {
+          1 {
+            1 {
+              1 {
+                1: "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget"
+                2 {
+                  2 {
+                    1: 1
+                    2: 3
+                    7: "\r\000\000\200A\025\000\000\000A\035\000\000\200A%\000\000\300A"
+                    8: "\n\n\025\000\000@A%\000\000@A\022\024\r\000\000@A\025\000\000@A\035\000\000@A%\000\000@A"
+                    14: "\n\020\n\t#80DFDFDF\025\000\000\200?\022\020\n\t#80DFDFDF\025\000\000\200?\032\020\n\t#80DFDFDF\025\000\000\200?\"\020\n\t#80DFDFDF\025\000\000\200?"
+                    15: "\n\013\n\007#FFFFFF\020\001\022\013\n\007#FFFFFF\020\002"
+                  }
+                  4: "220751"
+                  5 {
+                    1: "\n+type.googleapis.com/swiggy.im.v1.MarkerCard\022\372\007\n\026\n\t\010\001\025\253\252\252>\030\005\022\t\010\001\025\000\000\200?\030\003\022\347\003\n@IM-PD-Assets/Trust%20markers/SEelectedArrowsCounterClockwise.png\022AIM-PD-Assets/Trust%20markers/UNSelectedArrowsCounterClockwise.png\032\01048 Hours\"\007Refund**\314\002<ul><li>This item is eligible for a refund in the unlikely event of a damaged, defective item.</li><li>Please ensure the item is in its original condition, with the manufacturer packaging, for a successful pick-up.</li><li>In case of an incorrect item, a refund request can be raised only if the item is sealed and unused.</li></ul>\022\211\002\nSInstamartAssets/Trust%20widget/PersonSimpleBike_colored.png?updatedAt=1762846299370\0223InstamartAssets/Trust%20widget/PersonSimpleBike.png\032\004Fast\"\010Delivery*m<ul><li>Get this item delivered to your doorstep in minutes with Instamart\'s fast delivery service.</li></ul>\022\351\001\nJInstamartAssets/Trust%20widget/Headset_colored.png?updatedAt=1762846299373\022*InstamartAssets/Trust%20widget/Headset.png\032\00424/7\"\007Support*`<ul><li>We provide 24/7 customer support in case you require any help with your order.</li></ul>"
+                  }
+                  8 {
+                    1: "store-item-view-instamart"
+                    4: "impressions-badge"
+                    5: "click-badge"
+                    7: "\n\006itemId\022\nKUTFIZTH7W"
+                    7: "\n\004text\022\01048 Hours"
+                    7: "\n\tproductId\022\nKITP4MZKVL"
+                  }
+                  12: "220751"
+                  13 {
+                    9: 0x5445474449575f4d
+                  }
+                }
+              }
+            }
+          }
+          1 {
+            1 {
+              1 {
+                1: "type.googleapis.com/swiggy.im.v1.TabularCard"
+                2 {
+                  1: "Highlights"
+                  2 {
+                    1: "2K90K60D8D"
+                    2: "\n\023\n\007Flavour\022\010Hazelnut\n\035\n\014Box Contents\022\r1 x Ice Cream\n\023\n\tPack Size\022\006135 ml\n\037\n\014Serving Temp\022\017-18\302\260C or Below"
+                  }
+                }
+              }
+            }
+          }
+          1 {
+            1 {
+              1 {
+                1: "type.googleapis.com/swiggy.im.v1.InfoCard"
+                2 {
+                  1: "Description"
+                  2: "<p>The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It\'s a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together.</p> \n<ul> \n<li><strong>Nutty Hazelnut flavour</strong>: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. It\342\200\231s the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting.</li> \n<li><strong>Chocolatey Mudslide Base</strong>: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone.</li> \n<li><strong>Crispy Cone</strong>: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. It\342\200\231s light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. It\342\200\231s a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite.</li> \n</ul> \n\n\n<ul><li><strong>Returns And Refund Policy:</strong></li></ul>\n<ul><li>- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>"
+                  4: 1
+                }
+              }
+            }
+          }
+          1 {
+            1 {
+              1 {
+                1: "type.googleapis.com/swiggy.im.v1.InfoCard"
+                2 {
+                  1: "Ingredients"
+                  2: "<p>Ice Cream (58.1%): Added Water, Milk Solids, Sugar, Brownie (10%) (Sugar, Maida, Cocoa Solids, Milk Solids, Maltodextrin, Corn Starch, Emulsifiers (INS 471, INS 472b, INS 477), Raising Agent (INS 500 (ii), INS 450 (i), INS 341 (i)), Stabilisers (INS 415), Salt), Hazelnut Paste (9%), Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415, INS 410). Topping and Spraying (30.3%): Choco Coating (19%) (Sugar, Cocoa Solid, Cocoa Butter, Palm Kernel oil, Emulsifier (INS 322, INS 476) CONTAINS ADDED NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Choco Spraying (7.5%) (Sugar, Edible vegetable Palm Kernal oil, Cocos Solids, Emulsifier (INS 322) CONTAINS NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Caramelised Nuts (3.8%) (Hazelnut, Almond, Sugar, Water). Wafer Biscuit Cone (11.6%): Wheat Flour, Sugar, Starch, Refined Vegetable Palm oil, Salt, Emulsifier (INS 322). CONTAINS PERMITTED NATURAL COLOURS (INS 150d) AND ARTIFKIAL VANILLA FLAVOURING SUBSTANCES.</p>\n\n\n\n\n\n"
+                  4: 1
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  3 {
+    1 {
+      1 {
+        1: "type.googleapis.com/swiggy.im.v1.ActionCard"
+        2 {
+          1: "InstamartAssets/Bleed%20Blue/PDP%20Brand.png"
+          2 {
+            1: "swiggy://stores/instamart/collection-listing?collectionId=106463&custom_back=true&brand=Hocco"
+            2: "Explore all Hocco items"
+          }
+          3 {
+            1: "store-item-view-instamart"
+            2: "{}"
+            4: "impression-menu-widget"
+            5: "click-cta"
+            7 {
+              1: "widgetId"
+              2: "159321"
+            }
+            7 {
+              1: "collectionId"
+              2: "106463"
+            }
+          }
+        }
+      }
+    }
+  }
+  3 {
+    1 {
+      1 {
+        1: "type.googleapis.com/swiggy.im.v1.InfoCard"
+        2 {
+          1: "Seller Details"
+          2: "<p>Seller Name: Spwave Pvt Ltd - HSR Sector 1<br>FSSAI Number: 20250131106941369<br>Address: Gf, Agara, Begur Hobli, Bengaluru South Taluk, HSR Layout, Bengaluru -560102<br><br>Customer Care: instamart.support@swiggy.in</p>"
+          3: 1
+          4: 2
+        }
+      }
+    }
+  }
+  3 {
+    1 {
+      1 {
+        1: "type.googleapis.com/swiggy.im.v1.InfoCard"
+        2 {
+          1: "Other Information"
+          2: "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>"
+          3: 1
+          4: 2
+        }
+      }
+    }
+  }
+  5: 1
+  7: 300
+  9 {
+    1: "IM_PAGE_CONFIGS"
+    2 {
+      1 {
+        1 {
+          1: "type.googleapis.com/swiggy.im.v1.PageConfigs"
+          2 {
+            3: 12216
+            4 {
+              1: "1403139"
+              2 {
+                1: 200
+                2: 0x47147000
+                3: 0x47c35000
+                4 {
+                  1: 200
+                  2: 0x466a6000
+                }
+              }
+            }
+            5 {
+              1: "1403139"
+              2 {
+                1: 200
+                2: 0x47147000
+                3: 0x47c35000
+                4 {
+                  1: 200
+                  2: 0x466a6000
+                }
+              }
+              3: 1
+              4 {
+                1: 3
+                2: 1
+                3 {
+                  1: "12"
+                  2: "MINS"
+                  3: "#B6B6B6"
+                  4: "text_color_low_emphasis"
+                  6: 1
+                }
+              }
+            }
+            5 {
+              1: "1396284"
+              2 {
+                1: 200
+                2: 0x471c4000
+                3: 0x47c35000
+                4 {
+                  1: 200
+                  2: 0x466a6000
+                }
+              }
+              3: 2
+              4 {
+                1: 2
+                3 {
+                  1: "18"
+                  2: "MINS"
+                  6: 1
+                }
+              }
+            }
+            5 {
+              1: "1392660"
+              2 {
+                1: 200
+                2: 0x47927c00
+                3: 0x47c35000
+                4 {
+                  1: 99
+                  2: 0x466a6000
+                }
+              }
+              3: 2
+              4 {
+                1: 3
+                3 {
+                  1: "25"
+                  2: "MINS"
+                  6: 1
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
