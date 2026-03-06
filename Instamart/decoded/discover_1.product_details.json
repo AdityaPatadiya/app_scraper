@@ -265,6 +265,108 @@
         ]
       }
     },
+    "raw_fields_structured": {
+      "product_node_normalized": {
+        "field_1": "Hocco Hazelnut Mudslide Cone Ice Cream",
+        "field_2": "Hocco",
+        "field_3": 1,
+        "field_4": 1,
+        "field_5": [
+          {
+            "field_1": "PD94COBM9S",
+            "field_2": "5LLTMTILAO",
+            "field_3": "135 ml x 2",
+            "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+            "field_5": "Hocco",
+            "field_6": [
+              "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+            ],
+            "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+            "field_10": "Ice Creams",
+            "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+            "field_12": "\b\u0001",
+            "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+            "field_14": "\b\u0001",
+            "field_15": 270,
+            "field_19": "1231052",
+            "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+          },
+          {
+            "field_1": "SZVR6C41NC",
+            "field_2": "KUTFIZTH7W",
+            "field_3": "135 ml",
+            "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+            "field_5": "Hocco",
+            "field_6": [
+              "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+            ],
+            "field_7": 1,
+            "field_9": "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010U\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u000f*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+            "field_10": "Ice Creams",
+            "field_11": "\b\u0010\u0010\u0006\u0018\u0006 À\u0004",
+            "field_12": "\b\u0001",
+            "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+            "field_14": "\b\u0001",
+            "field_15": 135,
+            "field_19": "1231052",
+            "field_21": "Hazelnut-flavored ice cream in a crispy cone.",
+            "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE",
+            "field_35": "\b\u0002\u0012\nâ¹125 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003125:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.png:LInstamartAssets/CentralBankOfIndiaFoodOffersLogo.png?updatedAt=1755183062426B\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER"
+          }
+        ],
+        "field_8": {
+          "field_1": "store-item-view-instamart",
+          "field_2": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+          "field_4": "item-impression",
+          "field_5": "click-item",
+          "field_7": "\n\fskuAvailable\u0012\u0004true"
+        },
+        "field_9": "KITP4MZKVL",
+        "field_12": "HUUMLIWVJH"
+      },
+      "details_node_normalized": {
+        "field_1": "PD94COBM9S",
+        "field_2": "5LLTMTILAO",
+        "field_3": "135 ml x 2",
+        "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+        "field_5": "Hocco",
+        "field_6": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+        ],
+        "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+        "field_10": "Ice Creams",
+        "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+        "field_12": "\b\u0001",
+        "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+        "field_14": "\b\u0001",
+        "field_15": 270,
+        "field_19": "1231052",
+        "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+      },
+      "details_known_fields": {
+        "item_id": "PD94COBM9S",
+        "spin_id": "5LLTMTILAO",
+        "quantity": "135 ml x 2",
+        "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+        "brand": "Hocco",
+        "primary_image": "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+        "category": "Ice Creams",
+        "pod_id": "1231052",
+        "description": null
+      }
+    },
     "event_payloads": [
       {
         "raw": "\n\fskuAvailable\u0012\u0004true",
@@ -568,6 +670,108 @@
             "27": [
               "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
             ]
+          }
+        },
+        "raw_fields_structured": {
+          "product_node_normalized": {
+            "field_1": "Hocco Hazelnut Mudslide Cone Ice Cream",
+            "field_2": "Hocco",
+            "field_3": 1,
+            "field_4": 1,
+            "field_5": [
+              {
+                "field_1": "PD94COBM9S",
+                "field_2": "5LLTMTILAO",
+                "field_3": "135 ml x 2",
+                "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+                "field_5": "Hocco",
+                "field_6": [
+                  "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                ],
+                "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+                "field_10": "Ice Creams",
+                "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+                "field_12": "\b\u0001",
+                "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+                "field_14": "\b\u0001",
+                "field_15": 270,
+                "field_19": "1231052",
+                "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+              },
+              {
+                "field_1": "SZVR6C41NC",
+                "field_2": "KUTFIZTH7W",
+                "field_3": "135 ml",
+                "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+                "field_5": "Hocco",
+                "field_6": [
+                  "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                ],
+                "field_7": 1,
+                "field_9": "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010U\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u000f*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+                "field_10": "Ice Creams",
+                "field_11": "\b\u0010\u0010\u0006\u0018\u0006 À\u0004",
+                "field_12": "\b\u0001",
+                "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+                "field_14": "\b\u0001",
+                "field_15": 135,
+                "field_19": "1231052",
+                "field_21": "Hazelnut-flavored ice cream in a crispy cone.",
+                "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE",
+                "field_35": "\b\u0002\u0012\nâ¹125 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003125:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.png:LInstamartAssets/CentralBankOfIndiaFoodOffersLogo.png?updatedAt=1755183062426B\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER"
+              }
+            ],
+            "field_8": {
+              "field_1": "store-item-view-instamart",
+              "field_2": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+              "field_4": "item-impression",
+              "field_5": "click-item",
+              "field_7": "\n\fskuAvailable\u0012\u0004true"
+            },
+            "field_9": "KITP4MZKVL",
+            "field_12": "HUUMLIWVJH"
+          },
+          "details_node_normalized": {
+            "field_1": "PD94COBM9S",
+            "field_2": "5LLTMTILAO",
+            "field_3": "135 ml x 2",
+            "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+            "field_5": "Hocco",
+            "field_6": [
+              "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+            ],
+            "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+            "field_10": "Ice Creams",
+            "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+            "field_12": "\b\u0001",
+            "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+            "field_14": "\b\u0001",
+            "field_15": 270,
+            "field_19": "1231052",
+            "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+          },
+          "details_known_fields": {
+            "item_id": "PD94COBM9S",
+            "spin_id": "5LLTMTILAO",
+            "quantity": "135 ml x 2",
+            "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+            "brand": "Hocco",
+            "primary_image": "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+            "category": "Ice Creams",
+            "pod_id": "1231052",
+            "description": null
           }
         },
         "event_payloads": [
@@ -1618,6 +1822,108 @@
               ]
             }
           },
+          "raw_fields_structured": {
+            "product_node_normalized": {
+              "field_1": "Hocco Hazelnut Mudslide Cone Ice Cream",
+              "field_2": "Hocco",
+              "field_3": 1,
+              "field_4": 1,
+              "field_5": [
+                {
+                  "field_1": "PD94COBM9S",
+                  "field_2": "5LLTMTILAO",
+                  "field_3": "135 ml x 2",
+                  "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+                  "field_5": "Hocco",
+                  "field_6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                  ],
+                  "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+                  "field_10": "Ice Creams",
+                  "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+                  "field_12": "\b\u0001",
+                  "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+                  "field_14": "\b\u0001",
+                  "field_15": 270,
+                  "field_19": "1231052",
+                  "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+                },
+                {
+                  "field_1": "SZVR6C41NC",
+                  "field_2": "KUTFIZTH7W",
+                  "field_3": "135 ml",
+                  "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+                  "field_5": "Hocco",
+                  "field_6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                  ],
+                  "field_7": 1,
+                  "field_9": "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010U\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u000f*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+                  "field_10": "Ice Creams",
+                  "field_11": "\b\u0010\u0010\u0006\u0018\u0006 À\u0004",
+                  "field_12": "\b\u0001",
+                  "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+                  "field_14": "\b\u0001",
+                  "field_15": 135,
+                  "field_19": "1231052",
+                  "field_21": "Hazelnut-flavored ice cream in a crispy cone.",
+                  "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE",
+                  "field_35": "\b\u0002\u0012\nâ¹125 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003125:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.png:LInstamartAssets/CentralBankOfIndiaFoodOffersLogo.png?updatedAt=1755183062426B\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER"
+                }
+              ],
+              "field_8": {
+                "field_1": "store-item-view-instamart",
+                "field_2": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+                "field_4": "item-impression",
+                "field_5": "click-item",
+                "field_7": "\n\fskuAvailable\u0012\u0004true"
+              },
+              "field_9": "KITP4MZKVL",
+              "field_12": "HUUMLIWVJH"
+            },
+            "details_node_normalized": {
+              "field_1": "PD94COBM9S",
+              "field_2": "5LLTMTILAO",
+              "field_3": "135 ml x 2",
+              "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+              "field_5": "Hocco",
+              "field_6": [
+                "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+              ],
+              "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+              "field_10": "Ice Creams",
+              "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+              "field_12": "\b\u0001",
+              "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+              "field_14": "\b\u0001",
+              "field_15": 270,
+              "field_19": "1231052",
+              "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+            },
+            "details_known_fields": {
+              "item_id": "PD94COBM9S",
+              "spin_id": "5LLTMTILAO",
+              "quantity": "135 ml x 2",
+              "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+              "brand": "Hocco",
+              "primary_image": "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+              "category": "Ice Creams",
+              "pod_id": "1231052",
+              "description": null
+            }
+          },
           "event_payloads": [
             {
               "raw": "\n\fskuAvailable\u0012\u0004true",
@@ -1876,6 +2182,108 @@
               "27": [
                 "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
               ]
+            }
+          },
+          "raw_fields_structured": {
+            "product_node_normalized": {
+              "field_1": "Hocco Hazelnut Mudslide Cone Ice Cream",
+              "field_2": "Hocco",
+              "field_3": 1,
+              "field_4": 1,
+              "field_5": [
+                {
+                  "field_1": "PD94COBM9S",
+                  "field_2": "5LLTMTILAO",
+                  "field_3": "135 ml x 2",
+                  "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+                  "field_5": "Hocco",
+                  "field_6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                  ],
+                  "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+                  "field_10": "Ice Creams",
+                  "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+                  "field_12": "\b\u0001",
+                  "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+                  "field_14": "\b\u0001",
+                  "field_15": 270,
+                  "field_19": "1231052",
+                  "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+                },
+                {
+                  "field_1": "SZVR6C41NC",
+                  "field_2": "KUTFIZTH7W",
+                  "field_3": "135 ml",
+                  "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+                  "field_5": "Hocco",
+                  "field_6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                  ],
+                  "field_7": 1,
+                  "field_9": "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010U\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u000f*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+                  "field_10": "Ice Creams",
+                  "field_11": "\b\u0010\u0010\u0006\u0018\u0006 À\u0004",
+                  "field_12": "\b\u0001",
+                  "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+                  "field_14": "\b\u0001",
+                  "field_15": 135,
+                  "field_19": "1231052",
+                  "field_21": "Hazelnut-flavored ice cream in a crispy cone.",
+                  "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE",
+                  "field_35": "\b\u0002\u0012\nâ¹125 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003125:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.png:LInstamartAssets/CentralBankOfIndiaFoodOffersLogo.png?updatedAt=1755183062426B\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER"
+                }
+              ],
+              "field_8": {
+                "field_1": "store-item-view-instamart",
+                "field_2": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+                "field_4": "item-impression",
+                "field_5": "click-item",
+                "field_7": "\n\fskuAvailable\u0012\u0004true"
+              },
+              "field_9": "KITP4MZKVL",
+              "field_12": "HUUMLIWVJH"
+            },
+            "details_node_normalized": {
+              "field_1": "PD94COBM9S",
+              "field_2": "5LLTMTILAO",
+              "field_3": "135 ml x 2",
+              "field_4": "Hocco Hazelnut Mudslide Cone Ice Cream",
+              "field_5": "Hocco",
+              "field_6": [
+                "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+              ],
+              "field_9": "\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010ª\u0001\u001a\t63/100 ml\"\u0007\n\u0003INR\u0010\u001e*#\n\u000715% OFF\"\u0018\n\u000715% OFF\u0012\rcolorPositive",
+              "field_10": "Ice Creams",
+              "field_11": "\b\u0002\u0010\u0001\u0018\u0001 \u0002",
+              "field_12": "\b\u0001",
+              "field_13": "\b\u0001\u00123Only 1 unit(s) of this item can be added per order.",
+              "field_14": "\b\u0001",
+              "field_15": 270,
+              "field_19": "1231052",
+              "field_27": "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+            },
+            "details_known_fields": {
+              "item_id": "PD94COBM9S",
+              "spin_id": "5LLTMTILAO",
+              "quantity": "135 ml x 2",
+              "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+              "brand": "Hocco",
+              "primary_image": "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+              "category": "Ice Creams",
+              "pod_id": "1231052",
+              "description": null
             }
           },
           "event_payloads": [
