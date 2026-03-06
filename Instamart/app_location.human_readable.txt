@@ -1,0 +1,176 @@
+Source: Instamart/app_location
+Format: protobuf_text_dump
+Summary: {"block_count": 31, "type_url_count": 12, "image_count": 289, "uuid_count": 3, "color_count": 43, "price_hits": 10, "discount_hits": 131}
+
+[1] type.googleapis.com/swiggy.gandalf.widgets.v2.BackgroundLayoutWidget (lines=3)
+  Dtype.googleapis.com/swiggy.gandalf.widgets.v2.BackgroundLayoutWidget....
+
+[2] type.googleapis.com/swiggy.gandalf.widgets.v2.PathwaysWidget (lines=3)
+  type.googleapis.com/swiggy.gandalf.widgets.v2.PathwaysWidget.¹s
+  .252017.Ûr
+
+[3] type.googleapis.com/swiggy.gandalf.widgets.v2.PathwaysInfoCard (lines=2)
+  type.googleapis.com/swiggy.gandalf.widgets.v2.PathwaysInfoCard. r
+
+[4] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=22)
+  images: aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/2af320f3-a335-4fdd-b7d9-5797e271515b_AllInactive.png._MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/269bd2ed-930e-458c-b5e8-a86451e209e7_AllActive.png, _MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/05343224-480f-420a-af8b-ad7534aa7dd7_AllActive.png2aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/f3abfd3d-0d7d-40ce-9a79-56788ef364e3_AllInactive.png, _MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/269bd2ed-930e-458c-b5e8-a86451e209e7_AllActive.png..Je, aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/2af320f3-a335-4fdd-b7d9-5797e271515b_AllInactive.png..Z., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/26/c5549f85-837a-4079-a903-04c2ebe761af_hometop.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .All.aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/2af320f3-a335-4fdd-b7d9-5797e271515b_AllInactive.png._MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/269bd2ed-930e-458c-b5e8-a86451e209e7_AllActive.png . _MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/05343224-480f-420a-af8b-ad7534aa7dd7_AllActive.png2aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/f3abfd3d-0d7d-40ce-9a79-56788ef364e3_AllInactive.png
+  .#FEF6FD..#FEF6FD..#810A7E .#810A7EBc
+
+[5] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=23)
+  images: gMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/84172049-615d-4fc4-a81a-cd25f525c410_MaxxsaverInactive.png.eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/1ee5f3b0-fd53-4e59-a96b-5d0b325655d0_MaxxsaverActive.png, eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/9470125c-d1bc-4eee-86a7-18b2bdbe0933_MaxxsaverActive.png2gMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/6c197506-3d35-4a91-acf8-1e1245c63dda_MaxxsaverInactive.png, eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/1ee5f3b0-fd53-4e59-a96b-5d0b325655d0_MaxxsaverActive.png..Jk, gMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/84172049-615d-4fc4-a81a-cd25f525c410_MaxxsaverInactive.png..Z.
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway.í.
+  Maxxsaver.gMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/84172049-615d-4fc4-a81a-cd25f525c410_MaxxsaverInactive.png.eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/1ee5f3b0-fd53-4e59-a96b-5d0b325655d0_MaxxsaverActive.png . eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/9470125c-d1bc-4eee-86a7-18b2bdbe0933_MaxxsaverActive.png2gMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/6c197506-3d35-4a91-acf8-1e1245c63dda_MaxxsaverInactive.png
+  .#D1FADD..#D1FADD..#0F6116 .#02B94CBi
+
+[6] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=22)
+  images: aMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/e2554425-f06f-4572-9a58-0f877cabea24_inactievram.png., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/bf44ee58-08c0-47db-b701-101b94212aab_Trishul1.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/bf44ee58-08c0-47db-b701-101b94212aab_Trishul1.png2aMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/e2554425-f06f-4572-9a58-0f877cabea24_inactievram.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/bf44ee58-08c0-47db-b701-101b94212aab_Trishul1.png..Je, aMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/e2554425-f06f-4572-9a58-0f877cabea24_inactievram.png..Z.
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Ramzan.aMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/e2554425-f06f-4572-9a58-0f877cabea24_inactievram.png. MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/bf44ee58-08c0-47db-b701-101b94212aab_Trishul1.png . MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/bf44ee58-08c0-47db-b701-101b94212aab_Trishul1.png2aMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/e2554425-f06f-4572-9a58-0f877cabea24_inactievram.png
+  .#FEF6FD..#FEF6FD..#032159 .#032159Bb
+
+[7] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=22)
+  images: cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/037ab55b-4b03-4a4b-9e6e-4e124c5435eb_FreshInactive.png.aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/541ce408-31db-43f3-a5e4-aef6e12b83d2_FreshActive.png, aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/d63a1533-ad06-43f6-9897-6b91ff061965_FreshActive.png2cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/7d2f55cc-f265-42a4-aa6a-fb273e15ae31_FreshInactive.png, aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/541ce408-31db-43f3-a5e4-aef6e12b83d2_FreshActive.png..Jg, cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/037ab55b-4b03-4a4b-9e6e-4e124c5435eb_FreshInactive.png..Z., fMERCHANDISING_BANNERS/IMAGES/MERCH/2026/3/5/66319553-55c1-4046-8a1f-cdaf7bbad946_THEMETOP360X22638.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Fresh.cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/037ab55b-4b03-4a4b-9e6e-4e124c5435eb_FreshInactive.png.aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/541ce408-31db-43f3-a5e4-aef6e12b83d2_FreshActive.png . aMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/d63a1533-ad06-43f6-9897-6b91ff061965_FreshActive.png2cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/7d2f55cc-f265-42a4-aa6a-fb273e15ae31_FreshInactive.png
+  .#9F1010..#9F1010..#FFD3D3 .#FFD3D3Be
+
+[8] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=20)
+  images: mMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/62de3803-144e-48f3-bf10-73e66e697542_IconSummerstateInactive.png.kMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/e9ce7217-e945-4903-b953-a08ceb97178e_IconSummerstateActive.png, kMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/97afdb3f-07c3-4a9b-a72a-b211230cd347_IconSummerstateActive.png2mMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/9a941c68-cb6c-43c7-abf2-651fc6a498a3_IconSummerstateInactive.png, kMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/e9ce7217-e945-4903-b953-a08ceb97178e_IconSummerstateActive.png..Jq, mMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/62de3803-144e-48f3-bf10-73e66e697542_IconSummerstateInactive.png...., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/3cfd4c60-af87-4373-b8c2-0430f6691e75_hometop.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Summer.mMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/62de3803-144e-48f3-bf10-73e66e697542_IconSummerstateInactive.png.kMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/e9ce7217-e945-4903-b953-a08ceb97178e_IconSummerstateActive.png . kMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/97afdb3f-07c3-4a9b-a72a-b211230cd347_IconSummerstateActive.png2mMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/24/9a941c68-cb6c-43c7-abf2-651fc6a498a3_IconSummerstateInactive.png
+  .#FFFFFF..#FED1BA..#FD5A09 .#FD5A09Bo
+
+[9] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=24)
+  images: eMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/23/4d6b614b-c94d-4516-93bb-2dba86ae2fe2_Examsssinactive.png.dMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/18/d9b97376-be7a-4a36-8dc4-d7a382a0b809_exammsssactive.png, dMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/18/afceb5a1-cf11-437d-9446-55f65a463326_exammsssactive.png2eMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/23/4d6b614b-c94d-4516-93bb-2dba86ae2fe2_Examsssinactive.png, dMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/18/d9b97376-be7a-4a36-8dc4-d7a382a0b809_exammsssactive.png..Ji, eMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/23/4d6b614b-c94d-4516-93bb-2dba86ae2fe2_Examsssinactive.png..Z., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/11/b7090c81-b75b-4706-a216-08b264c8c0e1_hometop5.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  Exam Ready.eMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/23/4d6b614b-c94d-4516-93bb-2dba86ae2fe2_Examsssinactive.png.dMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/18/d9b97376-be7a-4a36-8dc4-d7a382a0b809_exammsssactive.png . dMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/18/afceb5a1-cf11-437d-9446-55f65a463326_exammsssactive.png2eMERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/23/4d6b614b-c94d-4516-93bb-2dba86ae2fe2_Examsssinactive.png
+  .#22415F..#46698A..#A3D0F9 .#A3D0F9Bh
+
+[10] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=23)
+  images: MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/0d35c8dd-c213-4714-8106-5b90cae18173_bbc4a3c288984e4dadf99c53aea8e11bGadgetsInactivepng.png., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/cd459fd8-fe17-427d-87f6-f81efd75e75f_d6f79707d2e84504b421b2ad3ccdcd55GadgetsActive.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/9980bcfb-c7b5-49d4-9280-99a438ef4e49_d6f79707d2e84504b421b2ad3ccdcd55GadgetsActive.png2, MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/6092dd68-8368-4181-9346-e676fed1c5eb_bbc4a3c288984e4dadf99c53aea8e11bGadgetsInactivepng.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/cd459fd8-fe17-427d-87f6-f81efd75e75f_d6f79707d2e84504b421b2ad3ccdcd55GadgetsActive.png..J
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway.
+  .Electronics. .MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/0d35c8dd-c213-4714-8106-5b90cae18173_bbc4a3c288984e4dadf99c53aea8e11bGadgetsInactivepng.png. .MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/cd459fd8-fe17-427d-87f6-f81efd75e75f_d6f79707d2e84504b421b2ad3ccdcd55GadgetsActive.png . .MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/9980bcfb-c7b5-49d4-9280-99a438ef4e49_d6f79707d2e84504b421b2ad3ccdcd55GadgetsActive.png2 .MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/25/6092dd68-8368-4181-9346-e676fed1c5eb_bbc4a3c288984e4dadf99c53aea8e11bGadgetsInactivepng.png
+  .#EEEEF0..#EEEEF0..#282940 .#282940B .
+
+[11] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=22)
+  images: eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/a4eb3aa6-4bde-45e5-a4a7-62d1d210dcbe_FashionInactive.png.cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e793197b-6af1-4485-8084-18d7f2c54421_FashionActive.png, cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/dc608b81-975f-4184-b2a4-fe461fbae47a_FashionActive.png2eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/ad77ad9f-1ac2-40eb-89ce-6f6c97a31478_FashionInactive.png, cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e793197b-6af1-4485-8084-18d7f2c54421_FashionActive.png..Ji, eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/a4eb3aa6-4bde-45e5-a4a7-62d1d210dcbe_FashionInactive.png..Z., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/26/b621a507-0812-4989-ae3a-bec530311134_hometop.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Fashion.eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/a4eb3aa6-4bde-45e5-a4a7-62d1d210dcbe_FashionInactive.png.cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e793197b-6af1-4485-8084-18d7f2c54421_FashionActive.png . cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/dc608b81-975f-4184-b2a4-fe461fbae47a_FashionActive.png2eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/ad77ad9f-1ac2-40eb-89ce-6f6c97a31478_FashionInactive.png
+  .#FEF6FD..#FEF6FD..#810A7E .#810A7EBg
+
+[12] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=23)
+  images: bMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/734d3035-63fc-4dca-ac67-928ff524b18e_HomeInactive.png., MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/6b04442d-3c13-4ddc-9f34-7ba192809216_HomeActive.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/feb01e00-0f1c-4ec0-b527-3fd369c61c75_HomeActive.png2bMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/3739235b-b392-405a-955c-82ab7637d276_HomeInactive.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/6b04442d-3c13-4ddc-9f34-7ba192809216_HomeActive.png..Jf, bMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/734d3035-63fc-4dca-ac67-928ff524b18e_HomeInactive.png..Z.
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Home.bMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/734d3035-63fc-4dca-ac67-928ff524b18e_HomeInactive.png. MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/6b04442d-3c13-4ddc-9f34-7ba192809216_HomeActive.png . MERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/feb01e00-0f1c-4ec0-b527-3fd369c61c75_HomeActive.png2bMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/3739235b-b392-405a-955c-82ab7637d276_HomeInactive.png
+  .#FEF6FD..#FEF6FD..#810A7E .#810A7EBd
+
+[13] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=20)
+  images: eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/caadbe08-065a-486d-a4dd-3668c606c2df_BeautyInactive1.png.cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e63895e0-7818-4207-aa40-a633624a9181_BeautyActive1.png, cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e63895e0-7818-4207-aa40-a633624a9181_BeautyActive1.png2eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/caadbe08-065a-486d-a4dd-3668c606c2df_BeautyInactive1.png, cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e63895e0-7818-4207-aa40-a633624a9181_BeautyActive1.png..Ji, eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/caadbe08-065a-486d-a4dd-3668c606c2df_BeautyInactive1.png...., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/26/73f54a2a-df75-48e6-b7a6-13221341ff3c_hometop.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Beauty.eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/caadbe08-065a-486d-a4dd-3668c606c2df_BeautyInactive1.png.cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e63895e0-7818-4207-aa40-a633624a9181_BeautyActive1.png . cMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/e63895e0-7818-4207-aa40-a633624a9181_BeautyActive1.png2eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/caadbe08-065a-486d-a4dd-3668c606c2df_BeautyInactive1.png
+  .#FEF6FD..#FEF6FD..#810A7E .#810A7EBg
+
+[14] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=23)
+  images: bMERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/d8e1c152-1794-4709-9252-7f29bc24da75_KidsInactive.png., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/3ace01ca-d0fe-451c-84f8-6a61b2350150_KidsActive.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/f4eeec88-5f1e-42ad-88f3-c4f4a430bbfb_KidsActive.png2bMERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/d634b49a-05ac-4a9b-ad01-98b401713fd1_KidsInactive.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/3ace01ca-d0fe-451c-84f8-6a61b2350150_KidsActive.png..Jf, bMERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/d8e1c152-1794-4709-9252-7f29bc24da75_KidsInactive.png..Z.
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Kids.bMERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/d8e1c152-1794-4709-9252-7f29bc24da75_KidsInactive.png. MERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/3ace01ca-d0fe-451c-84f8-6a61b2350150_KidsActive.png . MERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/f4eeec88-5f1e-42ad-88f3-c4f4a430bbfb_KidsActive.png2bMERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/13/d634b49a-05ac-4a9b-ad01-98b401713fd1_KidsInactive.png
+  .#FEF6FD..#FEF6FD..#810A7E .#810A7EBd
+
+[15] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=22)
+  images: fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/b002f822-851b-4607-85cc-1e6feb0f7d2f_GroceryInactive1.png.dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/4b72ce4e-f8bb-400e-873b-310f2457566c_GroceryActive1.png, dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/d77eda69-5f95-4e3e-9d5e-0dc8ba0201a3_GroceryActive1.png2fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/9bf8c136-809d-483b-ab19-db84c7c246b9_GroceryInactive1.png, dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/4b72ce4e-f8bb-400e-873b-310f2457566c_GroceryActive1.png..Jj, fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/b002f822-851b-4607-85cc-1e6feb0f7d2f_GroceryInactive1.png..Z., MERCHANDISING_BANNERS/IMAGES/MERCH/2026/2/26/e74bdf09-756e-43dc-9646-b66ebb785a0c_hometop.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Grocery.fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/b002f822-851b-4607-85cc-1e6feb0f7d2f_GroceryInactive1.png.dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/4b72ce4e-f8bb-400e-873b-310f2457566c_GroceryActive1.png . dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/d77eda69-5f95-4e3e-9d5e-0dc8ba0201a3_GroceryActive1.png2fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/8/21/9bf8c136-809d-483b-ab19-db84c7c246b9_GroceryInactive1.png
+  .#FEF6FD..#FEF6FD..#810A7E .#810A7EBh
+
+[16] type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway (lines=26)
+  images: fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/a92e307f-26d9-423e-b672-95496d129856_Wedding2Inactive.png.dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/2676e511-ee13-41bb-9d79-2f5472fa5dab_Wedding2Active.png, dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/70691843-ff41-48b4-8aa8-bdca76587cc9_Wedding2Active.png2fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/84d69e5b-29a3-456c-b3c7-1cd144cbf274_Wedding2Inactive.png, dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/2676e511-ee13-41bb-9d79-2f5472fa5dab_Wedding2Active.png..Jj, fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/a92e307f-26d9-423e-b672-95496d129856_Wedding2Inactive.png..Z., eMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/5/fef7302b-2331-4b96-9b32-9344aa0c2107_Themetop360x226.png
+  5type.googleapis.com/swiggy.gandalf.widgets.v2.Pathway. .
+  .Wedding.fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/a92e307f-26d9-423e-b672-95496d129856_Wedding2Inactive.png.dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/2676e511-ee13-41bb-9d79-2f5472fa5dab_Wedding2Active.png . dMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/70691843-ff41-48b4-8aa8-bdca76587cc9_Wedding2Active.png2fMERCHANDISING_BANNERS/IMAGES/MERCH/2025/11/8/84d69e5b-29a3-456c-b3c7-1cd144cbf274_Wedding2Inactive.png
+  .#FEF6FD..#FEF6FD..#910E0E .#910E0EBh
+
+[17] type.googleapis.com/swiggy.gandalf.widgets.v2.ReminderWidget (lines=10)
+  images: MERCHANDISING_BANNERS/IMAGES/MERCH/2025/7/8/72b9a937-5bab-4d17-b2c8-769bde22ca61_image111.png8., ZMERCHANDISING_BANNERS/IMAGES/MERCH/2025/7/8/3f9dd6f2-715a-4b06-924c-a315d7be3c4e_image.png.
+  type.googleapis.com/swiggy.gandalf.widgets.v2.ReminderWidget.û.
+  ENGAGEMENT_ENTITY_TYPE_IM_EXPIRY_CASHBACK..NxM_EXPIRY_CASH_BANNER..#EEF6FF e
+  . 100 FREE cash just for you .-On your first order above 249. T C applied. #EB02060C #EB02060C2 MERCHANDISING_BANNERS/IMAGES/MERCH/2025/7/8/72b9a937-5bab-4d17-b2c8-769bde22ca61_image111.png8. ØÔѝ.P.Z.135106b
+
+[18] type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget (lines=5)
+  8type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget. .. ......5.. AB.
+  .Z...z.
+  #00FFFFFF.. .241707 ¹.
+
+[19] type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard (lines=16)
+  images: oMERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/8/0951a483-2f08-495b-95e1-7acee211b5d8_27LowestpricesacrossRajkot.png.
+  Atype.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard.ð.
+  .7903065.oMERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/8/0951a483-2f08-495b-95e1-7acee211b5d8_27LowestpricesacrossRajkot.png.
+  Pswiggy //stores/instamart/collection-listing storeId 1395731 collectionId 326096..DEEPLINK .BANNER2d
+
+[20] type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget (lines=11)
+  8type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget.ÏÒ.
+  .. A... A... A%... .D......-.. 5.. AB.
+  .. A... A... A%.. Az.
+
+[21] type.googleapis.com/swiggy.im.v1.ItemCollectionCard (lines=528)
+  images: _NI_CATALOG/IMAGES/ciw/2026/2/18/f3ab6a01-363c-4d15-b135-c814e2ac9da2_IGKK4DZ4DR_MN_18022026.png2ONI_CATALOG/IMAGES/CIW/2025/8/7/bd971ab8-e1eb-48bb-9196-d2e093e401b4_10062_2.png2ONI_CATALOG/IMAGES/CIW/2025/8/7/debee632-ee97-4cac-b2e1-4e1bf65bf1d3_10062_3.png8.JN, _NI_CATALOG/IMAGES/ciw/2026/2/18/f3ab6a01-363c-4d15-b135-c814e2ac9da2_IGKK4DZ4DR_MN_18022026.png.., ONI_CATALOG/IMAGES/CIW/2025/8/7/bd971ab8-e1eb-48bb-9196-d2e093e401b4_10062_2.png.., ONI_CATALOG/IMAGES/CIW/2025/8/7/debee632-ee97-4cac-b2e1-4e1bf65bf1d3_10062_3.png.., NI_CATALOG/IMAGES/ciw/2025/12/18/71ff74e8-59aa-49a8-8bb0-147ee025a247_ALDBDE0VUV_MN_18122025.png2ONI_CATALOG/IMAGES/CIW/2025/9/20/530e1b95-24c1-40b8-843b-909dbc997094_1861_2.png8.Je
+  prices(INR): 1
+  discounts: 35, 29, 30, 15, 6, 20, 17, 22, 2, 5, 31, 32, 10
+  3type.googleapis.com/swiggy.im.v1.ItemCollectionCard.ÑÎ....ï
+  #Gulab Double Filtered Groundnut Oil..Gulab.. . Â.
+  97NGZM03IX.
+
+[22] type.googleapis.com/swiggy.gandalf.widgets.v2.BackgroundLayoutWidget (lines=5)
+  Dtype.googleapis.com/swiggy.gandalf.widgets.v2.BackgroundLayoutWidget.
+  . .2417222.2417072.242859 .top... .
+
+[23] type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget (lines=13)
+  8type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget.Ά.
+  Hot deals.f
+  Qswiggy //stores/instamart/collection-listing collectionId 162529 custom_back true..See All..DEEPLINK I
+
+[24] type.googleapis.com/swiggy.im.v1.ItemCollectionCard (lines=687)
+  images: _NI_CATALOG/IMAGES/ciw/2026/2/18/87f9de28-d102-41b8-be2e-07cd964e33b0_UZFNN640MR_MN_18022026.png2ONI_CATALOG/IMAGES/CIW/2025/8/7/19afbeff-885f-4629-9c00-bab8ab9c97f3_11028_2.png2ONI_CATALOG/IMAGES/CIW/2025/8/7/37c1baca-ebac-4b94-ba98-d1f943227090_11028_3.png8., _NI_CATALOG/IMAGES/ciw/2026/2/18/87f9de28-d102-41b8-be2e-07cd964e33b0_UZFNN640MR_MN_18022026.png.., ONI_CATALOG/IMAGES/CIW/2025/8/7/19afbeff-885f-4629-9c00-bab8ab9c97f3_11028_2.png.., ONI_CATALOG/IMAGES/CIW/2025/8/7/37c1baca-ebac-4b94-ba98-d1f943227090_11028_3.png.., ONI_CATALOG/IMAGES/CIW/2025/8/7/640932c6-cef9-4e11-8096-4a28a9d1478d_10068_1.png2ONI_CATALOG/IMAGES/CIW/2025/8/7/e49ca1cc-512e-4ac8-b6ec-2493c74d422b_10068_2.png2ONI_CATALOG/IMAGES/CIW/2025/8/7/25f17c1b-fd79-49b5-9bc5-b4030752385e_10068_3.pngJL
+  prices(INR): 2, 6, 7, 4
+  discounts: 31, 1, 22, 29, 33, 50, 48, 25, 15, 38, 54, 30, 6, 35, 32, 41, 7, 13, 5, 8, 98
+  3type.googleapis.com/swiggy.im.v1.ItemCollectionCard. .. .Ê.
+  .Gulab Refined Cotton Seed Oil..Gulab.. . º.
+  640YPK0N16.
+
+[25] type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget (lines=12)
+  8type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget.ø .
+  .Daily Farm Fresh.f
+  Qswiggy //stores/instamart/collection-listing collectionId 305251 custom_back true..See All..DEEPLINK I
+
+[26] type.googleapis.com/swiggy.im.v1.ItemCollectionCard (lines=491)
+  images: PNI_CATALOG/IMAGES/CIW/2024/11/29/d5d7ccb9-05a8-42b9-a1bc-1a552bbabd2c_666976.jpg8.JL, PNI_CATALOG/IMAGES/CIW/2024/11/29/d5d7ccb9-05a8-42b9-a1bc-1a552bbabd2c_666976.jpg.., NI_CATALOG/IMAGES/ciw/2025/12/19/6759f1d6-de42-44b2-b8d3-b86ada923521_IK4WWTVO85_MN_18122025.png2, NI_CATALOG/IMAGES/ciw/2025/12/19/6759f1d6-de42-44b2-b8d3-b86ada923521_IK4WWTVO85_MN_18122025.png.., NI_CATALOG/IMAGES/ciw/2025/12/18/bcd1e5fe-962c-41ce-9c89-8c1d87d9d330_S93R47GF8D_MN_18122025.png2
+  prices(INR): 7, 1
+  discounts: 17, 20, 41, 42, 54, 38, 40, 33, 19, 32, 21
+  3type.googleapis.com/swiggy.im.v1.ItemCollectionCard.à .. . .
+  .Ginger..Fruits and Vegetables.. . .
+  UHCG4FHN0T.
+
+[27] type.googleapis.com/swiggy.im.v1.PageConfigs (lines=8)
+  type.googleapis.com/swiggy.im.v1.PageConfigs.Ü.
+  .SERVICEABLE..FAST_SERVICEABLE.û
+  .1395731...È...p.G..PÃG ..È... jF Y
+
+[28] type.googleapis.com/swiggy.im.v1.ToolBar (lines=7)
+  type.googleapis.com/swiggy.im.v1.ToolBar.2
+  .4..Mins..#0050FF .color_background_primary85 QJÈ.
+  FOOTER_LAYOUT. .
+
+[29] type.googleapis.com/swiggy.gandalf.widgets.v2.BottomBar (lines=31)
+  7type.googleapis.com/swiggy.gandalf.widgets.v2.BottomBar.ô.
+  ä.....Home .text_highest_emphasis .text_color_low_emphasisJ.
+  swiggy //home..DEEPLINKz.
+
+[30] type.googleapis.com/swiggy.gandalf.widgets.v2.PopUpWidget (lines=4)
+  images: MERCHANDISING_BANNERS/IMAGES/MERCH/2026/3/5/8caa4568-0761-437c-b6ca-3b93f14b0eba_116Rajkot.pngRk
+  9type.googleapis.com/swiggy.gandalf.widgets.v2.PopUpWidget.ú... . . B MERCHANDISING_BANNERS/IMAGES/MERCH/2026/3/5/8caa4568-0761-437c-b6ca-3b93f14b0eba_116Rajkot.pngRk
+  Uswiggy //stores/instamart/campaign-collection/listing custom_back true layoutId 26441..Shop now..DEEPLINKX.b.8456212j.BANNERx . ......VIEW
+
+[31] type.googleapis.com/swiggy.gandalf.widgets.v2.PopUpWidget (lines=2)
+  images: MERCHANDISING_BANNERS/IMAGES/MERCH/2024/11/22/a514af9e-814e-43e9-b8ac-67d138c76344_Circle6x.png, MERCHANDISING_BANNERS/IMAGES/MERCH/2024/11/22/74aaf577-b205-4547-aa37-969c325116ac_BG.png
+  9type.googleapis.com/swiggy.gandalf.widgets.v2.PopUpWidget.ÿ... . . B5https //webviews.swiggy.com/moments-iw/cashexpiryflowX.b 7488aadc-999a-4f51-a40b-221f8a1b3a26j.BANNERx . .ú.
+  .webViewData.â. headingText 100 FREE cash just for you subHeading Claim on your first order above 249. T u0026C applied creativeId MERCHANDISING_BANNERS/IMAGES/MERCH/2024/11/22/a514af9e-814e-43e9-b8ac-67d138c76344_Circle6x.png backgroundImage MERCHANDISING_BANNERS/IMAGES/MERCH/2024/11/22/74aaf577-b205-4547-aa37-969c325116ac_BG.png expiry icon swiggy-unboxing/production/pbb/stopwatch.svg timeStamp 1774981741 cta text Shop and Save 100 Instantly deeplink swiggy //stores/instamart analytics screenName store-menu-instamart context impressionObjectName impression-free-cash-halfcard clickObjectName click-free-cash-halfcard extraFields bannerId 5672056 storeId 1231052 ..STRING ......VIEW

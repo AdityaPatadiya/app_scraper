@@ -1,0 +1,24 @@
+curl "https://www.bigbasket.com/pd-svc/v1/visitor/gql/" \
+  -X POST \
+  -H "User-Agent: BB Android/v6.1.0/os 13" \
+  -H "X-channel: BB-Android" \
+  -H "x-csurftoken: SJCHPQ.MTE1MTY5ODE1NDU1MjY0ODE3NA==.1772713759694.usbq+rdC9XXMx9H9SPJOt2ut4zoPQ0QpLSyuZwQg4b0=" \
+  -H "Content-Type: application/json" \
+  -H "Accept: */*" \
+  -H "Accept-Encoding: gzip" \
+  -H "X-NewRelic-ID: XAUAUlZXGwUGVVdRBwA=" \
+  -H "Cookie: _bb_source=\"app\"; _bb_vid=\"MTE1MTczMjcyMjA3OTcwMTIzMA==\"; _bb_aid=\"Mjk2NTE4NTMwNA==\"; _bb_cid=\"1\"; _bb_dsevid=\"1722\"; _bb_loid=\"301\"; _bb_cda_sa_info=\"djIuY2RhX3NhLjEwMC4xNjkzNSwyNDU0NA==\"; _bb_home_cache=\"eab78a0c.1.visitor\"; is_global=\"0\"; _bb_lat_long=\"MTIuOTQyMjMwNHw3Ny41NzQ4Mzc2\"; _bb_nhid=\"7427\"; _bb_sa_ids=\"16935,24544\"; is_subscribe_sa=\"0\"; _is_tobacco_enabled=\"0\"; _is_bb1.0_supported=\"1\";" \
+  --data-raw '{
+    "query":"query ProductQuery($id: Int64!) { product(id: $id) { base_img_url ...productFields children { ...productFields } } } fragment productFields on Product { id desc pack_desc w absolute_url cart_count availability { avail_status short_eta medium_eta long_eta label display_mrp display_sp not_for_sale button show_express } images { s l ml m xl xxl } variable_weight { msg link } brand { name slug url } additional_attr { bby_lod info { id type image_url sub_type label position } } tabs { content title } tags { header values { display_name dest_type dest_slug url } } combo { destination { display_name dest_type dest_slug url dest_ids } total_saving_msg items { id brand sp mrp d_text d_avail link img_url qty wgt p_desc } total_sp total_mrp } category { tlc_name tlc_slug llc_slug llc_name llc_id } rating_info { avg_rating rating_count review_count sku_id } breadcrumb { id name slug type url } aplus_url pricing { discount { mrp d_text d_avail prim_price { sp icon { base_url image format } desc } sec_price { sp icon { base_url image format } desc background } offer_entry_text offer_available } promo { desc desc_label type label saving savings_display id url name } } }",
+    "variables": {
+      "id": 294222
+    },
+    "list_type": "pd"
+  }' \
+  --compressed \
+  -v --output response_1.json
+
+
+vid = MTE0OTg4MzYyMTEzMTAxMzg3MA==
+aid = MjkxMzA4NDUzMA==
+

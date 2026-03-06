@@ -1,0 +1,24 @@
+Source: Instamart/product
+Format: protobuf_binary_decode_raw
+Summary: {"line_count": 340, "type_url_count": 7, "image_count": 11, "uuid_count": 2, "color_count": 4, "price_block_count": 3}
+
+Price Block 1
+  MRP: ₹100
+  Selling Price: ₹85
+  Savings: ₹15
+  Discount: 15% OFF
+  Unit Price: 63/100 ml
+
+Price Block 2
+  MRP: ₹100
+  Selling Price: ₹85
+  Savings: ₹15
+  Discount: 15% OFF
+  Unit Price: 63/100 ml
+
+Price Block 3
+  MRP: ₹200
+  Selling Price: ₹170
+  Savings: ₹30
+  Discount: 15% OFF
+  Unit Price: 63/100 ml

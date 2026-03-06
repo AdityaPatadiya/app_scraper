@@ -1,0 +1,3117 @@
+{
+  "source_file": "response_7",
+  "status": "ok",
+  "decoded_meta": {
+    "format": "protobuf_binary_decode_raw",
+    "summary": {
+      "line_count": 389,
+      "type_url_count": 7,
+      "image_count": 6,
+      "uuid_count": 2,
+      "color_count": 4,
+      "price_block_count": 4,
+      "root_field_count": 4
+    },
+    "type_urls": [
+      "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+      "type.googleapis.com/swiggy.im.v1.ActionCard",
+      "type.googleapis.com/swiggy.im.v1.InfoCard",
+      "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+      "type.googleapis.com/swiggy.im.v1.MarkerCard",
+      "type.googleapis.com/swiggy.im.v1.PageConfigs",
+      "type.googleapis.com/swiggy.im.v1.TabularCard"
+    ]
+  },
+  "current_product": {
+    "name": "Baskin Robbins Hazelnut Ice Cream Cone",
+    "brand": "Baskin Robbins",
+    "item_id": "28QC6IC2PU",
+    "spin_id": "SA3N9FJW7H",
+    "quantity": "110 ml x 6",
+    "description": null,
+    "category": "Ice Cream and Indian Sweets",
+    "pod_id": "1395731",
+    "max_order_limit_units": null,
+    "price": {
+      "currency": "INR",
+      "mrp": 540,
+      "selling_price": 486,
+      "savings": 54,
+      "discount_text": "10% OFF",
+      "unit_price_text": "73.6/100 ml",
+      "raw_inr_values": [
+        540,
+        486,
+        54
+      ]
+    },
+    "rating": {
+      "rating": 3.8,
+      "rating_count_text": "4.3k",
+      "rating_count_estimate": 4300
+    },
+    "delivery": {
+      "delivery_time_value": 5,
+      "delivery_time_unit": "MINS"
+    },
+    "image_ids": [
+      "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+      "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+      "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+      "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+    ],
+    "raw_fields": {
+      "product_node": {
+        "1": [
+          "Baskin Robbins Hazelnut Ice Cream Cone"
+        ],
+        "2": [
+          "Baskin Robbins"
+        ],
+        "3": [
+          1
+        ],
+        "4": [
+          1
+        ],
+        "5": [
+          {
+            "1": [
+              "28QC6IC2PU"
+            ],
+            "2": [
+              "SA3N9FJW7H"
+            ],
+            "3": [
+              "110 ml x 6"
+            ],
+            "4": [
+              "Baskin Robbins Hazelnut Ice Cream Cone"
+            ],
+            "5": [
+              "Baskin Robbins"
+            ],
+            "6": [
+              "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+            ],
+            "9": [
+              "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+            ],
+            "10": [
+              "Ice Creams"
+            ],
+            "11": [
+              "\b\u0016\u0010\u000b\u0018\u0014 è%"
+            ],
+            "12": [
+              "\b\u0001"
+            ],
+            "13": [
+              "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+            ],
+            "14": [
+              "\b\u0001"
+            ],
+            "15": [
+              720
+            ],
+            "19": [
+              "1395731"
+            ],
+            "25": [
+              "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+              "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+            ],
+            "27": [
+              "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+            ],
+            "28": [
+              "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+            ],
+            "35": [
+              "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+            ],
+            "36": [
+              "Ice Cream and Indian Sweets"
+            ]
+          },
+          {
+            "1": [
+              "I8M61SXOF2"
+            ],
+            "2": [
+              "D0736TG2KU"
+            ],
+            "3": [
+              "110 ml x 3"
+            ],
+            "4": [
+              "Baskin Robbins Hazelnut Ice Cream Cone"
+            ],
+            "5": [
+              "Baskin Robbins"
+            ],
+            "6": [
+              "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+            ],
+            "9": [
+              "\n\b\n\u0003INR\u0010\u0002\u0012\b\n\u0003INR\u0010ó\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u001b*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+            ],
+            "10": [
+              "Ice Creams"
+            ],
+            "11": [
+              "\b\u0016\u0010\u000b\u0018\u0014 è%"
+            ],
+            "12": [
+              "\b\u0001"
+            ],
+            "13": [
+              "\b\u0002\u0012,Thatâs all we have in stock at the moment!"
+            ],
+            "14": [
+              "\b\u0001"
+            ],
+            "15": [
+              360
+            ],
+            "19": [
+              "1395731"
+            ],
+            "25": [
+              "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+              "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+            ],
+            "27": [
+              "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+            ],
+            "28": [
+              "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+            ],
+            "35": [
+              "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+            ],
+            "36": [
+              "Ice Cream and Indian Sweets"
+            ]
+          },
+          {
+            "1": [
+              "T00V65G1BY"
+            ],
+            "2": [
+              "CH573F34AL"
+            ],
+            "3": [
+              "110 ml x 2"
+            ],
+            "4": [
+              "Baskin Robbins Hazelnut Ice Cream Cone"
+            ],
+            "5": [
+              "Baskin Robbins"
+            ],
+            "6": [
+              "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+            ],
+            "9": [
+              "\n\b\n\u0003INR\u0010´\u0001\u0012\b\n\u0003INR\u0010¢\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u0012*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+            ],
+            "10": [
+              "Ice Creams"
+            ],
+            "11": [
+              "\bð\u0001\u0010\u0001\u0018\u0001 ð\u0001"
+            ],
+            "12": [
+              "\b\u0001"
+            ],
+            "13": [
+              "\b\u0003\u0012,Thatâs all we have in stock at the moment!"
+            ],
+            "14": [
+              "\b\u0001"
+            ],
+            "15": [
+              240
+            ],
+            "19": [
+              "1395731"
+            ],
+            "21": [
+              "Baskin Robbins Hazelnut Rocher Ice Cream Cone"
+            ],
+            "25": [
+              "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+              "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+            ],
+            "27": [
+              "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+            ],
+            "28": [
+              "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+            ],
+            "35": [
+              "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+            ],
+            "36": [
+              "Ice Cream and Indian Sweets"
+            ]
+          },
+          {
+            "1": [
+              "H0FJOZAGI9"
+            ],
+            "2": [
+              "ZHMZINHV7K"
+            ],
+            "3": [
+              "110 ml"
+            ],
+            "4": [
+              "Baskin Robbins Hazelnut Ice Cream Cone"
+            ],
+            "5": [
+              "Baskin Robbins"
+            ],
+            "6": [
+              "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+            ],
+            "7": [
+              1
+            ],
+            "9": [
+              "\n\u0007\n\u0003INR\u0010Z\u0012\u0007\n\u0003INR\u0010Q\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\t*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+            ],
+            "10": [
+              "Ice Creams"
+            ],
+            "11": [
+              "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+            ],
+            "12": [
+              "\b\u0001"
+            ],
+            "13": [
+              "\b\u0006\u00123Only 6 unit(s) of this item can be added per order."
+            ],
+            "14": [
+              "\b\u0001"
+            ],
+            "15": [
+              120
+            ],
+            "19": [
+              "1395731"
+            ],
+            "21": [
+              "must try"
+            ],
+            "25": [
+              "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+              "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+            ],
+            "26": [
+              "Hazelnut"
+            ],
+            "27": [
+              "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+            ],
+            "28": [
+              "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+            ],
+            "35": [
+              "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=ZHMZINHV7K&pod_id=1395731&item_type=ITEM_TYPE_PAYMENT_OFFER",
+              "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+            ],
+            "36": [
+              "Ice Cream and Indian Sweets"
+            ]
+          }
+        ],
+        "8": [
+          {
+            "1": [
+              "store-item-view-instamart"
+            ],
+            "2": [
+              "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}"
+            ],
+            "4": [
+              "item-impression"
+            ],
+            "5": [
+              "click-item"
+            ],
+            "7": [
+              "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+              "\n\fskuAvailable\u0012\u0004true",
+              "\n\u0003sla\u0012\u00065 MINS"
+            ]
+          }
+        ],
+        "9": [
+          "1ZAEYJ1BBT"
+        ],
+        "12": [
+          "IHX7TNQ8OG"
+        ]
+      },
+      "details_node": {
+        "1": [
+          "28QC6IC2PU"
+        ],
+        "2": [
+          "SA3N9FJW7H"
+        ],
+        "3": [
+          "110 ml x 6"
+        ],
+        "4": [
+          "Baskin Robbins Hazelnut Ice Cream Cone"
+        ],
+        "5": [
+          "Baskin Robbins"
+        ],
+        "6": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+        ],
+        "9": [
+          "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+        ],
+        "10": [
+          "Ice Creams"
+        ],
+        "11": [
+          "\b\u0016\u0010\u000b\u0018\u0014 è%"
+        ],
+        "12": [
+          "\b\u0001"
+        ],
+        "13": [
+          "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+        ],
+        "14": [
+          "\b\u0001"
+        ],
+        "15": [
+          720
+        ],
+        "19": [
+          "1395731"
+        ],
+        "25": [
+          "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+          "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+          "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+          "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+        ],
+        "27": [
+          "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+        ],
+        "28": [
+          "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+        ],
+        "35": [
+          "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+        ],
+        "36": [
+          "Ice Cream and Indian Sweets"
+        ]
+      }
+    },
+    "event_payloads": [
+      {
+        "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+        "key": "storeIDflag",
+        "value_text": "PRIMARY"
+      },
+      {
+        "raw": "\n\fskuAvailable\u0012\u0004true",
+        "key": "skuAvailable",
+        "value_text": "true"
+      },
+      {
+        "raw": "\n\u0003sla\u0012\u00065 MINS",
+        "key": "sla",
+        "value_text": "5 MINS"
+      }
+    ],
+    "event_metadata": {
+      "event_name": "store-item-view-instamart",
+      "event_context_json": "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}",
+      "impression": "item-impression",
+      "click_event": "click-item"
+    }
+  },
+  "seller_details": {
+    "seller_name": "Swinsta Ent Pvt Ltd - Civil Hospital",
+    "fssai_number": "20240812106333860",
+    "address": "Shop No. G-1, GF, SS Annex, Plot No. B/1 & Plot No. B/2,  Part B, Rajkot, Gujarat, 360001",
+    "customer_care": "instamart.support@swiggy.in",
+    "raw_text": "Seller Name: Swinsta Ent Pvt Ltd - Civil Hospital\nFSSAI Number: 20240812106333860\nAddress: Shop No. G-1, GF, SS Annex, Plot No. B/1 & Plot No. B/2,  Part B, Rajkot, Gujarat, 360001\n\nCustomer Care: instamart.support@swiggy.in"
+  },
+  "description": {
+    "title": "Description",
+    "html": "<ul><li>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</li><li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li><li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li><li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li><li><strong>Returns and Refund Policy:</strong> This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li><li><strong>Returns And Refund Policy:</strong></li><li> This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>",
+    "text": "Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.Smooth and velvety ice cream coated in milk chocolate confectionery.Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.Returns and Refund Policy: This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.Returns And Refund Policy: This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.",
+    "raw_fields": {
+      "1": [
+        "Description"
+      ],
+      "2": [
+        "<ul><li>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</li><li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li><li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li><li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li><li><strong>Returns and Refund Policy:</strong> This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li><li><strong>Returns And Refund Policy:</strong></li><li> This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>"
+      ],
+      "4": [
+        1
+      ]
+    }
+  },
+  "other_information": {
+    "title": "Other Information",
+    "html": "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>",
+    "text": "Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.",
+    "raw_fields": {
+      "1": [
+        "Other Information"
+      ],
+      "2": [
+        "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>"
+      ],
+      "3": [
+        1
+      ],
+      "4": [
+        2
+      ]
+    }
+  },
+  "other_products_count": 0,
+  "other_products": [],
+  "all_data": {
+    "all_products_count": 1,
+    "all_products": [
+      {
+        "name": "Baskin Robbins Hazelnut Ice Cream Cone",
+        "brand": "Baskin Robbins",
+        "item_id": "28QC6IC2PU",
+        "spin_id": "SA3N9FJW7H",
+        "quantity": "110 ml x 6",
+        "description": null,
+        "category": "Ice Cream and Indian Sweets",
+        "pod_id": "1395731",
+        "max_order_limit_units": null,
+        "price": {
+          "currency": "INR",
+          "mrp": 540,
+          "selling_price": 486,
+          "savings": 54,
+          "discount_text": "10% OFF",
+          "unit_price_text": "73.6/100 ml",
+          "raw_inr_values": [
+            540,
+            486,
+            54
+          ]
+        },
+        "rating": {
+          "rating": 3.8,
+          "rating_count_text": "4.3k",
+          "rating_count_estimate": 4300
+        },
+        "delivery": {
+          "delivery_time_value": 5,
+          "delivery_time_unit": "MINS"
+        },
+        "image_ids": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+        ],
+        "raw_fields": {
+          "product_node": {
+            "1": [
+              "Baskin Robbins Hazelnut Ice Cream Cone"
+            ],
+            "2": [
+              "Baskin Robbins"
+            ],
+            "3": [
+              1
+            ],
+            "4": [
+              1
+            ],
+            "5": [
+              {
+                "1": [
+                  "28QC6IC2PU"
+                ],
+                "2": [
+                  "SA3N9FJW7H"
+                ],
+                "3": [
+                  "110 ml x 6"
+                ],
+                "4": [
+                  "Baskin Robbins Hazelnut Ice Cream Cone"
+                ],
+                "5": [
+                  "Baskin Robbins"
+                ],
+                "6": [
+                  "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                ],
+                "9": [
+                  "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                ],
+                "10": [
+                  "Ice Creams"
+                ],
+                "11": [
+                  "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                ],
+                "12": [
+                  "\b\u0001"
+                ],
+                "13": [
+                  "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+                ],
+                "14": [
+                  "\b\u0001"
+                ],
+                "15": [
+                  720
+                ],
+                "19": [
+                  "1395731"
+                ],
+                "25": [
+                  "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                  "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                ],
+                "27": [
+                  "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                ],
+                "28": [
+                  "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                ],
+                "35": [
+                  "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                ],
+                "36": [
+                  "Ice Cream and Indian Sweets"
+                ]
+              },
+              {
+                "1": [
+                  "I8M61SXOF2"
+                ],
+                "2": [
+                  "D0736TG2KU"
+                ],
+                "3": [
+                  "110 ml x 3"
+                ],
+                "4": [
+                  "Baskin Robbins Hazelnut Ice Cream Cone"
+                ],
+                "5": [
+                  "Baskin Robbins"
+                ],
+                "6": [
+                  "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                ],
+                "9": [
+                  "\n\b\n\u0003INR\u0010\u0002\u0012\b\n\u0003INR\u0010ó\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u001b*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                ],
+                "10": [
+                  "Ice Creams"
+                ],
+                "11": [
+                  "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                ],
+                "12": [
+                  "\b\u0001"
+                ],
+                "13": [
+                  "\b\u0002\u0012,Thatâs all we have in stock at the moment!"
+                ],
+                "14": [
+                  "\b\u0001"
+                ],
+                "15": [
+                  360
+                ],
+                "19": [
+                  "1395731"
+                ],
+                "25": [
+                  "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                  "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                ],
+                "27": [
+                  "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                ],
+                "28": [
+                  "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                ],
+                "35": [
+                  "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                ],
+                "36": [
+                  "Ice Cream and Indian Sweets"
+                ]
+              },
+              {
+                "1": [
+                  "T00V65G1BY"
+                ],
+                "2": [
+                  "CH573F34AL"
+                ],
+                "3": [
+                  "110 ml x 2"
+                ],
+                "4": [
+                  "Baskin Robbins Hazelnut Ice Cream Cone"
+                ],
+                "5": [
+                  "Baskin Robbins"
+                ],
+                "6": [
+                  "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                ],
+                "9": [
+                  "\n\b\n\u0003INR\u0010´\u0001\u0012\b\n\u0003INR\u0010¢\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u0012*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                ],
+                "10": [
+                  "Ice Creams"
+                ],
+                "11": [
+                  "\bð\u0001\u0010\u0001\u0018\u0001 ð\u0001"
+                ],
+                "12": [
+                  "\b\u0001"
+                ],
+                "13": [
+                  "\b\u0003\u0012,Thatâs all we have in stock at the moment!"
+                ],
+                "14": [
+                  "\b\u0001"
+                ],
+                "15": [
+                  240
+                ],
+                "19": [
+                  "1395731"
+                ],
+                "21": [
+                  "Baskin Robbins Hazelnut Rocher Ice Cream Cone"
+                ],
+                "25": [
+                  "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                  "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                ],
+                "27": [
+                  "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                ],
+                "28": [
+                  "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                ],
+                "35": [
+                  "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                ],
+                "36": [
+                  "Ice Cream and Indian Sweets"
+                ]
+              },
+              {
+                "1": [
+                  "H0FJOZAGI9"
+                ],
+                "2": [
+                  "ZHMZINHV7K"
+                ],
+                "3": [
+                  "110 ml"
+                ],
+                "4": [
+                  "Baskin Robbins Hazelnut Ice Cream Cone"
+                ],
+                "5": [
+                  "Baskin Robbins"
+                ],
+                "6": [
+                  "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                  "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                ],
+                "7": [
+                  1
+                ],
+                "9": [
+                  "\n\u0007\n\u0003INR\u0010Z\u0012\u0007\n\u0003INR\u0010Q\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\t*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                ],
+                "10": [
+                  "Ice Creams"
+                ],
+                "11": [
+                  "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                ],
+                "12": [
+                  "\b\u0001"
+                ],
+                "13": [
+                  "\b\u0006\u00123Only 6 unit(s) of this item can be added per order."
+                ],
+                "14": [
+                  "\b\u0001"
+                ],
+                "15": [
+                  120
+                ],
+                "19": [
+                  "1395731"
+                ],
+                "21": [
+                  "must try"
+                ],
+                "25": [
+                  "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                  "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                  "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                ],
+                "26": [
+                  "Hazelnut"
+                ],
+                "27": [
+                  "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                ],
+                "28": [
+                  "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                ],
+                "35": [
+                  "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=ZHMZINHV7K&pod_id=1395731&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                  "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                ],
+                "36": [
+                  "Ice Cream and Indian Sweets"
+                ]
+              }
+            ],
+            "8": [
+              {
+                "1": [
+                  "store-item-view-instamart"
+                ],
+                "2": [
+                  "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}"
+                ],
+                "4": [
+                  "item-impression"
+                ],
+                "5": [
+                  "click-item"
+                ],
+                "7": [
+                  "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+                  "\n\fskuAvailable\u0012\u0004true",
+                  "\n\u0003sla\u0012\u00065 MINS"
+                ]
+              }
+            ],
+            "9": [
+              "1ZAEYJ1BBT"
+            ],
+            "12": [
+              "IHX7TNQ8OG"
+            ]
+          },
+          "details_node": {
+            "1": [
+              "28QC6IC2PU"
+            ],
+            "2": [
+              "SA3N9FJW7H"
+            ],
+            "3": [
+              "110 ml x 6"
+            ],
+            "4": [
+              "Baskin Robbins Hazelnut Ice Cream Cone"
+            ],
+            "5": [
+              "Baskin Robbins"
+            ],
+            "6": [
+              "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+              "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+            ],
+            "9": [
+              "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+            ],
+            "10": [
+              "Ice Creams"
+            ],
+            "11": [
+              "\b\u0016\u0010\u000b\u0018\u0014 è%"
+            ],
+            "12": [
+              "\b\u0001"
+            ],
+            "13": [
+              "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+            ],
+            "14": [
+              "\b\u0001"
+            ],
+            "15": [
+              720
+            ],
+            "19": [
+              "1395731"
+            ],
+            "25": [
+              "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+              "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+              "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+            ],
+            "27": [
+              "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+            ],
+            "28": [
+              "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+            ],
+            "35": [
+              "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+            ],
+            "36": [
+              "Ice Cream and Indian Sweets"
+            ]
+          }
+        },
+        "event_payloads": [
+          {
+            "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+            "key": "storeIDflag",
+            "value_text": "PRIMARY"
+          },
+          {
+            "raw": "\n\fskuAvailable\u0012\u0004true",
+            "key": "skuAvailable",
+            "value_text": "true"
+          },
+          {
+            "raw": "\n\u0003sla\u0012\u00065 MINS",
+            "key": "sla",
+            "value_text": "5 MINS"
+          }
+        ],
+        "event_metadata": {
+          "event_name": "store-item-view-instamart",
+          "event_context_json": "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}",
+          "impression": "item-impression",
+          "click_event": "click-item"
+        }
+      }
+    ],
+    "info_cards": [
+      {
+        "title": "Description",
+        "html": "<ul><li>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</li><li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li><li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li><li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li><li><strong>Returns and Refund Policy:</strong> This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li><li><strong>Returns And Refund Policy:</strong></li><li> This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>",
+        "text": "Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.Smooth and velvety ice cream coated in milk chocolate confectionery.Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.Returns and Refund Policy: This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.Returns And Refund Policy: This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.",
+        "raw_fields": {
+          "1": [
+            "Description"
+          ],
+          "2": [
+            "<ul><li>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</li><li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li><li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li><li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li><li><strong>Returns and Refund Policy:</strong> This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li><li><strong>Returns And Refund Policy:</strong></li><li> This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "title": "Ingredients",
+        "html": "<p>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</p>\n<ul>\n<li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li>\n<li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li>\n<li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li>\n<li>Returns and Refund Policy: This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li>\n</ul>\n",
+        "text": "Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.\n\nCreamy and crunchy blend made with milk chocolate and roasted hazelnuts.\nSmooth and velvety ice cream coated in milk chocolate confectionery.\nIndulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.\nReturns and Refund Policy: This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.",
+        "raw_fields": {
+          "1": [
+            "Ingredients"
+          ],
+          "2": [
+            "<p>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</p>\n<ul>\n<li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li>\n<li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li>\n<li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li>\n<li>Returns and Refund Policy: This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li>\n</ul>\n"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "title": "Storage Instructions",
+        "html": "<p>Keep Baskin Robbins Hazelnut Rocher Ice Cream Cone frozen at -18u00b0C to maintain its rich, decadent flavour and creamy consistency.</p>\n<ul>\n<li>Keep frozen at -18 degree celsius or below.</li>\n<li>Use within 2 months of opening or by expiry date.</li>\n<li>Store in an airtight container, avoid thawing/refreezing for optimal texture.</li>\n</ul>",
+        "text": "Keep Baskin Robbins Hazelnut Rocher Ice Cream Cone frozen at -18u00b0C to maintain its rich, decadent flavour and creamy consistency.\n\nKeep frozen at -18 degree celsius or below.\nUse within 2 months of opening or by expiry date.\nStore in an airtight container, avoid thawing/refreezing for optimal texture.",
+        "raw_fields": {
+          "1": [
+            "Storage Instructions"
+          ],
+          "2": [
+            "<p>Keep Baskin Robbins Hazelnut Rocher Ice Cream Cone frozen at -18u00b0C to maintain its rich, decadent flavour and creamy consistency.</p>\n<ul>\n<li>Keep frozen at -18 degree celsius or below.</li>\n<li>Use within 2 months of opening or by expiry date.</li>\n<li>Store in an airtight container, avoid thawing/refreezing for optimal texture.</li>\n</ul>"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "title": "Seller Details",
+        "html": "<p>Seller Name: Swinsta Ent Pvt Ltd - Civil Hospital<br>FSSAI Number: 20240812106333860<br>Address: Shop No. G-1, GF, SS Annex, Plot No. B/1 & Plot No. B/2,  Part B, Rajkot, Gujarat, 360001<br><br>Customer Care: instamart.support@swiggy.in</p>",
+        "text": "Seller Name: Swinsta Ent Pvt Ltd - Civil Hospital\nFSSAI Number: 20240812106333860\nAddress: Shop No. G-1, GF, SS Annex, Plot No. B/1 & Plot No. B/2,  Part B, Rajkot, Gujarat, 360001\n\nCustomer Care: instamart.support@swiggy.in",
+        "raw_fields": {
+          "1": [
+            "Seller Details"
+          ],
+          "2": [
+            "<p>Seller Name: Swinsta Ent Pvt Ltd - Civil Hospital<br>FSSAI Number: 20240812106333860<br>Address: Shop No. G-1, GF, SS Annex, Plot No. B/1 & Plot No. B/2,  Part B, Rajkot, Gujarat, 360001<br><br>Customer Care: instamart.support@swiggy.in</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      },
+      {
+        "title": "Other Information",
+        "html": "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>",
+        "text": "Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.",
+        "raw_fields": {
+          "1": [
+            "Other Information"
+          ],
+          "2": [
+            "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      }
+    ],
+    "typed_nodes": [
+      {
+        "type_url": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+        "payload": {
+          "2": [
+            {
+              "1": [
+                1
+              ],
+              "2": [
+                1
+              ],
+              "8": [
+                {
+                  "1": [
+                    {
+                      "1": [
+                        {
+                          "hex": "0x41400000",
+                          "uint32": 1094713344,
+                          "float32": 12.0
+                        }
+                      ],
+                      "3": [
+                        {
+                          "hex": "0x41400000",
+                          "uint32": 1094713344,
+                          "float32": 12.0
+                        }
+                      ],
+                      "4": [
+                        {
+                          "hex": "0x41900000",
+                          "uint32": 1099956224,
+                          "float32": 18.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "5": [
+            {
+              "1": [
+                {
+                  "1": [
+                    "type.googleapis.com/swiggy.im.v1.ItemCollectionCard"
+                  ],
+                  "2": [
+                    {
+                      "1": [
+                        3
+                      ],
+                      "2": [
+                        {
+                          "1": [
+                            "Baskin Robbins Hazelnut Ice Cream Cone"
+                          ],
+                          "2": [
+                            "Baskin Robbins"
+                          ],
+                          "3": [
+                            1
+                          ],
+                          "4": [
+                            1
+                          ],
+                          "5": [
+                            {
+                              "1": [
+                                "28QC6IC2PU"
+                              ],
+                              "2": [
+                                "SA3N9FJW7H"
+                              ],
+                              "3": [
+                                "110 ml x 6"
+                              ],
+                              "4": [
+                                "Baskin Robbins Hazelnut Ice Cream Cone"
+                              ],
+                              "5": [
+                                "Baskin Robbins"
+                              ],
+                              "6": [
+                                "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                              ],
+                              "9": [
+                                "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                              ],
+                              "10": [
+                                "Ice Creams"
+                              ],
+                              "11": [
+                                "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                              ],
+                              "12": [
+                                "\b\u0001"
+                              ],
+                              "13": [
+                                "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+                              ],
+                              "14": [
+                                "\b\u0001"
+                              ],
+                              "15": [
+                                720
+                              ],
+                              "19": [
+                                "1395731"
+                              ],
+                              "25": [
+                                "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                                "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                              ],
+                              "27": [
+                                "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                              ],
+                              "28": [
+                                "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                              ],
+                              "35": [
+                                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                              ],
+                              "36": [
+                                "Ice Cream and Indian Sweets"
+                              ]
+                            },
+                            {
+                              "1": [
+                                "I8M61SXOF2"
+                              ],
+                              "2": [
+                                "D0736TG2KU"
+                              ],
+                              "3": [
+                                "110 ml x 3"
+                              ],
+                              "4": [
+                                "Baskin Robbins Hazelnut Ice Cream Cone"
+                              ],
+                              "5": [
+                                "Baskin Robbins"
+                              ],
+                              "6": [
+                                "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                              ],
+                              "9": [
+                                "\n\b\n\u0003INR\u0010\u0002\u0012\b\n\u0003INR\u0010ó\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u001b*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                              ],
+                              "10": [
+                                "Ice Creams"
+                              ],
+                              "11": [
+                                "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                              ],
+                              "12": [
+                                "\b\u0001"
+                              ],
+                              "13": [
+                                "\b\u0002\u0012,Thatâs all we have in stock at the moment!"
+                              ],
+                              "14": [
+                                "\b\u0001"
+                              ],
+                              "15": [
+                                360
+                              ],
+                              "19": [
+                                "1395731"
+                              ],
+                              "25": [
+                                "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                                "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                              ],
+                              "27": [
+                                "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                              ],
+                              "28": [
+                                "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                              ],
+                              "35": [
+                                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                              ],
+                              "36": [
+                                "Ice Cream and Indian Sweets"
+                              ]
+                            },
+                            {
+                              "1": [
+                                "T00V65G1BY"
+                              ],
+                              "2": [
+                                "CH573F34AL"
+                              ],
+                              "3": [
+                                "110 ml x 2"
+                              ],
+                              "4": [
+                                "Baskin Robbins Hazelnut Ice Cream Cone"
+                              ],
+                              "5": [
+                                "Baskin Robbins"
+                              ],
+                              "6": [
+                                "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                              ],
+                              "9": [
+                                "\n\b\n\u0003INR\u0010´\u0001\u0012\b\n\u0003INR\u0010¢\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u0012*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                              ],
+                              "10": [
+                                "Ice Creams"
+                              ],
+                              "11": [
+                                "\bð\u0001\u0010\u0001\u0018\u0001 ð\u0001"
+                              ],
+                              "12": [
+                                "\b\u0001"
+                              ],
+                              "13": [
+                                "\b\u0003\u0012,Thatâs all we have in stock at the moment!"
+                              ],
+                              "14": [
+                                "\b\u0001"
+                              ],
+                              "15": [
+                                240
+                              ],
+                              "19": [
+                                "1395731"
+                              ],
+                              "21": [
+                                "Baskin Robbins Hazelnut Rocher Ice Cream Cone"
+                              ],
+                              "25": [
+                                "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                                "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                              ],
+                              "27": [
+                                "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                              ],
+                              "28": [
+                                "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                              ],
+                              "35": [
+                                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                              ],
+                              "36": [
+                                "Ice Cream and Indian Sweets"
+                              ]
+                            },
+                            {
+                              "1": [
+                                "H0FJOZAGI9"
+                              ],
+                              "2": [
+                                "ZHMZINHV7K"
+                              ],
+                              "3": [
+                                "110 ml"
+                              ],
+                              "4": [
+                                "Baskin Robbins Hazelnut Ice Cream Cone"
+                              ],
+                              "5": [
+                                "Baskin Robbins"
+                              ],
+                              "6": [
+                                "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                                "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                              ],
+                              "7": [
+                                1
+                              ],
+                              "9": [
+                                "\n\u0007\n\u0003INR\u0010Z\u0012\u0007\n\u0003INR\u0010Q\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\t*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                              ],
+                              "10": [
+                                "Ice Creams"
+                              ],
+                              "11": [
+                                "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                              ],
+                              "12": [
+                                "\b\u0001"
+                              ],
+                              "13": [
+                                "\b\u0006\u00123Only 6 unit(s) of this item can be added per order."
+                              ],
+                              "14": [
+                                "\b\u0001"
+                              ],
+                              "15": [
+                                120
+                              ],
+                              "19": [
+                                "1395731"
+                              ],
+                              "21": [
+                                "must try"
+                              ],
+                              "25": [
+                                "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                                "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                              ],
+                              "26": [
+                                "Hazelnut"
+                              ],
+                              "27": [
+                                "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                              ],
+                              "28": [
+                                "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                              ],
+                              "35": [
+                                "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=ZHMZINHV7K&pod_id=1395731&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                              ],
+                              "36": [
+                                "Ice Cream and Indian Sweets"
+                              ]
+                            }
+                          ],
+                          "8": [
+                            {
+                              "1": [
+                                "store-item-view-instamart"
+                              ],
+                              "2": [
+                                "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}"
+                              ],
+                              "4": [
+                                "item-impression"
+                              ],
+                              "5": [
+                                "click-item"
+                              ],
+                              "7": [
+                                "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+                                "\n\fskuAvailable\u0012\u0004true",
+                                "\n\u0003sla\u0012\u00065 MINS"
+                              ]
+                            }
+                          ],
+                          "9": [
+                            "1ZAEYJ1BBT"
+                          ],
+                          "12": [
+                            "IHX7TNQ8OG"
+                          ]
+                        }
+                      ],
+                      "3": [
+                        {
+                          "1": [
+                            {
+                              "1": [
+                                1
+                              ],
+                              "2": [
+                                {
+                                  "hex": "0x3f000000",
+                                  "uint32": 1056964608,
+                                  "float32": 0.5
+                                }
+                              ],
+                              "3": [
+                                1
+                              ]
+                            }
+                          ],
+                          "2": [
+                            {
+                              "1": [
+                                2
+                              ],
+                              "2": [
+                                {
+                                  "hex": "0x437f0000",
+                                  "uint32": 1132396544,
+                                  "float32": 255.0
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "8": [
+            {
+              "1": [
+                "store-item-view-instamart"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+        "payload": {
+          "1": [
+            3
+          ],
+          "2": [
+            {
+              "1": [
+                "Baskin Robbins Hazelnut Ice Cream Cone"
+              ],
+              "2": [
+                "Baskin Robbins"
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                1
+              ],
+              "5": [
+                {
+                  "1": [
+                    "28QC6IC2PU"
+                  ],
+                  "2": [
+                    "SA3N9FJW7H"
+                  ],
+                  "3": [
+                    "110 ml x 6"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    720
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "I8M61SXOF2"
+                  ],
+                  "2": [
+                    "D0736TG2KU"
+                  ],
+                  "3": [
+                    "110 ml x 3"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010\u0002\u0012\b\n\u0003INR\u0010ó\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u001b*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0002\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    360
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "T00V65G1BY"
+                  ],
+                  "2": [
+                    "CH573F34AL"
+                  ],
+                  "3": [
+                    "110 ml x 2"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010´\u0001\u0012\b\n\u0003INR\u0010¢\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u0012*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\bð\u0001\u0010\u0001\u0018\u0001 ð\u0001"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0003\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    240
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "21": [
+                    "Baskin Robbins Hazelnut Rocher Ice Cream Cone"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "H0FJOZAGI9"
+                  ],
+                  "2": [
+                    "ZHMZINHV7K"
+                  ],
+                  "3": [
+                    "110 ml"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "7": [
+                    1
+                  ],
+                  "9": [
+                    "\n\u0007\n\u0003INR\u0010Z\u0012\u0007\n\u0003INR\u0010Q\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\t*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0006\u00123Only 6 unit(s) of this item can be added per order."
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    120
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "21": [
+                    "must try"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "26": [
+                    "Hazelnut"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=ZHMZINHV7K&pod_id=1395731&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                }
+              ],
+              "8": [
+                {
+                  "1": [
+                    "store-item-view-instamart"
+                  ],
+                  "2": [
+                    "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}"
+                  ],
+                  "4": [
+                    "item-impression"
+                  ],
+                  "5": [
+                    "click-item"
+                  ],
+                  "7": [
+                    "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+                    "\n\fskuAvailable\u0012\u0004true",
+                    "\n\u0003sla\u0012\u00065 MINS"
+                  ]
+                }
+              ],
+              "9": [
+                "1ZAEYJ1BBT"
+              ],
+              "12": [
+                "IHX7TNQ8OG"
+              ]
+            }
+          ],
+          "3": [
+            {
+              "1": [
+                {
+                  "1": [
+                    1
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x3f000000",
+                      "uint32": 1056964608,
+                      "float32": 0.5
+                    }
+                  ],
+                  "3": [
+                    1
+                  ]
+                }
+              ],
+              "2": [
+                {
+                  "1": [
+                    2
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x437f0000",
+                      "uint32": 1132396544,
+                      "float32": 255.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+        "payload": {
+          "2": [
+            {
+              "1": [
+                1
+              ],
+              "2": [
+                3
+              ],
+              "7": [
+                "\r\u0000\u0000A\u0015\u0000\u0000\u0000A\u001d\u0000\u0000A%\u0000\u0000ÀA"
+              ],
+              "8": [
+                "\n\n\u0015\u0000\u0000@A%\u0000\u0000@A\u0012\u0014\r\u0000\u0000@A\u0015\u0000\u0000@A\u001d\u0000\u0000@A%\u0000\u0000@A"
+              ],
+              "14": [
+                "\n\u0010\n\t#80DFDFDF\u0015\u0000\u0000?\u0012\u0010\n\t#80DFDFDF\u0015\u0000\u0000?\u001a\u0010\n\t#80DFDFDF\u0015\u0000\u0000?\"\u0010\n\t#80DFDFDF\u0015\u0000\u0000?"
+              ],
+              "15": [
+                "\n\u000b\n\u0007#FFFFFF\u0010\u0001\u0012\u000b\n\u0007#FFFFFF\u0010\u0002"
+              ]
+            }
+          ],
+          "4": [
+            "220751"
+          ],
+          "5": [
+            {
+              "1": [
+                "\n+type.googleapis.com/swiggy.im.v1.MarkerCard\u0012ú\u0007\n\u0016\n\t\b\u0001\u0015«ªª>\u0018\u0005\u0012\t\b\u0001\u0015\u0000\u0000?\u0018\u0003\u0012ç\u0003\n@IM-PD-Assets/Trust%20markers/SEelectedArrowsCounterClockwise.png\u0012AIM-PD-Assets/Trust%20markers/UNSelectedArrowsCounterClockwise.png\u001a\b72 Hours\"\u0007Refund**Ì\u0002<ul><li>This item is eligible for a refund in the unlikely event of a damaged, defective item.</li><li>Please ensure the item is in its original condition, with the manufacturer packaging, for a successful pick-up.</li><li>In case of an incorrect item, a refund request can be raised only if the item is sealed and unused.</li></ul>\u0012\u0002\nSInstamartAssets/Trust%20widget/PersonSimpleBike_colored.png?updatedAt=1762846299370\u00123InstamartAssets/Trust%20widget/PersonSimpleBike.png\u001a\u0004Fast\"\bDelivery*m<ul><li>Get this item delivered to your doorstep in minutes with Instamart's fast delivery service.</li></ul>\u0012é\u0001\nJInstamartAssets/Trust%20widget/Headset_colored.png?updatedAt=1762846299373\u0012*InstamartAssets/Trust%20widget/Headset.png\u001a\u000424/7\"\u0007Support*`<ul><li>We provide 24/7 customer support in case you require any help with your order.</li></ul>"
+              ]
+            }
+          ],
+          "8": [
+            {
+              "1": [
+                "store-item-view-instamart"
+              ],
+              "4": [
+                "impressions-badge"
+              ],
+              "5": [
+                "click-badge"
+              ],
+              "7": [
+                "\n\tproductId\u0012\n1ZAEYJ1BBT",
+                "\n\u0006itemId\u0012\nSA3N9FJW7H",
+                "\n\u0004text\u0012\b72 Hours"
+              ]
+            }
+          ],
+          "12": [
+            "220751"
+          ],
+          "13": [
+            {
+              "9": [
+                "0x5445474449575f4d"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.TabularCard",
+        "payload": {
+          "1": [
+            "Highlights"
+          ],
+          "2": [
+            {
+              "1": [
+                "28QC6IC2PU"
+              ],
+              "2": [
+                "\n\u0013\n\u0007Flavour\u0012\bHazelnut\n\u0017\n\tPack Size\u0012\n6 x 110 ml"
+              ]
+            },
+            {
+              "1": [
+                "I8M61SXOF2"
+              ],
+              "2": [
+                "\n\u0013\n\u0007Flavour\u0012\bHazelnut\n\u0017\n\tPack Size\u0012\n3 x 110 ml"
+              ]
+            },
+            {
+              "1": [
+                "T00V65G1BY"
+              ],
+              "2": [
+                "\n\u0013\n\u0007Flavour\u0012\bHazelnut\n\u0017\n\tPack Size\u0012\n2 x 110 ml"
+              ]
+            },
+            {
+              "1": [
+                "H0FJOZAGI9"
+              ],
+              "2": [
+                "\n\u0013\n\u0007Flavour\u0012\bHazelnut\n\"\n\fBox Contents\u0012\u00121 x Ice Cream Cone\n\u0013\n\tPack Size\u0012\u0006110 ml"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Description"
+          ],
+          "2": [
+            "<ul><li>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</li><li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li><li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li><li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li><li><strong>Returns and Refund Policy:</strong> This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li><li><strong>Returns And Refund Policy:</strong></li><li> This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Ingredients"
+          ],
+          "2": [
+            "<p>Indulge in the perfect blend of creamy and crunchy with Baskin Robbins Hazelnut Ice Cream Cone, the ultimate indulgent treat.</p>\n<ul>\n<li>Creamy and crunchy blend made with milk chocolate and roasted hazelnuts.</li>\n<li>Smooth and velvety ice cream coated in milk chocolate confectionery.</li>\n<li>Indulgent 110ml cone with a symphony of flavours from hazelnut and chocolate.</li>\n<li>Returns and Refund Policy: This item is eligible for a refund or replacement within 2 days of purchase, in an unlikely event of a damaged/defective/incorrect item. In case of an incorrect item, you may raise a refund or replacement request only if the item is sealed/unopened/unused.</li>\n</ul>\n"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Storage Instructions"
+          ],
+          "2": [
+            "<p>Keep Baskin Robbins Hazelnut Rocher Ice Cream Cone frozen at -18u00b0C to maintain its rich, decadent flavour and creamy consistency.</p>\n<ul>\n<li>Keep frozen at -18 degree celsius or below.</li>\n<li>Use within 2 months of opening or by expiry date.</li>\n<li>Store in an airtight container, avoid thawing/refreezing for optimal texture.</li>\n</ul>"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.ActionCard",
+        "payload": {
+          "1": [
+            "InstamartAssets/Bleed%20Blue/PDP%20Brand.png"
+          ],
+          "2": [
+            {
+              "1": [
+                "swiggy://stores/instamart/collection-listing?collectionId=106463&custom_back=true&brand=Baskin%20Robbins"
+              ],
+              "2": [
+                "Explore all Baskin Robbins items"
+              ]
+            }
+          ],
+          "3": [
+            {
+              "1": [
+                "store-item-view-instamart"
+              ],
+              "2": [
+                "{}"
+              ],
+              "4": [
+                "impression-menu-widget"
+              ],
+              "5": [
+                "click-cta"
+              ],
+              "7": [
+                {
+                  "1": [
+                    "widgetId"
+                  ],
+                  "2": [
+                    "159321"
+                  ]
+                },
+                {
+                  "1": [
+                    "collectionId"
+                  ],
+                  "2": [
+                    "106463"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Seller Details"
+          ],
+          "2": [
+            "<p>Seller Name: Swinsta Ent Pvt Ltd - Civil Hospital<br>FSSAI Number: 20240812106333860<br>Address: Shop No. G-1, GF, SS Annex, Plot No. B/1 & Plot No. B/2,  Part B, Rajkot, Gujarat, 360001<br><br>Customer Care: instamart.support@swiggy.in</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Other Information"
+          ],
+          "2": [
+            "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.PageConfigs",
+        "payload": {
+          "3": [
+            12216
+          ],
+          "4": [
+            {
+              "1": [
+                "1395731"
+              ],
+              "2": [
+                {
+                  "1": [
+                    200
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x47147000",
+                      "uint32": 1192521728,
+                      "float32": 38000.0
+                    }
+                  ],
+                  "3": [
+                    {
+                      "hex": "0x47c35000",
+                      "uint32": 1203982336,
+                      "float32": 100000.0
+                    }
+                  ],
+                  "4": [
+                    {
+                      "1": [
+                        200
+                      ],
+                      "2": [
+                        {
+                          "hex": "0x466a6000",
+                          "uint32": 1181376512,
+                          "float32": 15000.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "5": [
+            {
+              "1": [
+                "1395731"
+              ],
+              "2": [
+                {
+                  "1": [
+                    200
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x47147000",
+                      "uint32": 1192521728,
+                      "float32": 38000.0
+                    }
+                  ],
+                  "3": [
+                    {
+                      "hex": "0x47c35000",
+                      "uint32": 1203982336,
+                      "float32": 100000.0
+                    }
+                  ],
+                  "4": [
+                    {
+                      "1": [
+                        200
+                      ],
+                      "2": [
+                        {
+                          "hex": "0x466a6000",
+                          "uint32": 1181376512,
+                          "float32": 15000.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                {
+                  "1": [
+                    3
+                  ],
+                  "2": [
+                    2
+                  ],
+                  "3": [
+                    {
+                      "1": [
+                        "5"
+                      ],
+                      "2": [
+                        "MINS"
+                      ],
+                      "3": [
+                        "#B6B6B6"
+                      ],
+                      "4": [
+                        "text_color_low_emphasis"
+                      ],
+                      "6": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "image_paths": [
+      "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+      "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+      "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png",
+      "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+      "nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+      "n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png"
+    ],
+    "uuids": [
+      "49968c17-faa6-493d-be21-03dce171b148",
+      "689db868-2317-405c-ac53-b43d0ac0f723"
+    ],
+    "colors": [
+      "#80DFDFDF",
+      "#B6B6B6",
+      "#DFF9EE",
+      "#FFFFFF"
+    ],
+    "indexes": {
+      "by_item_id": {
+        "28QC6IC2PU": {
+          "name": "Baskin Robbins Hazelnut Ice Cream Cone",
+          "brand": "Baskin Robbins",
+          "item_id": "28QC6IC2PU",
+          "spin_id": "SA3N9FJW7H",
+          "quantity": "110 ml x 6",
+          "description": null,
+          "category": "Ice Cream and Indian Sweets",
+          "pod_id": "1395731",
+          "max_order_limit_units": null,
+          "price": {
+            "currency": "INR",
+            "mrp": 540,
+            "selling_price": 486,
+            "savings": 54,
+            "discount_text": "10% OFF",
+            "unit_price_text": "73.6/100 ml",
+            "raw_inr_values": [
+              540,
+              486,
+              54
+            ]
+          },
+          "rating": {
+            "rating": 3.8,
+            "rating_count_text": "4.3k",
+            "rating_count_estimate": 4300
+          },
+          "delivery": {
+            "delivery_time_value": 5,
+            "delivery_time_unit": "MINS"
+          },
+          "image_ids": [
+            "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+            "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+            "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+            "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+          ],
+          "raw_fields": {
+            "product_node": {
+              "1": [
+                "Baskin Robbins Hazelnut Ice Cream Cone"
+              ],
+              "2": [
+                "Baskin Robbins"
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                1
+              ],
+              "5": [
+                {
+                  "1": [
+                    "28QC6IC2PU"
+                  ],
+                  "2": [
+                    "SA3N9FJW7H"
+                  ],
+                  "3": [
+                    "110 ml x 6"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    720
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "I8M61SXOF2"
+                  ],
+                  "2": [
+                    "D0736TG2KU"
+                  ],
+                  "3": [
+                    "110 ml x 3"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010\u0002\u0012\b\n\u0003INR\u0010ó\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u001b*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0002\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    360
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "T00V65G1BY"
+                  ],
+                  "2": [
+                    "CH573F34AL"
+                  ],
+                  "3": [
+                    "110 ml x 2"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010´\u0001\u0012\b\n\u0003INR\u0010¢\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u0012*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\bð\u0001\u0010\u0001\u0018\u0001 ð\u0001"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0003\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    240
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "21": [
+                    "Baskin Robbins Hazelnut Rocher Ice Cream Cone"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "H0FJOZAGI9"
+                  ],
+                  "2": [
+                    "ZHMZINHV7K"
+                  ],
+                  "3": [
+                    "110 ml"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "7": [
+                    1
+                  ],
+                  "9": [
+                    "\n\u0007\n\u0003INR\u0010Z\u0012\u0007\n\u0003INR\u0010Q\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\t*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0006\u00123Only 6 unit(s) of this item can be added per order."
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    120
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "21": [
+                    "must try"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "26": [
+                    "Hazelnut"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=ZHMZINHV7K&pod_id=1395731&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                }
+              ],
+              "8": [
+                {
+                  "1": [
+                    "store-item-view-instamart"
+                  ],
+                  "2": [
+                    "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}"
+                  ],
+                  "4": [
+                    "item-impression"
+                  ],
+                  "5": [
+                    "click-item"
+                  ],
+                  "7": [
+                    "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+                    "\n\fskuAvailable\u0012\u0004true",
+                    "\n\u0003sla\u0012\u00065 MINS"
+                  ]
+                }
+              ],
+              "9": [
+                "1ZAEYJ1BBT"
+              ],
+              "12": [
+                "IHX7TNQ8OG"
+              ]
+            },
+            "details_node": {
+              "1": [
+                "28QC6IC2PU"
+              ],
+              "2": [
+                "SA3N9FJW7H"
+              ],
+              "3": [
+                "110 ml x 6"
+              ],
+              "4": [
+                "Baskin Robbins Hazelnut Ice Cream Cone"
+              ],
+              "5": [
+                "Baskin Robbins"
+              ],
+              "6": [
+                "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+              ],
+              "9": [
+                "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+              ],
+              "10": [
+                "Ice Creams"
+              ],
+              "11": [
+                "\b\u0016\u0010\u000b\u0018\u0014 è%"
+              ],
+              "12": [
+                "\b\u0001"
+              ],
+              "13": [
+                "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+              ],
+              "14": [
+                "\b\u0001"
+              ],
+              "15": [
+                720
+              ],
+              "19": [
+                "1395731"
+              ],
+              "25": [
+                "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+              ],
+              "27": [
+                "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+              ],
+              "28": [
+                "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+              ],
+              "35": [
+                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+              ],
+              "36": [
+                "Ice Cream and Indian Sweets"
+              ]
+            }
+          },
+          "event_payloads": [
+            {
+              "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+              "key": "storeIDflag",
+              "value_text": "PRIMARY"
+            },
+            {
+              "raw": "\n\fskuAvailable\u0012\u0004true",
+              "key": "skuAvailable",
+              "value_text": "true"
+            },
+            {
+              "raw": "\n\u0003sla\u0012\u00065 MINS",
+              "key": "sla",
+              "value_text": "5 MINS"
+            }
+          ],
+          "event_metadata": {
+            "event_name": "store-item-view-instamart",
+            "event_context_json": "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}",
+            "impression": "item-impression",
+            "click_event": "click-item"
+          }
+        }
+      },
+      "by_spin_id": {
+        "SA3N9FJW7H": {
+          "name": "Baskin Robbins Hazelnut Ice Cream Cone",
+          "brand": "Baskin Robbins",
+          "item_id": "28QC6IC2PU",
+          "spin_id": "SA3N9FJW7H",
+          "quantity": "110 ml x 6",
+          "description": null,
+          "category": "Ice Cream and Indian Sweets",
+          "pod_id": "1395731",
+          "max_order_limit_units": null,
+          "price": {
+            "currency": "INR",
+            "mrp": 540,
+            "selling_price": 486,
+            "savings": 54,
+            "discount_text": "10% OFF",
+            "unit_price_text": "73.6/100 ml",
+            "raw_inr_values": [
+              540,
+              486,
+              54
+            ]
+          },
+          "rating": {
+            "rating": 3.8,
+            "rating_count_text": "4.3k",
+            "rating_count_estimate": 4300
+          },
+          "delivery": {
+            "delivery_time_value": 5,
+            "delivery_time_unit": "MINS"
+          },
+          "image_ids": [
+            "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+            "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+            "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+            "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+          ],
+          "raw_fields": {
+            "product_node": {
+              "1": [
+                "Baskin Robbins Hazelnut Ice Cream Cone"
+              ],
+              "2": [
+                "Baskin Robbins"
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                1
+              ],
+              "5": [
+                {
+                  "1": [
+                    "28QC6IC2PU"
+                  ],
+                  "2": [
+                    "SA3N9FJW7H"
+                  ],
+                  "3": [
+                    "110 ml x 6"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    720
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "I8M61SXOF2"
+                  ],
+                  "2": [
+                    "D0736TG2KU"
+                  ],
+                  "3": [
+                    "110 ml x 3"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010\u0002\u0012\b\n\u0003INR\u0010ó\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u001b*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0016\u0010\u000b\u0018\u0014 è%"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0002\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    360
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "T00V65G1BY"
+                  ],
+                  "2": [
+                    "CH573F34AL"
+                  ],
+                  "3": [
+                    "110 ml x 2"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "9": [
+                    "\n\b\n\u0003INR\u0010´\u0001\u0012\b\n\u0003INR\u0010¢\u0001\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\u0012*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\bð\u0001\u0010\u0001\u0018\u0001 ð\u0001"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0003\u0012,Thatâs all we have in stock at the moment!"
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    240
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "21": [
+                    "Baskin Robbins Hazelnut Rocher Ice Cream Cone"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                },
+                {
+                  "1": [
+                    "H0FJOZAGI9"
+                  ],
+                  "2": [
+                    "ZHMZINHV7K"
+                  ],
+                  "3": [
+                    "110 ml"
+                  ],
+                  "4": [
+                    "Baskin Robbins Hazelnut Ice Cream Cone"
+                  ],
+                  "5": [
+                    "Baskin Robbins"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                    "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+                  ],
+                  "7": [
+                    1
+                  ],
+                  "9": [
+                    "\n\u0007\n\u0003INR\u0010Z\u0012\u0007\n\u0003INR\u0010Q\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u0010\t*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0006\u00123Only 6 unit(s) of this item can be added per order."
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    120
+                  ],
+                  "19": [
+                    "1395731"
+                  ],
+                  "21": [
+                    "must try"
+                  ],
+                  "25": [
+                    "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                    "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                    "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+                  ],
+                  "26": [
+                    "Hazelnut"
+                  ],
+                  "27": [
+                    "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=ZHMZINHV7K&pod_id=1395731&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                }
+              ],
+              "8": [
+                {
+                  "1": [
+                    "store-item-view-instamart"
+                  ],
+                  "2": [
+                    "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}"
+                  ],
+                  "4": [
+                    "item-impression"
+                  ],
+                  "5": [
+                    "click-item"
+                  ],
+                  "7": [
+                    "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+                    "\n\fskuAvailable\u0012\u0004true",
+                    "\n\u0003sla\u0012\u00065 MINS"
+                  ]
+                }
+              ],
+              "9": [
+                "1ZAEYJ1BBT"
+              ],
+              "12": [
+                "IHX7TNQ8OG"
+              ]
+            },
+            "details_node": {
+              "1": [
+                "28QC6IC2PU"
+              ],
+              "2": [
+                "SA3N9FJW7H"
+              ],
+              "3": [
+                "110 ml x 6"
+              ],
+              "4": [
+                "Baskin Robbins Hazelnut Ice Cream Cone"
+              ],
+              "5": [
+                "Baskin Robbins"
+              ],
+              "6": [
+                "NI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png",
+                "NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png",
+                "NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png",
+                "NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png"
+              ],
+              "9": [
+                "\n\b\n\u0003INR\u0010\u0004\u0012\b\n\u0003INR\u0010æ\u0003\u001a\u000b73.6/100 ml\"\u0007\n\u0003INR\u00106*#\n\u000710% OFF\"\u0018\n\u000710% OFF\u0012\rcolorPositive"
+              ],
+              "10": [
+                "Ice Creams"
+              ],
+              "11": [
+                "\b\u0016\u0010\u000b\u0018\u0014 è%"
+              ],
+              "12": [
+                "\b\u0001"
+              ],
+              "13": [
+                "\b\u0001\u0012,Thatâs all we have in stock at the moment!"
+              ],
+              "14": [
+                "\b\u0001"
+              ],
+              "15": [
+                720
+              ],
+              "19": [
+                "1395731"
+              ],
+              "25": [
+                "\nNNI_CATALOG/IMAGES/CIW/2025/5/30/4ed17c80-9081-420c-acb6-16a02b43f871_65016.png\u0018\u0001",
+                "\n_NI_CATALOG/IMAGES/CIW/2024/3/26/144c6c93-5265-4a7b-8b2d-2513b9e5c153_icecream_ZHMZINHV7K_MN.png\u0018\u0001",
+                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/1afadf4a-8de2-4178-9041-69d49ce4123a_icecream_ZHMZINHV7K_AL1.png\u0018\u0001",
+                "\n`NI_CATALOG/IMAGES/CIW/2024/3/26/eefc5807-6ab9-4346-b37f-609ef75be016_icecream_ZHMZINHV7K_AL2.png\u0018\u0001"
+              ],
+              "27": [
+                "\n\u00033.8\u0012\bpositive\u001a\u00044.3k\"\u0007#DFF9EE"
+              ],
+              "28": [
+                "\n\u00015\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+              ],
+              "35": [
+                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+              ],
+              "36": [
+                "Ice Cream and Indian Sweets"
+              ]
+            }
+          },
+          "event_payloads": [
+            {
+              "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+              "key": "storeIDflag",
+              "value_text": "PRIMARY"
+            },
+            {
+              "raw": "\n\fskuAvailable\u0012\u0004true",
+              "key": "skuAvailable",
+              "value_text": "true"
+            },
+            {
+              "raw": "\n\u0003sla\u0012\u00065 MINS",
+              "key": "sla",
+              "value_text": "5 MINS"
+            }
+          ],
+          "event_metadata": {
+            "event_name": "store-item-view-instamart",
+            "event_context_json": "{\"itemId\":\"H0FJOZAGI9\",\"slotAvailability\":true}",
+            "impression": "item-impression",
+            "click_event": "click-item"
+          }
+        }
+      }
+    }
+  },
+  "fallback": {
+    "missing_fields": [],
+    "notes": [
+      "If any field is null, use decoded_raw_text regex fallback or OCR from screenshot.",
+      "For app_location captures that are text-transformed, seller and exact prices may be incomplete."
+    ]
+  }
+}

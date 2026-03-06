@@ -1,0 +1,50 @@
+Product:
+
+curl 'https://www.bigbasket.com/pd/10000468/'   --http2   -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"'   -H 'sec-ch-ua-mobile: ?0'   -H 'sec-ch-ua-platform: "Linux"'   -H 'upgrade-insecure-requests: 1'   -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'   -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'   -H 'sec-fetch-site: none'   -H 'sec-fetch-mode: navigate'   -H 'sec-fetch-user: ?1'   -H 'sec-fetch-dest: document'   -H 'accept-language: en-US,en;q=0.9'   -H 'priority: u=0, i'   -H 'cookie: _bb_locSrc=default; x-channel=web; _bb_aid=MzAwNDkxOTI2MA==; _bb_cid=1; _bb_vid=MTE0NDA2MzI5ODY4ODg4ODU1OA==; _bb_nhid=7427; _bb_dsid=7427; _bb_dsevid=7427; _bb_bhid=; _bb_loid=; sessionid=ret47gi5bhrdig073en16rqru5m82z70; csrftoken=ZQEGOFLfTVwSAw9HNETRJ2ksdNIonCTl6PHU4yH0pUWtUROOnYdZOrnmv7oHHDSM;  isintegratedsa=true; jentrycontextid=10; xentrycontextid=10; xentrycontext=bbnow; _bb_bb2.0=1; is_global=1; _bb_addressinfo=; _bb_pin_code=; _bb_sa_ids=19224; _is_tobacco_enabled=1; _is_bb1.0_supported=0; _bb_cda_sa_info=djIuY2RhX3NhLjEwLjE5MjI0; is_integrated_sa=1; is_subscribe_sa=0; bb2_enabled=true; csurftoken=J0I_-Q.MTE0Mzk4NjI4OTk0MDk0NTY0Ng==.1772601866268.sPnX6NdYK9vvil+10vOcGpwQ9QUlo4ONPtN/NNQuf8c=; ufi=1; _gcl_au=1.1.1972760248.1772258689; jarvis-id=25a193fe-72d0-41fb-b924-098c5a6dbf70; adb=0; _gid=GA1.2.1235433838.1772258689; _fbp=fb.1.1772258689404.665925746554496713; bigbasket.com=47c28ce6-4332-480e-81ec-771270a35448; _ga=GA1.1.1329199680.1772258689; ts=2026-02-28%2011:35:49.010; _ga_FRRYG5VKHX=GS2.1.s1772258689$o1$g1$t1772259356$j60$l0$h0' -L   --compressed --output product_response_1.html
+
+
+change the _bb_aid, csrftoken, csurftoken, sessionid for the product fetch.
+
+
+
+
+
+location:
+
+curl 'https://www.bigbasket.com/member-svc/v2/member/current-delivery-address/'   -X PUT   --http2   -H 'content-type: application/json'   -H 'accept: */*'   -H 'origin: https://www.bigbasket.com'   -H 'x-caller: UI-KIRK'   -H 'x-channel: BB-WEB'   -H 'x-entry-context: bbnow'   -H 'x-entry-context-id: 10'   -H 'x-requested-with: XMLHttpRequest'   -H 'x-csurftoken: J0I_-Q.MTE0Mzk4NjI4OTk0MDk0NTY0Ng==.1772601866268.sPnX6NdYK9vvil+10vOcGpwQ9QUlo4ONPtN/NNQuf8c='   -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'   -H 'cookie: _bb_locSrc=default; x-channel=web; _bb_vid=MTE0NDA2MzI5ODY4ODg4ODU1OA==; _bb_nhid=7427; _bb_dsid=7427; _bb_dsevid=7427; _bb_bhid=; _bb_loid=; csrftoken=ZQEGOFLfTVwSAw9HNETRJ2ksdNIonCTl6PHU4yH0pUWtUROOnYdZOrnmv7oHHDSM; sessionid=ret47gi5bhrdig073en16rqru5m82z70; isintegratedsa=true; jentrycontextid=10; xentrycontextid=10; xentrycontext=bbnow; _bb_bb2.0=1; _is_tobacco_enabled=1; is_integrated_sa=1; is_subscribe_sa=0; bb2_enabled=true; ufi=1; _gcl_au=1.1.1972760248.1772258689; jarvis-id=25a193fe-72d0-41fb-b924-098c5a6dbf70; adb=0; _gid=GA1.2.1235433838.1772258689; _fbp=fb.1.1772258689404.665925746554496713; bigbasket.com=47c28ce6-4332-480e-81ec-771270a35448; is_global=0; _bb_lat_long=MjIuODIxMzgzOHw4Ni4xNzI2MzI3; _bb_cid=87; _bb_aid="MzAwNDkxOTI2MA=="; _bb_addressinfo=MjIuODIxMzgzOHw4Ni4xNzI2MzI3fEthZ2FsIE5hZ2FyfDgzMTAxMXxKYW1zaGVkcHVyfDF8ZmFsc2V8dHJ1ZXx0cnVlfEJpZ2Jhc2tldGVlcg==; _bb_pin_code=560001; _bb_sa_ids=18435,28638; _is_bb1.0_supported=1; _bb_cda_sa_info=djIuY2RhX3NhLjEwLjE4NDM1LDI4NjM4; csurftoken=J0I_-Q.MTE0Mzk4NjI4OTk0MDk0NTY0Ng==.1772601866268.sPnX6NdYK9vvil+10vOcGpwQ9QUlo4ONPtN/NNQuf8c=; ts=2026-02-28%2016:20:00.865; _ga=GA1.1.1329199680.1772258689; _ga_FRRYG5VKHX=GS2.1.s1772271423$o3$g1$t1772275801$j57$l0$h0'   --data-raw '{"lat":22.806940,"long":86.182114,"return_hub_cookies":false,"contact_zipcode":"831011"}'   --compressed -v --output response.json
+
+
+change the len, long and zipcode
+
+
+
+
+
+curl -X PUT "https://www.bigbasket.com/member-svc/v2/member/current-delivery-address/" \
+  -H "content-type: application/json" \
+  -H "x-caller: UI-KIRK" \
+  -H "x-integrated-fc-door-visible: false" \
+  -H "x-channel: BB-WEB" \
+  -H "x-entry-context: bbnow" \
+  -H "x-entry-context-id: 10" \
+  -H "x-requested-with: XMLHttpRequest" \
+  -H "x-csurftoken: J0I_-Q.MTE0Mzk4NjI4OTk0MDk0NTY0Ng==.1772601866268.sPnX6NdYK9vvil+10vOcGpwQ9QUlo4ONPtN/NNQuf8c=" \
+  -H "origin: https://www.bigbasket.com" \
+  -H "referer: https://www.bigbasket.com/" \
+  -H "accept: */*" \
+  -H "sec-fetch-site: same-origin" \
+  -H "sec-fetch-mode: cors" \
+  -H "sec-fetch-dest: empty" \
+  -H "sec-ch-ua: \"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"" \
+  -H "sec-ch-ua-mobile: ?0" \
+  -H "sec-ch-ua-platform: \"Linux\"" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" \
+  -H "accept-language: en-US,en;q=0.9" \
+  -H "cookie: _bb_locSrc=default; x-channel=web; _bb_aid=MzAwNDkxOTI2MA==; _bb_cid=1; _bb_vid=MTE0OTg1OTY0MDY4NTk1NjU5MA==; _bb_nhid=7427; _bb_dsid=7427; _bb_dsevid=7427; csrftoken=RZ5mkMebFGpHkz82x2BsFnD7gu5IYKdWU2mHzMFGMpkrJdE1LwLiKIjaSfMdn15q; isintegratedsa=true; jentrycontextid=10; xentrycontextid=10; xentrycontext=bbnow; _bb_bb2.0=1; is_global=1; _bb_sa_ids=19224; _is_tobacco_enabled=1; _is_bb1.0_supported=0; _bb_cda_sa_info=djIuY2RhX3NhLjEwLjE5MjI0; is_integrated_sa=1; is_subscribe_sa=0; bb2_enabled=true; csurftoken=J0I_-Q.MTE0Mzk4NjI4OTk0MDk0NTY0Ng==.1772601866268.sPnX6NdYK9vvil+10vOcGpwQ9QUlo4ONPtN/NNQuf8c=; ufi=1; ts=2026-03-04%2011:32:58.405; bigbasket.com=485b784e-57fa-434a-bfe6-7e1b7cb46c16; _gcl_au=1.1.1674638314.1772604179; jarvis-id=6c178e18-3335-4df2-b63d-d01b3277e60c; adb=0; _gid=GA1.2.1979372241.1772604180; _gat_UA-27455376-1=1; _ga=GA1.1.1571646191.1772604180; _ga_FRRYG5VKHX=GS2.1.s1772604179$o1$g0$t1772604179$j60$l0$h0; _fbp=fb.1.1772604179859.298686837310276782" \
+  --data-raw '{
+    "lat": 22.806940,
+    "long": 86.182114,
+    "return_hub_cookies": false,
+    "contact_zipcode": "831011"
+  }' \
+  --compressed

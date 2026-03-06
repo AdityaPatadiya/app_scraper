@@ -1,0 +1,2213 @@
+{
+  "source_file": "response_1",
+  "status": "ok",
+  "decoded_meta": {
+    "format": "protobuf_binary_decode_raw",
+    "summary": {
+      "line_count": 343,
+      "type_url_count": 7,
+      "image_count": 11,
+      "uuid_count": 2,
+      "color_count": 4,
+      "price_block_count": 3,
+      "root_field_count": 4
+    },
+    "type_urls": [
+      "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+      "type.googleapis.com/swiggy.im.v1.ActionCard",
+      "type.googleapis.com/swiggy.im.v1.InfoCard",
+      "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+      "type.googleapis.com/swiggy.im.v1.MarkerCard",
+      "type.googleapis.com/swiggy.im.v1.PageConfigs",
+      "type.googleapis.com/swiggy.im.v1.TabularCard"
+    ]
+  },
+  "current_product": {
+    "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+    "brand": "Hocco",
+    "item_id": "SZVR6C41NC",
+    "spin_id": "KUTFIZTH7W",
+    "quantity": "135 ml",
+    "description": "Hazelnut-flavored ice cream in a crispy cone.",
+    "category": "Ice Cream and Indian Sweets",
+    "pod_id": "1231052",
+    "max_order_limit_units": 1,
+    "price": {
+      "currency": "INR",
+      "mrp": 100,
+      "selling_price": 88,
+      "savings": 12,
+      "discount_text": "12% OFF",
+      "unit_price_text": "65.2/100 ml",
+      "raw_inr_values": [
+        100,
+        88,
+        12
+      ]
+    },
+    "rating": {
+      "rating": 4.3,
+      "rating_count_text": "27.1k",
+      "rating_count_estimate": 27100
+    },
+    "delivery": {
+      "delivery_time_value": 4,
+      "delivery_time_unit": "MINS"
+    },
+    "image_ids": [
+      "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+    ],
+    "raw_fields": {
+      "product_node": {
+        "1": [
+          "Hocco Hazelnut Mudslide Cone Ice Cream"
+        ],
+        "2": [
+          "Hocco"
+        ],
+        "3": [
+          1
+        ],
+        "4": [
+          1
+        ],
+        "5": [
+          {
+            "1": [
+              "SZVR6C41NC"
+            ],
+            "2": [
+              "KUTFIZTH7W"
+            ],
+            "3": [
+              "135 ml"
+            ],
+            "4": [
+              "Hocco Hazelnut Mudslide Cone Ice Cream"
+            ],
+            "5": [
+              "Hocco"
+            ],
+            "6": [
+              "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+            ],
+            "7": [
+              1
+            ],
+            "9": [
+              "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+            ],
+            "10": [
+              "Ice Creams"
+            ],
+            "11": [
+              "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+            ],
+            "12": [
+              "\b\u0001"
+            ],
+            "13": [
+              "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+            ],
+            "14": [
+              "\b\u0001"
+            ],
+            "15": [
+              135
+            ],
+            "19": [
+              "1231052"
+            ],
+            "21": [
+              "Hazelnut-flavored ice cream in a crispy cone."
+            ],
+            "25": [
+              "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+            ],
+            "27": [
+              "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+            ],
+            "28": [
+              "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+            ],
+            "35": [
+              "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+              "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+            ],
+            "36": [
+              "Ice Cream and Indian Sweets"
+            ]
+          }
+        ],
+        "8": [
+          {
+            "1": [
+              "store-item-view-instamart"
+            ],
+            "2": [
+              "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}"
+            ],
+            "4": [
+              "item-impression"
+            ],
+            "5": [
+              "click-item"
+            ],
+            "7": [
+              "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+              "\n\u0004ppid\u0012\nHUUMLIWVJH",
+              "\n\u0007oosFlag\u0012\u0002no",
+              "\n\fskuAvailable\u0012\u0004true",
+              "\n\u0003sla\u0012\u00064 MINS",
+              "\n\u000bstoreIDflag\u0012\u0007PRIMARY"
+            ]
+          }
+        ],
+        "9": [
+          "KITP4MZKVL"
+        ],
+        "12": [
+          "HUUMLIWVJH"
+        ]
+      },
+      "details_node": {
+        "1": [
+          "SZVR6C41NC"
+        ],
+        "2": [
+          "KUTFIZTH7W"
+        ],
+        "3": [
+          "135 ml"
+        ],
+        "4": [
+          "Hocco Hazelnut Mudslide Cone Ice Cream"
+        ],
+        "5": [
+          "Hocco"
+        ],
+        "6": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+        ],
+        "7": [
+          1
+        ],
+        "9": [
+          "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+        ],
+        "10": [
+          "Ice Creams"
+        ],
+        "11": [
+          "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+        ],
+        "12": [
+          "\b\u0001"
+        ],
+        "13": [
+          "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+        ],
+        "14": [
+          "\b\u0001"
+        ],
+        "15": [
+          135
+        ],
+        "19": [
+          "1231052"
+        ],
+        "21": [
+          "Hazelnut-flavored ice cream in a crispy cone."
+        ],
+        "25": [
+          "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+          "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+          "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+          "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+          "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+        ],
+        "27": [
+          "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+        ],
+        "28": [
+          "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+        ],
+        "35": [
+          "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+          "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+        ],
+        "36": [
+          "Ice Cream and Indian Sweets"
+        ]
+      }
+    },
+    "event_payloads": [
+      {
+        "raw": "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+        "key": "variantAttributeArray",
+        "value_text": "Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+        "value_json": [
+          {
+            "attributeName": "pack_size",
+            "attributeRank": "1",
+            "tileName": "135 ml",
+            "tilePosition": "1"
+          }
+        ]
+      },
+      {
+        "raw": "\n\u0004ppid\u0012\nHUUMLIWVJH",
+        "key": "ppid",
+        "value_text": "HUUMLIWVJH"
+      },
+      {
+        "raw": "\n\u0007oosFlag\u0012\u0002no",
+        "key": "oosFlag",
+        "value_text": "no"
+      },
+      {
+        "raw": "\n\fskuAvailable\u0012\u0004true",
+        "key": "skuAvailable",
+        "value_text": "true"
+      },
+      {
+        "raw": "\n\u0003sla\u0012\u00064 MINS",
+        "key": "sla",
+        "value_text": "4 MINS"
+      },
+      {
+        "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+        "key": "storeIDflag",
+        "value_text": "PRIMARY"
+      }
+    ],
+    "event_metadata": {
+      "event_name": "store-item-view-instamart",
+      "event_context_json": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+      "impression": "item-impression",
+      "click_event": "click-item"
+    }
+  },
+  "seller_details": {
+    "seller_name": "Greenmania Modern Retails Pvt Ltd HSR 3",
+    "fssai_number": "11222334000160",
+    "address": "1st Floor No. 1784, Sector-1 , HSR Layout, BBMP Ward No. 174 Bengaluru-560102",
+    "customer_care": "instamart.support@swiggy.in",
+    "raw_text": "Seller Name: Greenmania Modern Retails Pvt Ltd HSR 3\nFSSAI Number: 11222334000160\nAddress: 1st Floor No. 1784, Sector-1 , HSR Layout, BBMP Ward No. 174 Bengaluru-560102\n\nCustomer Care: instamart.support@swiggy.in"
+  },
+  "description": {
+    "title": "Description",
+    "html": "<p>The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It's a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together.</p> \n<ul> \n<li><strong>Nutty Hazelnut flavour</strong>: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. Itâs the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting.</li> \n<li><strong>Chocolatey Mudslide Base</strong>: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone.</li> \n<li><strong>Crispy Cone</strong>: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. Itâs light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. Itâs a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite.</li> \n</ul> \n\n\n<ul><li><strong>Returns And Refund Policy:</strong></li></ul>\n<ul><li>- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>",
+    "text": "The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It's a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together. \n \nNutty Hazelnut flavour: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. Itâs the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting. \nChocolatey Mudslide Base: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone. \nCrispy Cone: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. Itâs light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. Itâs a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite. \n \n\n\nReturns And Refund Policy:\n- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.",
+    "raw_fields": {
+      "1": [
+        "Description"
+      ],
+      "2": [
+        "<p>The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It's a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together.</p> \n<ul> \n<li><strong>Nutty Hazelnut flavour</strong>: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. Itâs the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting.</li> \n<li><strong>Chocolatey Mudslide Base</strong>: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone.</li> \n<li><strong>Crispy Cone</strong>: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. Itâs light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. Itâs a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite.</li> \n</ul> \n\n\n<ul><li><strong>Returns And Refund Policy:</strong></li></ul>\n<ul><li>- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>"
+      ],
+      "4": [
+        1
+      ]
+    }
+  },
+  "other_information": {
+    "title": "Other Information",
+    "html": "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>",
+    "text": "Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.",
+    "raw_fields": {
+      "1": [
+        "Other Information"
+      ],
+      "2": [
+        "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>"
+      ],
+      "3": [
+        1
+      ],
+      "4": [
+        2
+      ]
+    }
+  },
+  "other_products_count": 0,
+  "other_products": [],
+  "all_data": {
+    "all_products_count": 1,
+    "all_products": [
+      {
+        "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+        "brand": "Hocco",
+        "item_id": "SZVR6C41NC",
+        "spin_id": "KUTFIZTH7W",
+        "quantity": "135 ml",
+        "description": "Hazelnut-flavored ice cream in a crispy cone.",
+        "category": "Ice Cream and Indian Sweets",
+        "pod_id": "1231052",
+        "max_order_limit_units": 1,
+        "price": {
+          "currency": "INR",
+          "mrp": 100,
+          "selling_price": 88,
+          "savings": 12,
+          "discount_text": "12% OFF",
+          "unit_price_text": "65.2/100 ml",
+          "raw_inr_values": [
+            100,
+            88,
+            12
+          ]
+        },
+        "rating": {
+          "rating": 4.3,
+          "rating_count_text": "27.1k",
+          "rating_count_estimate": 27100
+        },
+        "delivery": {
+          "delivery_time_value": 4,
+          "delivery_time_unit": "MINS"
+        },
+        "image_ids": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+        ],
+        "raw_fields": {
+          "product_node": {
+            "1": [
+              "Hocco Hazelnut Mudslide Cone Ice Cream"
+            ],
+            "2": [
+              "Hocco"
+            ],
+            "3": [
+              1
+            ],
+            "4": [
+              1
+            ],
+            "5": [
+              {
+                "1": [
+                  "SZVR6C41NC"
+                ],
+                "2": [
+                  "KUTFIZTH7W"
+                ],
+                "3": [
+                  "135 ml"
+                ],
+                "4": [
+                  "Hocco Hazelnut Mudslide Cone Ice Cream"
+                ],
+                "5": [
+                  "Hocco"
+                ],
+                "6": [
+                  "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                  "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                ],
+                "7": [
+                  1
+                ],
+                "9": [
+                  "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+                ],
+                "10": [
+                  "Ice Creams"
+                ],
+                "11": [
+                  "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                ],
+                "12": [
+                  "\b\u0001"
+                ],
+                "13": [
+                  "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+                ],
+                "14": [
+                  "\b\u0001"
+                ],
+                "15": [
+                  135
+                ],
+                "19": [
+                  "1231052"
+                ],
+                "21": [
+                  "Hazelnut-flavored ice cream in a crispy cone."
+                ],
+                "25": [
+                  "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+                  "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+                  "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+                  "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+                  "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+                ],
+                "27": [
+                  "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+                ],
+                "28": [
+                  "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                ],
+                "35": [
+                  "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                  "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                ],
+                "36": [
+                  "Ice Cream and Indian Sweets"
+                ]
+              }
+            ],
+            "8": [
+              {
+                "1": [
+                  "store-item-view-instamart"
+                ],
+                "2": [
+                  "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}"
+                ],
+                "4": [
+                  "item-impression"
+                ],
+                "5": [
+                  "click-item"
+                ],
+                "7": [
+                  "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+                  "\n\u0004ppid\u0012\nHUUMLIWVJH",
+                  "\n\u0007oosFlag\u0012\u0002no",
+                  "\n\fskuAvailable\u0012\u0004true",
+                  "\n\u0003sla\u0012\u00064 MINS",
+                  "\n\u000bstoreIDflag\u0012\u0007PRIMARY"
+                ]
+              }
+            ],
+            "9": [
+              "KITP4MZKVL"
+            ],
+            "12": [
+              "HUUMLIWVJH"
+            ]
+          },
+          "details_node": {
+            "1": [
+              "SZVR6C41NC"
+            ],
+            "2": [
+              "KUTFIZTH7W"
+            ],
+            "3": [
+              "135 ml"
+            ],
+            "4": [
+              "Hocco Hazelnut Mudslide Cone Ice Cream"
+            ],
+            "5": [
+              "Hocco"
+            ],
+            "6": [
+              "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+              "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+            ],
+            "7": [
+              1
+            ],
+            "9": [
+              "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+            ],
+            "10": [
+              "Ice Creams"
+            ],
+            "11": [
+              "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+            ],
+            "12": [
+              "\b\u0001"
+            ],
+            "13": [
+              "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+            ],
+            "14": [
+              "\b\u0001"
+            ],
+            "15": [
+              135
+            ],
+            "19": [
+              "1231052"
+            ],
+            "21": [
+              "Hazelnut-flavored ice cream in a crispy cone."
+            ],
+            "25": [
+              "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+              "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+            ],
+            "27": [
+              "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+            ],
+            "28": [
+              "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+            ],
+            "35": [
+              "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+              "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+            ],
+            "36": [
+              "Ice Cream and Indian Sweets"
+            ]
+          }
+        },
+        "event_payloads": [
+          {
+            "raw": "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+            "key": "variantAttributeArray",
+            "value_text": "Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+            "value_json": [
+              {
+                "attributeName": "pack_size",
+                "attributeRank": "1",
+                "tileName": "135 ml",
+                "tilePosition": "1"
+              }
+            ]
+          },
+          {
+            "raw": "\n\u0004ppid\u0012\nHUUMLIWVJH",
+            "key": "ppid",
+            "value_text": "HUUMLIWVJH"
+          },
+          {
+            "raw": "\n\u0007oosFlag\u0012\u0002no",
+            "key": "oosFlag",
+            "value_text": "no"
+          },
+          {
+            "raw": "\n\fskuAvailable\u0012\u0004true",
+            "key": "skuAvailable",
+            "value_text": "true"
+          },
+          {
+            "raw": "\n\u0003sla\u0012\u00064 MINS",
+            "key": "sla",
+            "value_text": "4 MINS"
+          },
+          {
+            "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+            "key": "storeIDflag",
+            "value_text": "PRIMARY"
+          }
+        ],
+        "event_metadata": {
+          "event_name": "store-item-view-instamart",
+          "event_context_json": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+          "impression": "item-impression",
+          "click_event": "click-item"
+        }
+      }
+    ],
+    "info_cards": [
+      {
+        "title": "Description",
+        "html": "<p>The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It's a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together.</p> \n<ul> \n<li><strong>Nutty Hazelnut flavour</strong>: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. Itâs the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting.</li> \n<li><strong>Chocolatey Mudslide Base</strong>: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone.</li> \n<li><strong>Crispy Cone</strong>: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. Itâs light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. Itâs a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite.</li> \n</ul> \n\n\n<ul><li><strong>Returns And Refund Policy:</strong></li></ul>\n<ul><li>- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>",
+        "text": "The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It's a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together. \n \nNutty Hazelnut flavour: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. Itâs the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting. \nChocolatey Mudslide Base: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone. \nCrispy Cone: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. Itâs light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. Itâs a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite. \n \n\n\nReturns And Refund Policy:\n- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.",
+        "raw_fields": {
+          "1": [
+            "Description"
+          ],
+          "2": [
+            "<p>The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It's a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together.</p> \n<ul> \n<li><strong>Nutty Hazelnut flavour</strong>: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. Itâs the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting.</li> \n<li><strong>Chocolatey Mudslide Base</strong>: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone.</li> \n<li><strong>Crispy Cone</strong>: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. Itâs light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. Itâs a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite.</li> \n</ul> \n\n\n<ul><li><strong>Returns And Refund Policy:</strong></li></ul>\n<ul><li>- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "title": "Ingredients",
+        "html": "<p>Ice Cream (58.1%): Added Water, Milk Solids, Sugar, Brownie (10%) (Sugar, Maida, Cocoa Solids, Milk Solids, Maltodextrin, Corn Starch, Emulsifiers (INS 471, INS 472b, INS 477), Raising Agent (INS 500 (ii), INS 450 (i), INS 341 (i)), Stabilisers (INS 415), Salt), Hazelnut Paste (9%), Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415, INS 410). Topping and Spraying (30.3%): Choco Coating (19%) (Sugar, Cocoa Solid, Cocoa Butter, Palm Kernel oil, Emulsifier (INS 322, INS 476) CONTAINS ADDED NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Choco Spraying (7.5%) (Sugar, Edible vegetable Palm Kernal oil, Cocos Solids, Emulsifier (INS 322) CONTAINS NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Caramelised Nuts (3.8%) (Hazelnut, Almond, Sugar, Water). Wafer Biscuit Cone (11.6%): Wheat Flour, Sugar, Starch, Refined Vegetable Palm oil, Salt, Emulsifier (INS 322). CONTAINS PERMITTED NATURAL COLOURS (INS 150d) AND ARTIFKIAL VANILLA FLAVOURING SUBSTANCES.</p>\n\n\n\n\n\n",
+        "text": "Ice Cream (58.1%): Added Water, Milk Solids, Sugar, Brownie (10%) (Sugar, Maida, Cocoa Solids, Milk Solids, Maltodextrin, Corn Starch, Emulsifiers (INS 471, INS 472b, INS 477), Raising Agent (INS 500 (ii), INS 450 (i), INS 341 (i)), Stabilisers (INS 415), Salt), Hazelnut Paste (9%), Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415, INS 410). Topping and Spraying (30.3%): Choco Coating (19%) (Sugar, Cocoa Solid, Cocoa Butter, Palm Kernel oil, Emulsifier (INS 322, INS 476) CONTAINS ADDED NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Choco Spraying (7.5%) (Sugar, Edible vegetable Palm Kernal oil, Cocos Solids, Emulsifier (INS 322) CONTAINS NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Caramelised Nuts (3.8%) (Hazelnut, Almond, Sugar, Water). Wafer Biscuit Cone (11.6%): Wheat Flour, Sugar, Starch, Refined Vegetable Palm oil, Salt, Emulsifier (INS 322). CONTAINS PERMITTED NATURAL COLOURS (INS 150d) AND ARTIFKIAL VANILLA FLAVOURING SUBSTANCES.",
+        "raw_fields": {
+          "1": [
+            "Ingredients"
+          ],
+          "2": [
+            "<p>Ice Cream (58.1%): Added Water, Milk Solids, Sugar, Brownie (10%) (Sugar, Maida, Cocoa Solids, Milk Solids, Maltodextrin, Corn Starch, Emulsifiers (INS 471, INS 472b, INS 477), Raising Agent (INS 500 (ii), INS 450 (i), INS 341 (i)), Stabilisers (INS 415), Salt), Hazelnut Paste (9%), Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415, INS 410). Topping and Spraying (30.3%): Choco Coating (19%) (Sugar, Cocoa Solid, Cocoa Butter, Palm Kernel oil, Emulsifier (INS 322, INS 476) CONTAINS ADDED NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Choco Spraying (7.5%) (Sugar, Edible vegetable Palm Kernal oil, Cocos Solids, Emulsifier (INS 322) CONTAINS NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Caramelised Nuts (3.8%) (Hazelnut, Almond, Sugar, Water). Wafer Biscuit Cone (11.6%): Wheat Flour, Sugar, Starch, Refined Vegetable Palm oil, Salt, Emulsifier (INS 322). CONTAINS PERMITTED NATURAL COLOURS (INS 150d) AND ARTIFKIAL VANILLA FLAVOURING SUBSTANCES.</p>\n\n\n\n\n\n"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "title": "Seller Details",
+        "html": "<p>Seller Name: Greenmania Modern Retails Pvt Ltd HSR 3<br>FSSAI Number: 11222334000160<br>Address: 1st Floor No. 1784, Sector-1 , HSR Layout, BBMP Ward No. 174 Bengaluru-560102<br><br>Customer Care: instamart.support@swiggy.in</p>",
+        "text": "Seller Name: Greenmania Modern Retails Pvt Ltd HSR 3\nFSSAI Number: 11222334000160\nAddress: 1st Floor No. 1784, Sector-1 , HSR Layout, BBMP Ward No. 174 Bengaluru-560102\n\nCustomer Care: instamart.support@swiggy.in",
+        "raw_fields": {
+          "1": [
+            "Seller Details"
+          ],
+          "2": [
+            "<p>Seller Name: Greenmania Modern Retails Pvt Ltd HSR 3<br>FSSAI Number: 11222334000160<br>Address: 1st Floor No. 1784, Sector-1 , HSR Layout, BBMP Ward No. 174 Bengaluru-560102<br><br>Customer Care: instamart.support@swiggy.in</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      },
+      {
+        "title": "Other Information",
+        "html": "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>",
+        "text": "Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.",
+        "raw_fields": {
+          "1": [
+            "Other Information"
+          ],
+          "2": [
+            "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      }
+    ],
+    "typed_nodes": [
+      {
+        "type_url": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+        "payload": {
+          "2": [
+            {
+              "1": [
+                1
+              ],
+              "2": [
+                1
+              ],
+              "8": [
+                {
+                  "1": [
+                    {
+                      "1": [
+                        {
+                          "hex": "0x41400000",
+                          "uint32": 1094713344,
+                          "float32": 12.0
+                        }
+                      ],
+                      "3": [
+                        {
+                          "hex": "0x41400000",
+                          "uint32": 1094713344,
+                          "float32": 12.0
+                        }
+                      ],
+                      "4": [
+                        {
+                          "hex": "0x41900000",
+                          "uint32": 1099956224,
+                          "float32": 18.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "5": [
+            {
+              "1": [
+                {
+                  "1": [
+                    "type.googleapis.com/swiggy.im.v1.ItemCollectionCard"
+                  ],
+                  "2": [
+                    {
+                      "1": [
+                        3
+                      ],
+                      "2": [
+                        {
+                          "1": [
+                            "Hocco Hazelnut Mudslide Cone Ice Cream"
+                          ],
+                          "2": [
+                            "Hocco"
+                          ],
+                          "3": [
+                            1
+                          ],
+                          "4": [
+                            1
+                          ],
+                          "5": [
+                            {
+                              "1": [
+                                "SZVR6C41NC"
+                              ],
+                              "2": [
+                                "KUTFIZTH7W"
+                              ],
+                              "3": [
+                                "135 ml"
+                              ],
+                              "4": [
+                                "Hocco Hazelnut Mudslide Cone Ice Cream"
+                              ],
+                              "5": [
+                                "Hocco"
+                              ],
+                              "6": [
+                                "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                                "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                                "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                                "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                                "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                              ],
+                              "7": [
+                                1
+                              ],
+                              "9": [
+                                "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+                              ],
+                              "10": [
+                                "Ice Creams"
+                              ],
+                              "11": [
+                                "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                              ],
+                              "12": [
+                                "\b\u0001"
+                              ],
+                              "13": [
+                                "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+                              ],
+                              "14": [
+                                "\b\u0001"
+                              ],
+                              "15": [
+                                135
+                              ],
+                              "19": [
+                                "1231052"
+                              ],
+                              "21": [
+                                "Hazelnut-flavored ice cream in a crispy cone."
+                              ],
+                              "25": [
+                                "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+                                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+                                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+                                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+                                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+                              ],
+                              "27": [
+                                "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+                              ],
+                              "28": [
+                                "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                              ],
+                              "35": [
+                                "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                              ],
+                              "36": [
+                                "Ice Cream and Indian Sweets"
+                              ]
+                            }
+                          ],
+                          "8": [
+                            {
+                              "1": [
+                                "store-item-view-instamart"
+                              ],
+                              "2": [
+                                "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}"
+                              ],
+                              "4": [
+                                "item-impression"
+                              ],
+                              "5": [
+                                "click-item"
+                              ],
+                              "7": [
+                                "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+                                "\n\u0004ppid\u0012\nHUUMLIWVJH",
+                                "\n\u0007oosFlag\u0012\u0002no",
+                                "\n\fskuAvailable\u0012\u0004true",
+                                "\n\u0003sla\u0012\u00064 MINS",
+                                "\n\u000bstoreIDflag\u0012\u0007PRIMARY"
+                              ]
+                            }
+                          ],
+                          "9": [
+                            "KITP4MZKVL"
+                          ],
+                          "12": [
+                            "HUUMLIWVJH"
+                          ]
+                        }
+                      ],
+                      "3": [
+                        {
+                          "1": [
+                            {
+                              "1": [
+                                1
+                              ],
+                              "2": [
+                                {
+                                  "hex": "0x3f000000",
+                                  "uint32": 1056964608,
+                                  "float32": 0.5
+                                }
+                              ],
+                              "3": [
+                                1
+                              ]
+                            }
+                          ],
+                          "2": [
+                            {
+                              "1": [
+                                2
+                              ],
+                              "2": [
+                                {
+                                  "hex": "0x437f0000",
+                                  "uint32": 1132396544,
+                                  "float32": 255.0
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "6": [
+                        {
+                          "1": [
+                            "135 ml"
+                          ],
+                          "2": [
+                            {
+                              "1": [
+                                "pack_size"
+                              ],
+                              "2": [
+                                "Quantity"
+                              ],
+                              "3": [
+                                3
+                              ],
+                              "4": [
+                                "135 ml"
+                              ],
+                              "6": [
+                                "\n\u0006135 ml\u0012PNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u001a\u0006135 ml*M\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive8\u0001",
+                                "\n\n2 x 135 ml\u0012PNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u001a\n2 x 135 ml*O\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010°\u0001\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\u0018*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive8\u0001"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "8": [
+            {
+              "1": [
+                "store-item-view-instamart"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+        "payload": {
+          "1": [
+            3
+          ],
+          "2": [
+            {
+              "1": [
+                "Hocco Hazelnut Mudslide Cone Ice Cream"
+              ],
+              "2": [
+                "Hocco"
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                1
+              ],
+              "5": [
+                {
+                  "1": [
+                    "SZVR6C41NC"
+                  ],
+                  "2": [
+                    "KUTFIZTH7W"
+                  ],
+                  "3": [
+                    "135 ml"
+                  ],
+                  "4": [
+                    "Hocco Hazelnut Mudslide Cone Ice Cream"
+                  ],
+                  "5": [
+                    "Hocco"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                  ],
+                  "7": [
+                    1
+                  ],
+                  "9": [
+                    "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    135
+                  ],
+                  "19": [
+                    "1231052"
+                  ],
+                  "21": [
+                    "Hazelnut-flavored ice cream in a crispy cone."
+                  ],
+                  "25": [
+                    "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                }
+              ],
+              "8": [
+                {
+                  "1": [
+                    "store-item-view-instamart"
+                  ],
+                  "2": [
+                    "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}"
+                  ],
+                  "4": [
+                    "item-impression"
+                  ],
+                  "5": [
+                    "click-item"
+                  ],
+                  "7": [
+                    "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+                    "\n\u0004ppid\u0012\nHUUMLIWVJH",
+                    "\n\u0007oosFlag\u0012\u0002no",
+                    "\n\fskuAvailable\u0012\u0004true",
+                    "\n\u0003sla\u0012\u00064 MINS",
+                    "\n\u000bstoreIDflag\u0012\u0007PRIMARY"
+                  ]
+                }
+              ],
+              "9": [
+                "KITP4MZKVL"
+              ],
+              "12": [
+                "HUUMLIWVJH"
+              ]
+            }
+          ],
+          "3": [
+            {
+              "1": [
+                {
+                  "1": [
+                    1
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x3f000000",
+                      "uint32": 1056964608,
+                      "float32": 0.5
+                    }
+                  ],
+                  "3": [
+                    1
+                  ]
+                }
+              ],
+              "2": [
+                {
+                  "1": [
+                    2
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x437f0000",
+                      "uint32": 1132396544,
+                      "float32": 255.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "6": [
+            {
+              "1": [
+                "135 ml"
+              ],
+              "2": [
+                {
+                  "1": [
+                    "pack_size"
+                  ],
+                  "2": [
+                    "Quantity"
+                  ],
+                  "3": [
+                    3
+                  ],
+                  "4": [
+                    "135 ml"
+                  ],
+                  "6": [
+                    "\n\u0006135 ml\u0012PNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u001a\u0006135 ml*M\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive8\u0001",
+                    "\n\n2 x 135 ml\u0012PNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u001a\n2 x 135 ml*O\n\b\n\u0003INR\u0010È\u0001\u0012\b\n\u0003INR\u0010°\u0001\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\u0018*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive8\u0001"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+        "payload": {
+          "2": [
+            {
+              "1": [
+                1
+              ],
+              "2": [
+                3
+              ],
+              "7": [
+                "\r\u0000\u0000A\u0015\u0000\u0000\u0000A\u001d\u0000\u0000A%\u0000\u0000ÀA"
+              ],
+              "8": [
+                "\n\n\u0015\u0000\u0000@A%\u0000\u0000@A\u0012\u0014\r\u0000\u0000@A\u0015\u0000\u0000@A\u001d\u0000\u0000@A%\u0000\u0000@A"
+              ],
+              "14": [
+                "\n\u0010\n\t#80DFDFDF\u0015\u0000\u0000?\u0012\u0010\n\t#80DFDFDF\u0015\u0000\u0000?\u001a\u0010\n\t#80DFDFDF\u0015\u0000\u0000?\"\u0010\n\t#80DFDFDF\u0015\u0000\u0000?"
+              ],
+              "15": [
+                "\n\u000b\n\u0007#FFFFFF\u0010\u0001\u0012\u000b\n\u0007#FFFFFF\u0010\u0002"
+              ]
+            }
+          ],
+          "4": [
+            "220751"
+          ],
+          "5": [
+            {
+              "1": [
+                "\n+type.googleapis.com/swiggy.im.v1.MarkerCard\u0012ú\u0007\n\u0016\n\t\b\u0001\u0015«ªª>\u0018\u0005\u0012\t\b\u0001\u0015\u0000\u0000?\u0018\u0003\u0012ç\u0003\n@IM-PD-Assets/Trust%20markers/SEelectedArrowsCounterClockwise.png\u0012AIM-PD-Assets/Trust%20markers/UNSelectedArrowsCounterClockwise.png\u001a\b48 Hours\"\u0007Refund**Ì\u0002<ul><li>This item is eligible for a refund in the unlikely event of a damaged, defective item.</li><li>Please ensure the item is in its original condition, with the manufacturer packaging, for a successful pick-up.</li><li>In case of an incorrect item, a refund request can be raised only if the item is sealed and unused.</li></ul>\u0012\u0002\nSInstamartAssets/Trust%20widget/PersonSimpleBike_colored.png?updatedAt=1762846299370\u00123InstamartAssets/Trust%20widget/PersonSimpleBike.png\u001a\u0004Fast\"\bDelivery*m<ul><li>Get this item delivered to your doorstep in minutes with Instamart's fast delivery service.</li></ul>\u0012é\u0001\nJInstamartAssets/Trust%20widget/Headset_colored.png?updatedAt=1762846299373\u0012*InstamartAssets/Trust%20widget/Headset.png\u001a\u000424/7\"\u0007Support*`<ul><li>We provide 24/7 customer support in case you require any help with your order.</li></ul>"
+              ]
+            }
+          ],
+          "8": [
+            {
+              "1": [
+                "store-item-view-instamart"
+              ],
+              "4": [
+                "impressions-badge"
+              ],
+              "5": [
+                "click-badge"
+              ],
+              "7": [
+                "\n\u0006itemId\u0012\nKUTFIZTH7W",
+                "\n\u0004text\u0012\b48 Hours",
+                "\n\tproductId\u0012\nKITP4MZKVL"
+              ]
+            }
+          ],
+          "12": [
+            "220751"
+          ],
+          "13": [
+            {
+              "9": [
+                "0x5445474449575f4d"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.TabularCard",
+        "payload": {
+          "1": [
+            "Highlights"
+          ],
+          "2": [
+            {
+              "1": [
+                "SZVR6C41NC"
+              ],
+              "2": [
+                "\n\u0013\n\u0007Flavour\u0012\bHazelnut\n\u001d\n\fBox Contents\u0012\r1 x Ice Cream\n\u0013\n\tPack Size\u0012\u0006135 ml\n\u001f\n\fServing Temp\u0012\u000f-18Â°C or Below"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Description"
+          ],
+          "2": [
+            "<p>The Hocco Hazelnut Mudslide Cone Ice Cream combines the rich, nutty flavour of hazelnuts with a creamy, chocolatey base. This indulgent dessert offers the perfect balance of sweet and nutty, all served in a crispy cone. It's a luxurious ice cream experience for anyone who loves chocolate and hazelnuts together.</p> \n<ul> \n<li><strong>Nutty Hazelnut flavour</strong>: This ice cream is infused with the bold flavour of roasted hazelnuts, providing a delicious nutty taste that complements the creamy chocolate base. The hazelnut flavour is distinct and rich, adding a satisfying depth to the ice cream. Itâs the perfect treat for hazelnut lovers, who will enjoy the nutty undertones in every bite. The roasted hazelnuts contribute a warm, earthy flavour, enhancing the overall richness of the ice cream and providing a decadent experience that makes this dessert feel both luxurious and comforting.</li> \n<li><strong>Chocolatey Mudslide Base</strong>: The chocolatey mudslide base is rich, smooth and indulgent, offering a creamy texture that perfectly balances the nuttiness of the hazelnuts. This chocolate base is the perfect partner for the hazelnut flavour, creating a harmonious blend of flavours that are both satisfying and decadent. The richness of the chocolate is complemented by the crunch of the hazelnuts, creating a delightful contrast of textures. The combination of chocolate and hazelnuts makes this ice cream a treat for anyone who enjoys the best of both worlds in a single cone.</li> \n<li><strong>Crispy Cone</strong>: This ice cream is served in a crispy cone that adds a satisfying crunch to each bite. The cone provides a perfect contrast to the smooth and creamy ice cream, giving you a variety of textures in every mouthful. Itâs light yet sturdy enough to hold the rich ice cream without breaking. The cone enhances the overall indulgence, making the experience of enjoying this ice cream even more enjoyable. Itâs a great way to enjoy your favorite ice cream while also getting the satisfying crunch of a quality cone with every bite.</li> \n</ul> \n\n\n<ul><li><strong>Returns And Refund Policy:</strong></li></ul>\n<ul><li>- This item is eligible for a refund within 3 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Ingredients"
+          ],
+          "2": [
+            "<p>Ice Cream (58.1%): Added Water, Milk Solids, Sugar, Brownie (10%) (Sugar, Maida, Cocoa Solids, Milk Solids, Maltodextrin, Corn Starch, Emulsifiers (INS 471, INS 472b, INS 477), Raising Agent (INS 500 (ii), INS 450 (i), INS 341 (i)), Stabilisers (INS 415), Salt), Hazelnut Paste (9%), Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415, INS 410). Topping and Spraying (30.3%): Choco Coating (19%) (Sugar, Cocoa Solid, Cocoa Butter, Palm Kernel oil, Emulsifier (INS 322, INS 476) CONTAINS ADDED NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Choco Spraying (7.5%) (Sugar, Edible vegetable Palm Kernal oil, Cocos Solids, Emulsifier (INS 322) CONTAINS NATURE IDENTICAL VANILLIN FLAVOURING SUBSTANCES), Caramelised Nuts (3.8%) (Hazelnut, Almond, Sugar, Water). Wafer Biscuit Cone (11.6%): Wheat Flour, Sugar, Starch, Refined Vegetable Palm oil, Salt, Emulsifier (INS 322). CONTAINS PERMITTED NATURAL COLOURS (INS 150d) AND ARTIFKIAL VANILLA FLAVOURING SUBSTANCES.</p>\n\n\n\n\n\n"
+          ],
+          "4": [
+            1
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.ActionCard",
+        "payload": {
+          "1": [
+            "InstamartAssets/Bleed%20Blue/PDP%20Brand.png"
+          ],
+          "2": [
+            {
+              "1": [
+                "swiggy://stores/instamart/collection-listing?collectionId=106463&custom_back=true&brand=Hocco"
+              ],
+              "2": [
+                "Explore all Hocco items"
+              ]
+            }
+          ],
+          "3": [
+            {
+              "1": [
+                "store-item-view-instamart"
+              ],
+              "2": [
+                "{}"
+              ],
+              "4": [
+                "impression-menu-widget"
+              ],
+              "5": [
+                "click-cta"
+              ],
+              "7": [
+                {
+                  "1": [
+                    "widgetId"
+                  ],
+                  "2": [
+                    "159321"
+                  ]
+                },
+                {
+                  "1": [
+                    "collectionId"
+                  ],
+                  "2": [
+                    "106463"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Seller Details"
+          ],
+          "2": [
+            "<p>Seller Name: Greenmania Modern Retails Pvt Ltd HSR 3<br>FSSAI Number: 11222334000160<br>Address: 1st Floor No. 1784, Sector-1 , HSR Layout, BBMP Ward No. 174 Bengaluru-560102<br><br>Customer Care: instamart.support@swiggy.in</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.InfoCard",
+        "payload": {
+          "1": [
+            "Other Information"
+          ],
+          "2": [
+            "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>"
+          ],
+          "3": [
+            1
+          ],
+          "4": [
+            2
+          ]
+        }
+      },
+      {
+        "type_url": "type.googleapis.com/swiggy.im.v1.PageConfigs",
+        "payload": {
+          "3": [
+            12216
+          ],
+          "4": [
+            {
+              "1": [
+                "1231052"
+              ],
+              "2": [
+                {
+                  "1": [
+                    200
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x47147000",
+                      "uint32": 1192521728,
+                      "float32": 38000.0
+                    }
+                  ],
+                  "3": [
+                    {
+                      "hex": "0x47c35000",
+                      "uint32": 1203982336,
+                      "float32": 100000.0
+                    }
+                  ],
+                  "4": [
+                    {
+                      "1": [
+                        200
+                      ],
+                      "2": [
+                        {
+                          "hex": "0x466a6000",
+                          "uint32": 1181376512,
+                          "float32": 15000.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "5": [
+            {
+              "1": [
+                "1231052"
+              ],
+              "2": [
+                {
+                  "1": [
+                    200
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x47147000",
+                      "uint32": 1192521728,
+                      "float32": 38000.0
+                    }
+                  ],
+                  "3": [
+                    {
+                      "hex": "0x47c35000",
+                      "uint32": 1203982336,
+                      "float32": 100000.0
+                    }
+                  ],
+                  "4": [
+                    {
+                      "1": [
+                        200
+                      ],
+                      "2": [
+                        {
+                          "hex": "0x466a6000",
+                          "uint32": 1181376512,
+                          "float32": 15000.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                {
+                  "1": [
+                    3
+                  ],
+                  "2": [
+                    1
+                  ],
+                  "3": [
+                    {
+                      "1": [
+                        "4"
+                      ],
+                      "2": [
+                        "MINS"
+                      ],
+                      "3": [
+                        "#B6B6B6"
+                      ],
+                      "4": [
+                        "text_color_low_emphasis"
+                      ],
+                      "6": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "1": [
+                "1386090"
+              ],
+              "2": [
+                {
+                  "1": [
+                    200
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x47147000",
+                      "uint32": 1192521728,
+                      "float32": 38000.0
+                    }
+                  ],
+                  "3": [
+                    {
+                      "hex": "0x47c35000",
+                      "uint32": 1203982336,
+                      "float32": 100000.0
+                    }
+                  ],
+                  "4": [
+                    {
+                      "1": [
+                        200
+                      ],
+                      "2": [
+                        {
+                          "hex": "0x466a6000",
+                          "uint32": 1181376512,
+                          "float32": 15000.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "3": [
+                2
+              ],
+              "4": [
+                {
+                  "1": [
+                    3
+                  ],
+                  "2": [
+                    1
+                  ],
+                  "3": [
+                    {
+                      "1": [
+                        "6"
+                      ],
+                      "2": [
+                        "MINS"
+                      ],
+                      "3": [
+                        "#B6B6B6"
+                      ],
+                      "4": [
+                        "text_color_low_emphasis"
+                      ],
+                      "6": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "1": [
+                "1392660"
+              ],
+              "2": [
+                {
+                  "1": [
+                    200
+                  ],
+                  "2": [
+                    {
+                      "hex": "0x47927c00",
+                      "uint32": 1200782336,
+                      "float32": 75000.0
+                    }
+                  ],
+                  "3": [
+                    {
+                      "hex": "0x47c35000",
+                      "uint32": 1203982336,
+                      "float32": 100000.0
+                    }
+                  ],
+                  "4": [
+                    {
+                      "1": [
+                        99
+                      ],
+                      "2": [
+                        {
+                          "hex": "0x466a6000",
+                          "uint32": 1181376512,
+                          "float32": 15000.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "3": [
+                2
+              ],
+              "4": [
+                {
+                  "1": [
+                    3
+                  ],
+                  "3": [
+                    {
+                      "1": [
+                        "12"
+                      ],
+                      "2": [
+                        "MINS"
+                      ],
+                      "6": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "image_paths": [
+      "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+      "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+      "PNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+      "nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+      "nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png",
+      "nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+      "nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+      "nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png"
+    ],
+    "uuids": [
+      "3ed29bda-9981-4c08-b10b-6b56477a7fb7",
+      "689db868-2317-405c-ac53-b43d0ac0f723"
+    ],
+    "colors": [
+      "#80DFDFDF",
+      "#B6B6B6",
+      "#DFF9EE",
+      "#FFFFFF"
+    ],
+    "indexes": {
+      "by_item_id": {
+        "SZVR6C41NC": {
+          "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+          "brand": "Hocco",
+          "item_id": "SZVR6C41NC",
+          "spin_id": "KUTFIZTH7W",
+          "quantity": "135 ml",
+          "description": "Hazelnut-flavored ice cream in a crispy cone.",
+          "category": "Ice Cream and Indian Sweets",
+          "pod_id": "1231052",
+          "max_order_limit_units": 1,
+          "price": {
+            "currency": "INR",
+            "mrp": 100,
+            "selling_price": 88,
+            "savings": 12,
+            "discount_text": "12% OFF",
+            "unit_price_text": "65.2/100 ml",
+            "raw_inr_values": [
+              100,
+              88,
+              12
+            ]
+          },
+          "rating": {
+            "rating": 4.3,
+            "rating_count_text": "27.1k",
+            "rating_count_estimate": 27100
+          },
+          "delivery": {
+            "delivery_time_value": 4,
+            "delivery_time_unit": "MINS"
+          },
+          "image_ids": [
+            "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+          ],
+          "raw_fields": {
+            "product_node": {
+              "1": [
+                "Hocco Hazelnut Mudslide Cone Ice Cream"
+              ],
+              "2": [
+                "Hocco"
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                1
+              ],
+              "5": [
+                {
+                  "1": [
+                    "SZVR6C41NC"
+                  ],
+                  "2": [
+                    "KUTFIZTH7W"
+                  ],
+                  "3": [
+                    "135 ml"
+                  ],
+                  "4": [
+                    "Hocco Hazelnut Mudslide Cone Ice Cream"
+                  ],
+                  "5": [
+                    "Hocco"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                  ],
+                  "7": [
+                    1
+                  ],
+                  "9": [
+                    "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    135
+                  ],
+                  "19": [
+                    "1231052"
+                  ],
+                  "21": [
+                    "Hazelnut-flavored ice cream in a crispy cone."
+                  ],
+                  "25": [
+                    "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                }
+              ],
+              "8": [
+                {
+                  "1": [
+                    "store-item-view-instamart"
+                  ],
+                  "2": [
+                    "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}"
+                  ],
+                  "4": [
+                    "item-impression"
+                  ],
+                  "5": [
+                    "click-item"
+                  ],
+                  "7": [
+                    "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+                    "\n\u0004ppid\u0012\nHUUMLIWVJH",
+                    "\n\u0007oosFlag\u0012\u0002no",
+                    "\n\fskuAvailable\u0012\u0004true",
+                    "\n\u0003sla\u0012\u00064 MINS",
+                    "\n\u000bstoreIDflag\u0012\u0007PRIMARY"
+                  ]
+                }
+              ],
+              "9": [
+                "KITP4MZKVL"
+              ],
+              "12": [
+                "HUUMLIWVJH"
+              ]
+            },
+            "details_node": {
+              "1": [
+                "SZVR6C41NC"
+              ],
+              "2": [
+                "KUTFIZTH7W"
+              ],
+              "3": [
+                "135 ml"
+              ],
+              "4": [
+                "Hocco Hazelnut Mudslide Cone Ice Cream"
+              ],
+              "5": [
+                "Hocco"
+              ],
+              "6": [
+                "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+              ],
+              "7": [
+                1
+              ],
+              "9": [
+                "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+              ],
+              "10": [
+                "Ice Creams"
+              ],
+              "11": [
+                "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+              ],
+              "12": [
+                "\b\u0001"
+              ],
+              "13": [
+                "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+              ],
+              "14": [
+                "\b\u0001"
+              ],
+              "15": [
+                135
+              ],
+              "19": [
+                "1231052"
+              ],
+              "21": [
+                "Hazelnut-flavored ice cream in a crispy cone."
+              ],
+              "25": [
+                "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+              ],
+              "27": [
+                "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+              ],
+              "28": [
+                "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+              ],
+              "35": [
+                "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+              ],
+              "36": [
+                "Ice Cream and Indian Sweets"
+              ]
+            }
+          },
+          "event_payloads": [
+            {
+              "raw": "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+              "key": "variantAttributeArray",
+              "value_text": "Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+              "value_json": [
+                {
+                  "attributeName": "pack_size",
+                  "attributeRank": "1",
+                  "tileName": "135 ml",
+                  "tilePosition": "1"
+                }
+              ]
+            },
+            {
+              "raw": "\n\u0004ppid\u0012\nHUUMLIWVJH",
+              "key": "ppid",
+              "value_text": "HUUMLIWVJH"
+            },
+            {
+              "raw": "\n\u0007oosFlag\u0012\u0002no",
+              "key": "oosFlag",
+              "value_text": "no"
+            },
+            {
+              "raw": "\n\fskuAvailable\u0012\u0004true",
+              "key": "skuAvailable",
+              "value_text": "true"
+            },
+            {
+              "raw": "\n\u0003sla\u0012\u00064 MINS",
+              "key": "sla",
+              "value_text": "4 MINS"
+            },
+            {
+              "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+              "key": "storeIDflag",
+              "value_text": "PRIMARY"
+            }
+          ],
+          "event_metadata": {
+            "event_name": "store-item-view-instamart",
+            "event_context_json": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+            "impression": "item-impression",
+            "click_event": "click-item"
+          }
+        }
+      },
+      "by_spin_id": {
+        "KUTFIZTH7W": {
+          "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+          "brand": "Hocco",
+          "item_id": "SZVR6C41NC",
+          "spin_id": "KUTFIZTH7W",
+          "quantity": "135 ml",
+          "description": "Hazelnut-flavored ice cream in a crispy cone.",
+          "category": "Ice Cream and Indian Sweets",
+          "pod_id": "1231052",
+          "max_order_limit_units": 1,
+          "price": {
+            "currency": "INR",
+            "mrp": 100,
+            "selling_price": 88,
+            "savings": 12,
+            "discount_text": "12% OFF",
+            "unit_price_text": "65.2/100 ml",
+            "raw_inr_values": [
+              100,
+              88,
+              12
+            ]
+          },
+          "rating": {
+            "rating": 4.3,
+            "rating_count_text": "27.1k",
+            "rating_count_estimate": 27100
+          },
+          "delivery": {
+            "delivery_time_value": 4,
+            "delivery_time_unit": "MINS"
+          },
+          "image_ids": [
+            "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+            "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+          ],
+          "raw_fields": {
+            "product_node": {
+              "1": [
+                "Hocco Hazelnut Mudslide Cone Ice Cream"
+              ],
+              "2": [
+                "Hocco"
+              ],
+              "3": [
+                1
+              ],
+              "4": [
+                1
+              ],
+              "5": [
+                {
+                  "1": [
+                    "SZVR6C41NC"
+                  ],
+                  "2": [
+                    "KUTFIZTH7W"
+                  ],
+                  "3": [
+                    "135 ml"
+                  ],
+                  "4": [
+                    "Hocco Hazelnut Mudslide Cone Ice Cream"
+                  ],
+                  "5": [
+                    "Hocco"
+                  ],
+                  "6": [
+                    "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                    "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+                  ],
+                  "7": [
+                    1
+                  ],
+                  "9": [
+                    "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+                  ],
+                  "10": [
+                    "Ice Creams"
+                  ],
+                  "11": [
+                    "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+                  ],
+                  "12": [
+                    "\b\u0001"
+                  ],
+                  "13": [
+                    "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+                  ],
+                  "14": [
+                    "\b\u0001"
+                  ],
+                  "15": [
+                    135
+                  ],
+                  "19": [
+                    "1231052"
+                  ],
+                  "21": [
+                    "Hazelnut-flavored ice cream in a crispy cone."
+                  ],
+                  "25": [
+                    "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+                    "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+                  ],
+                  "27": [
+                    "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+                  ],
+                  "28": [
+                    "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+                  ],
+                  "35": [
+                    "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                    "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+                  ],
+                  "36": [
+                    "Ice Cream and Indian Sweets"
+                  ]
+                }
+              ],
+              "8": [
+                {
+                  "1": [
+                    "store-item-view-instamart"
+                  ],
+                  "2": [
+                    "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}"
+                  ],
+                  "4": [
+                    "item-impression"
+                  ],
+                  "5": [
+                    "click-item"
+                  ],
+                  "7": [
+                    "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+                    "\n\u0004ppid\u0012\nHUUMLIWVJH",
+                    "\n\u0007oosFlag\u0012\u0002no",
+                    "\n\fskuAvailable\u0012\u0004true",
+                    "\n\u0003sla\u0012\u00064 MINS",
+                    "\n\u000bstoreIDflag\u0012\u0007PRIMARY"
+                  ]
+                }
+              ],
+              "9": [
+                "KITP4MZKVL"
+              ],
+              "12": [
+                "HUUMLIWVJH"
+              ]
+            },
+            "details_node": {
+              "1": [
+                "SZVR6C41NC"
+              ],
+              "2": [
+                "KUTFIZTH7W"
+              ],
+              "3": [
+                "135 ml"
+              ],
+              "4": [
+                "Hocco Hazelnut Mudslide Cone Ice Cream"
+              ],
+              "5": [
+                "Hocco"
+              ],
+              "6": [
+                "NI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png",
+                "NI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png"
+              ],
+              "7": [
+                1
+              ],
+              "9": [
+                "\n\u0007\n\u0003INR\u0010d\u0012\u0007\n\u0003INR\u0010X\u001a\u000b65.2/100 ml\"\u0007\n\u0003INR\u0010\f*#\n\u000712% OFF\"\u0018\n\u000712% OFF\u0012\rcolorPositive"
+              ],
+              "10": [
+                "Ice Creams"
+              ],
+              "11": [
+                "\b\u0010\u0010\u0006\u0018\u0006 À\u0004"
+              ],
+              "12": [
+                "\b\u0001"
+              ],
+              "13": [
+                "\b\u0001\u00123Only 1 unit(s) of this item can be added per order."
+              ],
+              "14": [
+                "\b\u0001"
+              ],
+              "15": [
+                135
+              ],
+              "19": [
+                "1231052"
+              ],
+              "21": [
+                "Hazelnut-flavored ice cream in a crispy cone."
+              ],
+              "25": [
+                "\nPNI_CATALOG/IMAGES/CIW/2025/7/17/34d605e2-d400-4eca-8654-1bc400e8958e_79288_1.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/2d23de3a-74d7-40fa-a884-ceef5152e70f_79288_1.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/a6480e57-b7c0-45b1-be79-0b50dbc627bb_79288_2.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/e908d588-ceb4-4655-81b5-7f792ec8ad07_79288_3.png\u0018\u0001",
+                "\nONI_CATALOG/IMAGES/CIW/2025/7/9/35e53736-4437-4100-85f3-f32ece454a2d_79288_4.png\u0018\u0001"
+              ],
+              "27": [
+                "\n\u00034.3\u0012\bpositive\u001a\u000527.1k\"\u0007#DFF9EE"
+              ],
+              "28": [
+                "\n\u00014\u0012\u0004MINS\u001a\u0007#B6B6B6\"\u0017text_color_med_emphasis"
+              ],
+              "35": [
+                "\b\u0002\u0012\nâ¹150 OFF\u001a\u000ePayment Offers\"\u001btext_color_highest_emphasis*\u0017text_color_low_emphasis2\u0003150:)IM%20Alliance%20Logos/Visa_SBI%20Logo.png:2IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.pngB\u0001\nhttps://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=KUTFIZTH7W&pod_id=1231052&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                "\b\u0004\u0012>Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>\"\u0012text_high_emphasis*\bpositive:'InstamartAssets/Trust%20widget/card.pngBU\nSswiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=trueJ\u0017\n\u0015Swiggy HDFC Bank Card"
+              ],
+              "36": [
+                "Ice Cream and Indian Sweets"
+              ]
+            }
+          },
+          "event_payloads": [
+            {
+              "raw": "\n\u0015variantAttributeArray\u0012Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+              "key": "variantAttributeArray",
+              "value_text": "Z[{\"attributeName\":\"pack_size\",\"attributeRank\":\"1\",\"tileName\":\"135 ml\",\"tilePosition\":\"1\"}]",
+              "value_json": [
+                {
+                  "attributeName": "pack_size",
+                  "attributeRank": "1",
+                  "tileName": "135 ml",
+                  "tilePosition": "1"
+                }
+              ]
+            },
+            {
+              "raw": "\n\u0004ppid\u0012\nHUUMLIWVJH",
+              "key": "ppid",
+              "value_text": "HUUMLIWVJH"
+            },
+            {
+              "raw": "\n\u0007oosFlag\u0012\u0002no",
+              "key": "oosFlag",
+              "value_text": "no"
+            },
+            {
+              "raw": "\n\fskuAvailable\u0012\u0004true",
+              "key": "skuAvailable",
+              "value_text": "true"
+            },
+            {
+              "raw": "\n\u0003sla\u0012\u00064 MINS",
+              "key": "sla",
+              "value_text": "4 MINS"
+            },
+            {
+              "raw": "\n\u000bstoreIDflag\u0012\u0007PRIMARY",
+              "key": "storeIDflag",
+              "value_text": "PRIMARY"
+            }
+          ],
+          "event_metadata": {
+            "event_name": "store-item-view-instamart",
+            "event_context_json": "{\"itemId\":\"SZVR6C41NC\",\"slotAvailability\":true}",
+            "impression": "item-impression",
+            "click_event": "click-item"
+          }
+        }
+      }
+    }
+  },
+  "fallback": {
+    "missing_fields": [],
+    "notes": [
+      "If any field is null, use decoded_raw_text regex fallback or OCR from screenshot.",
+      "For app_location captures that are text-transformed, seller and exact prices may be incomplete."
+    ]
+  }
+}

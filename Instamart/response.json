@@ -1,0 +1,645 @@
+{
+    "data": {
+        "statusMessage": "",
+        "pageOffset": null,
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "header": null,
+                        "layout": {
+                            "rows": 1,
+                            "columns": 1,
+                            "horizontalScrollEnabled": false,
+                            "shouldSnap": false,
+                            "itemSpacing": 0,
+                            "lineSpacing": 0,
+                            "widgetPadding": null,
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 12,
+                                    "top": 0,
+                                    "right": 12,
+                                    "bottom": 18
+                                },
+                                "containerCornerRadius": null,
+                                "containerColor": "",
+                                "containerSeparatorConfig": null,
+                                "containerBackgroundGradient": null,
+                                "elevation": "ELEVATION_LEVEL_INVALID"
+                            },
+                            "viewPort": 0,
+                            "scrollBar": null,
+                            "autoScrollConfig": null,
+                            "separatorConfig": null,
+                            "backgroundColor": "",
+                            "widgetBorderStyle": null,
+                            "widgetTheme": null,
+                            "ordering": "ORDERING_INVALID",
+                            "dotScrollBar": null,
+                            "displayStyle": "",
+                            "backgroundAssetId": "",
+                            "pageScrollBar": null,
+                            "scrollAnimationType": "SCROLL_ANIMATION_TYPE_INVALID",
+                            "foregroundAsset": null,
+                            "isInfiniteScroll": false,
+                            "backgroundInfo": null,
+                            "gyroConfig": null
+                        },
+                        "id": "",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+                                "viewType": "VIEW_TYPE_FULL_WIDTH",
+                                "items": [
+                                    {
+                                        "displayName": "Tender Coconut (Lilu Nariyal)",
+                                        "brand": "Fruits and Vegetables",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "VY5OGGQWMP",
+                                                "spinId": "ZZ6FZR67BB",
+                                                "quantityDescription": "1 Piece x 3",
+                                                "displayName": "Tender Coconut (Lilu Nariyal)",
+                                                "brandName": "Fruits and Vegetables",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": true,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "249",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "192",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "64/piece",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "57",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "22% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "22% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Fruits",
+                                                "dimensions": {
+                                                    "lengthInCm": 7,
+                                                    "widthInCm": 7,
+                                                    "heightInCm": 7,
+                                                    "volumeInCc": 343
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 3,
+                                                    "quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 6600,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Regular",
+                                                "secondaryQuantityDescription": "200 - 300 ml",
+                                                "podId": "1395731",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Rich in potassium, naturally sweet hydration to beat the summer heat",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": null,
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [
+                                                    {
+                                                        "type": "OFFER_TYPE_CARD_CASHBACK",
+                                                        "text": "Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>",
+                                                        "subText": "",
+                                                        "textColor": "text_high_emphasis",
+                                                        "subTextColor": "positive",
+                                                        "offerValue": "",
+                                                        "icons": [
+                                                            "InstamartAssets/Trust%20widget/card.png"
+                                                        ],
+                                                        "cta": {
+                                                            "link": "swiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=true",
+                                                            "text": "",
+                                                            "type": "",
+                                                            "metaInfo": null,
+                                                            "subtext": "",
+                                                            "disabledText": "",
+                                                            "additionalInfo": null,
+                                                            "strikethroughText": "",
+                                                            "tooltip": null,
+                                                            "dlsType": "",
+                                                            "analytics": null,
+                                                            "creativeId": ""
+                                                        },
+                                                        "additionalInfo": {
+                                                            "text": "Swiggy HDFC Bank Card",
+                                                            "textColor": "",
+                                                            "backgroundColor": "",
+                                                            "offerValue": ""
+                                                        }
+                                                    }
+                                                ],
+                                                "superCategory": "Fruits and Vegetables",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "Q341XXQXFM",
+                                                "spinId": "97VIJRXBA7",
+                                                "quantityDescription": "1 Piece",
+                                                "displayName": "Tender Coconut (Lilu Nariyal)",
+                                                "brandName": "Fruits and Vegetables",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/c2f95d2e-d4bf-440a-9f9a-216accd09324_97VIJRXBA7_MN_18122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "83",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "66",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "17",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "20% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "20% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Fruits",
+                                                "dimensions": {
+                                                    "lengthInCm": 7,
+                                                    "widthInCm": 7,
+                                                    "heightInCm": 7,
+                                                    "volumeInCc": 343
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 2,
+                                                    "quantityLimitBreachedMessage": "Only 2 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 2200,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Regular",
+                                                "secondaryQuantityDescription": "200 - 300 ml",
+                                                "podId": "1395731",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Rich in potassium, naturally sweet hydration to beat the summer heat",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/c2f95d2e-d4bf-440a-9f9a-216accd09324_97VIJRXBA7_MN_18122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": null,
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [
+                                                    {
+                                                        "type": "OFFER_TYPE_PAYMENT_OFFER",
+                                                        "text": "₹125 OFF",
+                                                        "subText": "Payment Offers",
+                                                        "textColor": "text_color_highest_emphasis",
+                                                        "subTextColor": "text_color_low_emphasis",
+                                                        "offerValue": "125",
+                                                        "icons": [
+                                                            "IM%20Alliance%20Logos/HSBC%20Hexagon%20400x400.png",
+                                                            "InstamartAssets/CentralBankOfIndiaFoodOffersLogo.png?updatedAt=1755183062426"
+                                                        ],
+                                                        "cta": {
+                                                            "link": "https://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=97VIJRXBA7&pod_id=1395731&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                                                            "text": "",
+                                                            "type": "",
+                                                            "metaInfo": null,
+                                                            "subtext": "",
+                                                            "disabledText": "",
+                                                            "additionalInfo": null,
+                                                            "strikethroughText": "",
+                                                            "tooltip": null,
+                                                            "dlsType": "",
+                                                            "analytics": null,
+                                                            "creativeId": ""
+                                                        },
+                                                        "additionalInfo": null
+                                                    },
+                                                    {
+                                                        "type": "OFFER_TYPE_CARD_CASHBACK",
+                                                        "text": "Get {{10%}} extra cashback with a <b>Swiggy HDFC Bank Card</b>",
+                                                        "subText": "",
+                                                        "textColor": "text_high_emphasis",
+                                                        "subTextColor": "positive",
+                                                        "offerValue": "",
+                                                        "icons": [
+                                                            "InstamartAssets/Trust%20widget/card.png"
+                                                        ],
+                                                        "cta": {
+                                                            "link": "swiggy://fusion-landing?id=Landingpage_cbcc_category_payment&disableScreenshot=true",
+                                                            "text": "",
+                                                            "type": "",
+                                                            "metaInfo": null,
+                                                            "subtext": "",
+                                                            "disabledText": "",
+                                                            "additionalInfo": null,
+                                                            "strikethroughText": "",
+                                                            "tooltip": null,
+                                                            "dlsType": "",
+                                                            "analytics": null,
+                                                            "creativeId": ""
+                                                        },
+                                                        "additionalInfo": {
+                                                            "text": "Swiggy HDFC Bank Card",
+                                                            "textColor": "",
+                                                            "backgroundColor": "",
+                                                            "offerValue": ""
+                                                        }
+                                                    }
+                                                ],
+                                                "superCategory": "Fruits and Vegetables",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"Q341XXQXFM\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "4RL2JFCWQG",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "NYZ1G84L5G"
+                                    }
+                                ],
+                                "itemStyle": {
+                                    "width": {
+                                        "type": "TYPE_RELATIVE",
+                                        "value": 0.5,
+                                        "reference": "RELATIVE_DIMENSION_REFERENCE_DEVICE_WIDTH"
+                                    },
+                                    "height": {
+                                        "type": "TYPE_ABSOLUTE",
+                                        "value": 255,
+                                        "reference": "RELATIVE_DIMENSION_REFERENCE_INVALID"
+                                    }
+                                },
+                                "themedItemStyle": null,
+                                "themeType": "THEME_TYPE_INVALID",
+                                "variantAttributes": null
+                            }
+                        },
+                        "footer": null,
+                        "meta": null,
+                        "analytics": {
+                            "screenName": "",
+                            "context": "",
+                            "objectValue": "",
+                            "impressionObjectName": "",
+                            "clickObjectName": "",
+                            "attributionContext": "",
+                            "extraFields": {},
+                            "position": 0
+                        },
+                        "animation": null,
+                        "scrollAnchor": null,
+                        "frequencyCapping": null,
+                        "entityId": "",
+                        "entityType": ""
+                    },
+                    "relevance": null
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.im.v1.TabularCard",
+                        "title": "Highlights",
+                        "content": {
+                            "Q341XXQXFM": {
+                                "lineItems": [
+                                    {
+                                        "title": "Health Benefits",
+                                        "description": "Hydrates, Rich in Electrolytes"
+                                    },
+                                    {
+                                        "title": "Box Contents",
+                                        "description": "1 x Tender Coconut"
+                                    },
+                                    {
+                                        "title": "Pack Size",
+                                        "description": "1 Piece"
+                                    },
+                                    {
+                                        "title": "Packaging Type",
+                                        "description": "Shrink Film Wrap"
+                                    },
+                                    {
+                                        "title": "Source From",
+                                        "description": "Pollachi"
+                                    },
+                                    {
+                                        "title": "Storage Tip",
+                                        "description": "Store in A Cool, Dry Place"
+                                    }
+                                ]
+                            },
+                            "VY5OGGQWMP": {
+                                "lineItems": [
+                                    {
+                                        "title": "Box Contents",
+                                        "description": "3 x Tender Coconut"
+                                    },
+                                    {
+                                        "title": "Pack Size",
+                                        "description": "3 x 1 Piece"
+                                    },
+                                    {
+                                        "title": "Packaging Type",
+                                        "description": "No Packaging"
+                                    },
+                                    {
+                                        "title": "Source From",
+                                        "description": "Pollachi"
+                                    }
+                                ]
+                            }
+                        },
+                        "expand": false,
+                        "analytics": null
+                    },
+                    "relevance": null
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+                        "title": "Description",
+                        "description": "<ul><li><strong>Sourced from</strong> : Coastal Farms of Pollachi</li><li><strong>Flavour Profile</strong> : The clean, crisp Pollachi flavor - The classic, hydrating coconut water flavor with subtle nutty or mineral undertones. The flesh (malai) is delicate and mild.</li><li><strong>Texture Profile</strong> : Water - Light and extremely hydrating, Flesh (Malai) - Extremely tender, gelatinous, and easily scoopable with a spoon.</li></ul>",
+                        "expand": false,
+                        "viewType": "VIEW_TYPE_INNER",
+                        "analytics": null,
+                        "additionalInfo": []
+                    },
+                    "relevance": null
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.im.v1.ActionCard",
+                        "imageId": "InstamartAssets/Bleed%20Blue/PDP%20Brand.png",
+                        "cta": {
+                            "link": "swiggy://stores/instamart/collection-listing?collectionId=106463&custom_back=true&brand=Fruits%20and%20Vegetables",
+                            "text": "Explore all Fruits and Vegetables items",
+                            "type": "",
+                            "metaInfo": null,
+                            "subtext": "",
+                            "disabledText": "",
+                            "additionalInfo": null,
+                            "strikethroughText": "",
+                            "tooltip": null,
+                            "dlsType": "",
+                            "analytics": null,
+                            "creativeId": ""
+                        },
+                        "analytics": {
+                            "screenName": "",
+                            "context": "{}",
+                            "objectValue": "",
+                            "impressionObjectName": "impression-menu-widget",
+                            "clickObjectName": "click-cta",
+                            "attributionContext": "",
+                            "extraFields": {
+                                "collectionId": "106463",
+                                "widgetId": "159321"
+                            },
+                            "position": 0
+                        },
+                        "items": []
+                    },
+                    "relevance": null
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+                        "title": "Seller Details",
+                        "description": "<p>Seller Name: Swinsta Ent Pvt Ltd - Civil Hospital<br>FSSAI Number: 20240812106333860<br>Address: Shop No. G-1, GF, SS Annex, Plot No. B/1 & Plot No. B/2,  Part B, Rajkot, Gujarat, 360001<br><br>Customer Care: instamart.support@swiggy.in</p>",
+                        "expand": true,
+                        "viewType": "VIEW_TYPE_OUTER",
+                        "analytics": null,
+                        "additionalInfo": []
+                    },
+                    "relevance": null
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+                        "title": "Other Information",
+                        "description": "<p>Country Of Origin: India. The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>",
+                        "expand": true,
+                        "viewType": "VIEW_TYPE_OUTER",
+                        "analytics": null,
+                        "additionalInfo": []
+                    },
+                    "relevance": null
+                }
+            }
+        ],
+        "communication": null,
+        "firstOffsetRequest": true,
+        "ribbons": [],
+        "cacheExpiryTime": 300,
+        "nextFetch": 0,
+        "configs": {
+            "IM_PAGE_CONFIGS": {
+                "configInfo": [
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.im.v1.PageConfigs",
+                            "serviceabilityStatus": "",
+                            "serviceabilityType": "",
+                            "layoutId": 12216,
+                            "podDetails": {
+                                "podId": "1395731",
+                                "cartConstraints": {
+                                    "maxAllowedItemCount": 200,
+                                    "maxAllowedWeightInGrams": 38000,
+                                    "maxAllowedVolumeInCc": 100000,
+                                    "bulkCartConstraints": {
+                                        "minItemCount": 200,
+                                        "minWeightInGrams": 15000
+                                    }
+                                },
+                                "priority": "PRIORITY_INVALID",
+                                "serviceabilityDetails": null,
+                                "bucketId": "",
+                                "itemFulfilmentPriority": 0
+                            },
+                            "podDetailsList": [
+                                {
+                                    "podId": "1395731",
+                                    "cartConstraints": {
+                                        "maxAllowedItemCount": 200,
+                                        "maxAllowedWeightInGrams": 38000,
+                                        "maxAllowedVolumeInCc": 100000,
+                                        "bulkCartConstraints": {
+                                            "minItemCount": 200,
+                                            "minWeightInGrams": 15000
+                                        }
+                                    },
+                                    "priority": "PRIORITY_PRIMARY",
+                                    "serviceabilityDetails": null,
+                                    "bucketId": "",
+                                    "itemFulfilmentPriority": 0
+                                }
+                            ],
+                            "discountInfo": null,
+                            "showImLauncherDialog": false,
+                            "metaInfo": "",
+                            "showAiSearchResults": false,
+                            "contextualDiscoveryWidgetShownOnSrp": false,
+                            "cartConstraints": {
+                                "maxAllowedItemCount": 200,
+                                "maxAllowedWeightInGrams": 38000,
+                                "maxAllowedVolumeInCc": 100000,
+                                "bulkCartConstraints": {
+                                    "minItemCount": 200,
+                                    "minWeightInGrams": 15000
+                                }
+                            },
+                            "featureFlags": null,
+                            "printDetails": null,
+                            "encodedLoyaltyCtx": "",
+                            "themeConfig": null
+                        },
+                        "relevance": null
+                    }
+                ]
+            }
+        },
+        "hasFooter": false,
+        "encodedIrctcInfo": "",
+        "searchResultsOffset": "0",
+        "isOnboarded": false,
+        "poiType": "",
+        "requestId": "df082644-d75d-429b-8685-dbe8865fcc1c",
+        "statusCode": 0
+    },
+    "statusCode": 0
+}

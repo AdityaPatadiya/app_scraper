@@ -1,0 +1,84 @@
+### step-1 get the location
+
+Location:
+
+curl 'https://www.swiggy.com/api/instamart/home/select-location/v2' \
+  -X POST \
+  -H 'matcher: cef978ee9d7f989fgfed9be' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'x-build-version: 2.325.0' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'content-type: application/json' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'accept: */*' \
+  -H 'origin: https://www.swiggy.com' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.swiggy.com/instamart' \
+  -H 'accept-encoding: gzip, deflate, br, zstd' \
+  -H 'accept-language: en-US,en;q=0.9,hi;q=0.8,gu;q=0.7,ja;q=0.6' \
+  -H 'priority: u=1, i' \
+  -H 'cookie: __SW=jshRAVVFoUjQUzT3iG_98gM6XaGfNf2t; _device_id=260f3dbd-cea1-5b56-2cb4-cdfc460b92d6; fontsLoaded=1; _gcl_au=1.1.512451715.1772469270; _gid=GA1.2.1353878667.1772469270; dadl=true; deviceId=s%3A260f3dbd-cea1-5b56-2cb4-cdfc460b92d6.MFFHT2OU1Xn5GV5UsPGAmlNMau6sFPtzmCb4liz4Oc8; versionCode=1200; platform=web; subplatform=dweb; statusBarHeight=0; bottomOffset=0; genieTrackOn=false; isNative=false; openIMHP=false; addressId=s%3A.4Wx2Am9WLolnmzVcU32g6YaFDw0QbIBFRj2nkO7P25s; webBottomBarHeight=0; moe_uuid=0faa49ae-9e59-4c9e-8859-c97a3ca73bcb; lat=s%3A12.9765944.fBxObcmWnJwnT%2FoZ%2BGoqGdD3T1VPilgFPtdd99CDI1A; lng=s%3A77.5992708.aSPVQXrDnNTLtpT8i9Tn23Wzvw5uz%2FX6qGw55glvbCM; address=s%3ABengaluru%2C%20Karnataka%20560001%2C%20India.tGCQDqKHP3Lz%2Bnr0zyqKYCpFVvAP43%2FBUm8UrtYdS1U; _is_logged_in=; tid=s%3Ae7b95247-84f0-4608-acd1-e12ad8f7a4be.j5NDp04EWPfLiI8snEcZqsM9s1sfo1eoIdsHcb9nzM0; sid=s%3Aq106e3c8ce6-4420-44be-b59f-9ff1bca68.Ed0LSuJcyswL7ksI6ixxRPR3rqrfsKohxLD2n758wZI; ally-on=false; strId=; LocSrc=s%3AswgyUL.Dzm1rLPIhJmB3Tl2Xs6141hVZS0ofGP7LGmLXgQOA7Y; _guest_tid=abd9ff4d-5be2-451c-81fa-4320cb897b01; _sid=q101916fb98-0a07-429a-bd4b-1be57334f; _ga_34JYJ0BCRN=GS2.1.s1772606104$o7$g0$t1772606104$j60$l0$h0; _ga=GA1.1.104424946.1772469270; _ga_YE38MFJRBZ=GS2.1.s1772606104$o7$g0$t1772606104$j60$l0$h0; userLocation=%7B%22lat%22%3A12.9765944%2C%22lng%22%3A77.5992708%2C%22address%22%3A%22%22%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22%22%2C%22name%22%3A%22%22%7D; _ga_0XZC5MS97H=GS2.1.s1772606091$o3$g1$t1772607675$j60$l0$h0; _ga_VEG1HFE5VZ=GS2.1.s1772606091$o3$g1$t1772607675$j60$l0$h0; _ga_8N8XRG907L=GS2.1.s1772606091$o3$g1$t1772607675$j60$l0$h0; aws-waf-token=3ca54e02-6f65-4ff9-ac11-af4b9dc69957:HgoAlmg85DHsAAAA:ZP0dtKNE3n67QHmQ+0vEWlL1yHpeWM+Oln3AlEyHx/FeViHh7YAHYG7ZwF+a6hz0NDdf+kU0LyUDx7BZCQAMGBu4NtJDxygfU/1hf7y0Gu5p7SYMATGjCGo/wA2Twc9Xkea8EGThVd9piv3uMDZP18bq07DMJqDCEyNWdtfHPhpaEh/HVa5pzVh+B0nzJXk5hPXm5Y3o/xriSuC0LsUQ6W1QLwPv3hnJZ8dsbG+Y2i2rlNWZlIYN' \
+  --data-raw '{"data":{"lat":22.2964051,"lng":70.79415639999999,"clientId":"INSTAMART-APP"}}' --compressed -v --output response_location.json
+
+outcomes: get the userLocation, aws-waf-token, podId (which uses as storeId in further request for product search)
+
+
+product
+
+curl 'https://www.swiggy.com/api/instamart/item/v2/4RL2JFCWQG/widgets?storeId=1395731&primaryStoreId=1395731&secondaryStoreId=' \
+  -X GET \
+  -H 'matcher: bafae8ee9d7dgda78c9cbfc' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'x-build-version: 2.325.0' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'content-type: application/json' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.swiggy.com/instamart/item/4RL2JFCWQG' \
+  -H 'accept-encoding: gzip, deflate, br, zstd' \
+  -H 'accept-language: en-US,en;q=0.9,hi;q=0.8,gu;q=0.7,ja;q=0.6' \
+  -H 'priority: u=1, i' \
+  -H 'cookie: __SW=jshRAVVFoUjQUzT3iG_98gM6XaGfNf2t; _device_id=260f3dbd-cea1-5b56-2cb4-cdfc460b92d6; fontsLoaded=1; _gcl_au=1.1.512451715.1772469270; _gid=GA1.2.1353878667.1772469270; dadl=true; deviceId=s%3A260f3dbd-cea1-5b56-2cb4-cdfc460b92d6.MFFHT2OU1Xn5GV5UsPGAmlNMau6sFPtzmCb4liz4Oc8; versionCode=1200; platform=web; subplatform=dweb; statusBarHeight=0; bottomOffset=0; genieTrackOn=false; isNative=false; openIMHP=false; addressId=s%3A.4Wx2Am9WLolnmzVcU32g6YaFDw0QbIBFRj2nkO7P25s; webBottomBarHeight=0; moe_uuid=0faa49ae-9e59-4c9e-8859-c97a3ca73bcb; lat=s%3A12.9765944.fBxObcmWnJwnT%2FoZ%2BGoqGdD3T1VPilgFPtdd99CDI1A; lng=s%3A77.5992708.aSPVQXrDnNTLtpT8i9Tn23Wzvw5uz%2FX6qGw55glvbCM; address=s%3ABengaluru%2C%20Karnataka%20560001%2C%20India.tGCQDqKHP3Lz%2Bnr0zyqKYCpFVvAP43%2FBUm8UrtYdS1U; _is_logged_in=; tid=s%3Ae7b95247-84f0-4608-acd1-e12ad8f7a4be.j5NDp04EWPfLiI8snEcZqsM9s1sfo1eoIdsHcb9nzM0; sid=s%3Aq106e3c8ce6-4420-44be-b59f-9ff1bca68.Ed0LSuJcyswL7ksI6ixxRPR3rqrfsKohxLD2n758wZI; ally-on=false; strId=; LocSrc=s%3AswgyUL.Dzm1rLPIhJmB3Tl2Xs6141hVZS0ofGP7LGmLXgQOA7Y; _guest_tid=abd9ff4d-5be2-451c-81fa-4320cb897b01; _sid=q101916fb98-0a07-429a-bd4b-1be57334f; _ga_34JYJ0BCRN=GS2.1.s1772606104$o7$g0$t1772606104$j60$l0$h0; _ga=GA1.1.104424946.1772469270; _ga_YE38MFJRBZ=GS2.1.s1772606104$o7$g0$t1772606104$j60$l0$h0; userLocation=%7B%22lat%22%3A22.2964051%2C%22lng%22%3A70.79415639999999%2C%22address%22%3A%22%22%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22%22%2C%22name%22%3A%22%22%7D; _ga_0XZC5MS97H=GS2.1.s1772606091$o3$g1$t1772606938$j38$l0$h0; _ga_VEG1HFE5VZ=GS2.1.s1772606091$o3$g1$t1772606938$j38$l0$h0; _ga_8N8XRG907L=GS2.1.s1772606091$o3$g1$t1772606938$j37$l0$h0; aws-waf-token=3ca54e02-6f65-4ff9-ac11-af4b9dc69957:HgoAvM9AxdU+AQAA:IBfoQ2ZqSH/42DhxSmiMvKvVVJnP0bt+3ftjRaEVITPdJTP5yxTyEVxmVcL5CauqFeaCzhhWQLDtLm57g09Jvbqo4meXZtpFdfTKOZEpQ8Y1Zqmns2w4KXmOqLhdUuTIl2yvoh5G03Kfj6nKbmMuNR8Lx2jqbR7S60GM3ogysrEl+ICKq5SNX1P0ikR3ZfObBa+9YE19T/MPEdI4rGFk3ru3xSq8jpwHsB8t6qUhqRou7GGW9Pdm' --compressed -v --output response.json;
+
+
+
+
+curl 'https://www.swiggy.com/api/instamart/item/v2/4RL2JFCWQG/widgets?storeId=1403020&primaryStoreId=1403020&secondaryStoreId=' \
+  -X GET \
+  -H 'matcher: bafae8ee9d7dgda78c9cbfc' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'x-build-version: 2.325.0' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'content-type: application/json' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.swiggy.com/instamart/item/4RL2JFCWQG' \
+  -H 'accept-encoding: gzip, deflate, br, zstd' \
+  -H 'accept-language: en-US,en;q=0.9,hi;q=0.8,gu;q=0.7,ja;q=0.6' \
+  -H 'priority: u=1, i' \
+  -H 'cookie: __SW=jshRAVVFoUjQUzT3iG_98gM6XaGfNf2t; _device_id=260f3dbd-cea1-5b56-2cb4-cdfc460b92d6; fontsLoaded=1; _gcl_au=1.1.512451715.1772469270; _gid=GA1.2.1353878667.1772469270; dadl=true; deviceId=s%3A260f3dbd-cea1-5b56-2cb4-cdfc460b92d6.MFFHT2OU1Xn5GV5UsPGAmlNMau6sFPtzmCb4liz4Oc8; versionCode=1200; platform=web; subplatform=dweb; statusBarHeight=0; bottomOffset=0; genieTrackOn=false; isNative=false; openIMHP=false; addressId=s%3A.4Wx2Am9WLolnmzVcU32g6YaFDw0QbIBFRj2nkO7P25s; webBottomBarHeight=0; moe_uuid=0faa49ae-9e59-4c9e-8859-c97a3ca73bcb; lat=s%3A12.9765944.fBxObcmWnJwnT%2FoZ%2BGoqGdD3T1VPilgFPtdd99CDI1A; lng=s%3A77.5992708.aSPVQXrDnNTLtpT8i9Tn23Wzvw5uz%2FX6qGw55glvbCM; address=s%3ABengaluru%2C%20Karnataka%20560001%2C%20India.tGCQDqKHP3Lz%2Bnr0zyqKYCpFVvAP43%2FBUm8UrtYdS1U; _is_logged_in=; tid=s%3Ae7b95247-84f0-4608-acd1-e12ad8f7a4be.j5NDp04EWPfLiI8snEcZqsM9s1sfo1eoIdsHcb9nzM0; sid=s%3Aq106e3c8ce6-4420-44be-b59f-9ff1bca68.Ed0LSuJcyswL7ksI6ixxRPR3rqrfsKohxLD2n758wZI; ally-on=false; strId=; LocSrc=s%3AswgyUL.Dzm1rLPIhJmB3Tl2Xs6141hVZS0ofGP7LGmLXgQOA7Y; _guest_tid=abd9ff4d-5be2-451c-81fa-4320cb897b01; _sid=q101916fb98-0a07-429a-bd4b-1be57334f; _ga_34JYJ0BCRN=GS2.1.s1772606104$o7$g0$t1772606104$j60$l0$h0; _ga=GA1.1.104424946.1772469270; _ga_YE38MFJRBZ=GS2.1.s1772606104$o7$g0$t1772606104$j60$l0$h0; userLocation=%7B%22lat%22%3A12.9765944%2C%22lng%22%3A77.5992708%2C%22address%22%3A%22%22%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22%22%2C%22name%22%3A%22%22%7D; _ga_0XZC5MS97H=GS2.1.s1772606091$o3$g1$t1772606938$j38$l0$h0; _ga_VEG1HFE5VZ=GS2.1.s1772606091$o3$g1$t1772606938$j38$l0$h0; _ga_8N8XRG907L=GS2.1.s1772606091$o3$g1$t1772606938$j37$l0$h0; aws-waf-token=3ca54e02-6f65-4ff9-ac11-af4b9dc69957:HgoAcT86N+lHAQAA:DqMUum7KEmoRN0xsC1XdR7gEDkr2oO+b2cmoml85UavU3/ZvELve70VHirBW7mAhiTRJWbx64AC51yBPNdCCyDk3224YUvtIiBI0+Wp5XMLVLNvtzS5ISMLtYjGxvNA+mSqvDrGkLpBbemKW/kgP0vNTzXTdJAPkPqUkv9XUIA7etgIySW1PM7Fd/O7laD8ZQaZoEsfKX3fXyi8ymtwc+CSGmPvLJc3WS2dQS2sAz2RI2h/IIrW1' --compressed -v --output response.json;
+
+
+
+on change location -> change items:
+                                    - storeId
+                                    - check for the aws-waf-token
+                                    - userLocation that will get from the location change
+
+
+
+831011: %7B%22lat%22%3A22.80694%2C%22lng%22%3A86.182114%2C%22address%22%3A%22%22%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22%22%2C%22name%22%3A%22%22%7D
+
+560001:%7B%22lat%22%3A12.9765944%2C%22lng%22%3A77.5992708%2C%22address%22%3A%22%22%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22%22%2C%22name%22%3A%22%22%7D
+
