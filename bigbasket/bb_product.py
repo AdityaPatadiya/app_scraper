@@ -52,11 +52,11 @@ import base64
 # PRODUCT_ID = 40108468
 
 # Runtime defaults (used if no active config block is uncommented)
-PINCODE = globals().get("PINCODE", "700001")
-LAT = globals().get("LAT", "22.5726")
-LNG = globals().get("LNG", "88.3639")
+PINCODE = globals().get("PINCODE", "400001")
+LAT = globals().get("LAT", "18.9388")
+LNG = globals().get("LNG", "72.8354")
 ADDRESS_ID = globals().get("ADDRESS_ID", int(PINCODE))
-PRODUCT_ID = globals().get("PRODUCT_ID", 40108468)
+PRODUCT_ID = globals().get("PRODUCT_ID", 40242712)
 
 
 # Cookies / tokens that must be provided (copy fresh values here)
