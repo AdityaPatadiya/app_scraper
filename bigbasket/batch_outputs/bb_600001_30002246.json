@@ -1,0 +1,238 @@
+{
+  "started_at_utc": "2026-03-10T07:00:58.120608+00:00",
+  "location": {
+    "pincode": "600001",
+    "name": "Chennai (George Town / GPO)",
+    "lat": "13.0837",
+    "lng": "80.2707"
+  },
+  "product_id": 30002246,
+  "status": "ok",
+  "response": {
+    "data": {
+      "product": {
+        "base_img_url": "https://www.bbassets.com/media/uploads",
+        "id": "30002246",
+        "desc": "Gold Gingelly/Til Sesame Oil",
+        "pack_desc": "PET Bottle",
+        "w": "1 L",
+        "absolute_url": "/pd/30002246/til-sona-oil-til-915-g-botle/",
+        "cart_count": 0,
+        "availability": {
+          "avail_status": "010",
+          "short_eta": null,
+          "medium_eta": null,
+          "long_eta": null,
+          "label": "We are currently not delivering this",
+          "display_mrp": false,
+          "display_sp": false,
+          "not_for_sale": null,
+          "button": "Notify Me",
+          "show_express": null
+        },
+        "images": [
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246_4-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246_4-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246_4-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246_4-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246_4-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-2_6-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-2_6-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-2_6-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-2_6-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-2_6-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-3_6-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-3_6-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-3_6-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-3_6-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-3_6-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-4_6-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-4_6-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-4_6-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-4_6-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-4_6-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-5_6-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-5_6-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-5_6-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-5_6-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-5_6-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-6_1-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-6_1-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-6_1-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-6_1-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-6_1-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-7_1-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-7_1-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-7_1-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-7_1-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-7_1-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-8_1-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-8_1-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-8_1-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-8_1-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-8_1-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-9_1-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-9_1-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-9_1-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-9_1-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-9_1-til-sona-oil-til.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/30002246-10_1-til-sona-oil-til.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/30002246-10_1-til-sona-oil-til.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/30002246-10_1-til-sona-oil-til.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/30002246-10_1-til-sona-oil-til.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/30002246-10_1-til-sona-oil-til.jpg"
+          }
+        ],
+        "variable_weight": null,
+        "brand": {
+          "name": "Tilsona",
+          "slug": "tilsona",
+          "url": "/pb/tilsona/"
+        },
+        "additional_attr": {
+          "bby_lod": null,
+          "info": [
+            {
+              "id": null,
+              "type": "food_type",
+              "image_url": null,
+              "sub_type": "veg",
+              "label": "veg",
+              "position": null
+            }
+          ]
+        },
+        "tabs": [
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Tilsona Gold Sesame Oil - made from the perfect blend of the finest quality sesame seeds, which go through a proprietary process to deliver the best flavour and retain all the natural micronutrients from the seeds to the oil. Tilsona Gold has a smooth texture, nutty flavour, and high nutritional value, making it ideal for everyday cooking. Simply sesame - and nothing else! </p>\n        </div>",
+            "title": "About the Product"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Sesame (Gingelly/Til) Oil</p>\n        </div>",
+            "title": "Ingredients"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 100g\r\nServing_Size: 15g\r\nEnergy (Kcal): 900 kcal\r\nTotal Fat (g): 100 g\r\nSaturated Fatty Acids (g): 16.9 g\r\nCarbohydrates, Sugar (g): 0 g\r\nCholesterol, Sodium (mg): 0 mg\r\nProtein, Trans Fatty Acids (g): 0 g\n        </div>",
+            "title": "Nutritional Facts"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <ul><li><span data-start=\"23\" data-end=\"55\" data-is-only-node=\"\">No Preservatives &amp; Additives</span></li><li><span data-start=\"60\" data-end=\"69\" data-is-only-node=\"\">Vegan</span></li><li><span data-start=\"74\" data-end=\"91\" data-is-only-node=\"\">Rich in Taste</span></li><li><span data-start=\"96\" data-end=\"121\" data-is-only-node=\"\">Rich in Anti-Oxidants</span></li><li><span data-start=\"126\" data-end=\"145\" data-is-only-node=\"\">Rich in Omega-6</span></li><li><span data-start=\"150\" data-end=\"185\" data-is-only-node=\"\">Equal Proportion of MUFA &amp; PUFA</span></li><li><span data-start=\"190\" data-end=\"231\" data-is-only-node=\"\">Zero % Trans Fat &amp; Zero % Cholesterol</span></li></ul>\n        </div>",
+            "title": "Benefits"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p><span style=\"font-family: &quot;Proxima Nova&quot;;\">EAN Code: 30002246  </span></p><p><span style=\"font-family: &quot;Proxima Nova&quot;;\"><br></span></p><p><span style=\"font-family: &quot;Proxima Nova&quot;;\">Fssai No.:&nbsp;10013022002313</span></p><p><span style=\"font-family: &quot;Proxima Nova&quot;;\"><br></span></p><p><span style=\"font-family: &quot;Proxima Nova&quot;;\">Manufactured At:\r\nRecon Oil Industries Pvt. Ltd.,\r\nKhasra No. 174/1, Village Maharajpura,\r\nNear Kesari Vanaspati, Tehsil Newai \u00e2\u20ac\u201c 304021, Tonk, Rajasthan, India<br data-start=\"312\" data-end=\"315\">\r\nFSSAI Lic. No.: 10021013000156</span></p><p><span style=\"font-family: &quot;Proxima Nova&quot;;\"><br></span></p><p><span style=\"font-family: &quot;Proxima Nova&quot;;\">Marketed by:&nbsp;Recon Oil Industries Pvt. Ltd.,&nbsp;Regd. Office: 5, Chunawala Estate, Kondivitta Road,\r\nJ. B. Nagar, Andheri (E), Mumbai \u00e2\u20ac\u201c 400059,\r\nMaharashtra, India</span></p><p><span style=\"font-family: &quot;Proxima Nova&quot;;\"><br></span></p><p>Country of origin: India</p><p><br></p><p>Best before 09-09-2026</p><p><br></p><p>Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date.</p><p><br></p><p>For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email: customerservice@bigbasket.com</p>\n        </div>",
+            "title": "Other Product Info"
+          }
+        ],
+        "tags": [
+          {
+            "header": "COUNTRY OF ORIGIN",
+            "values": [
+              {
+                "display_name": "India",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=country-of-origin--india",
+                "url": "/ts/173/country-of-origin/india"
+              }
+            ]
+          },
+          {
+            "header": "FOOD PREFERENCE",
+            "values": [
+              {
+                "display_name": "Vegetarian",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                "url": "/ts/787/food-preference/vegetarian"
+              }
+            ]
+          }
+        ],
+        "combo": null,
+        "category": {
+          "tlc_name": "Foodgrains, Oil & Masala",
+          "tlc_slug": "foodgrains-oil-masala",
+          "llc_slug": "type=pc&slug=gingelly-oil",
+          "llc_name": "Gingelly Oil",
+          "llc_id": 869
+        },
+        "rating_info": {
+          "avg_rating": "4.1",
+          "rating_count": 2194,
+          "review_count": 51,
+          "sku_id": 100003379
+        },
+        "breadcrumb": [
+          {
+            "id": 381,
+            "name": "foodgrains, oil & masala",
+            "slug": "foodgrains-oil-masala",
+            "type": "pc",
+            "url": "/cl/foodgrains-oil-masala/"
+          },
+          {
+            "id": 382,
+            "name": "edible oils & ghee",
+            "slug": "edible-oils-ghee",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/edible-oils-ghee/"
+          },
+          {
+            "id": 869,
+            "name": "gingelly oil",
+            "slug": "gingelly-oil",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/edible-oils-ghee/gingelly-oil/"
+          }
+        ],
+        "aplus_url": "/media/uploads/groot/html/tilsona-gold-15-jun-22-15-06-2022.html",
+        "pricing": {
+          "discount": {
+            "mrp": null,
+            "d_text": null,
+            "d_avail": null,
+            "prim_price": {
+              "sp": null,
+              "icon": null,
+              "desc": null
+            },
+            "sec_price": null,
+            "offer_entry_text": null,
+            "offer_available": null
+          },
+          "promo": null
+        },
+        "children": []
+      }
+    }
+  }
+}

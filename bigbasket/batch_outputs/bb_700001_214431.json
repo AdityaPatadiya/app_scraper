@@ -1,0 +1,247 @@
+{
+  "started_at_utc": "2026-03-10T07:00:40.950436+00:00",
+  "location": {
+    "pincode": "700001",
+    "name": "Kolkata (BBD Bagh)",
+    "lat": "22.5726",
+    "lng": "88.3639"
+  },
+  "product_id": 214431,
+  "status": "ok",
+  "response": {
+    "data": {
+      "product": {
+        "base_img_url": "https://www.bbassets.com/media/uploads",
+        "id": "214431",
+        "desc": "Sugar - Refined",
+        "pack_desc": "Pouch",
+        "w": "5 kg",
+        "absolute_url": "/pd/214431/madhur-sugar-refined-5-kg-pouch/",
+        "cart_count": 0,
+        "availability": {
+          "avail_status": "001",
+          "short_eta": "1 day",
+          "medium_eta": "Get it in 1 day",
+          "long_eta": "Get it in 1 day",
+          "label": null,
+          "display_mrp": true,
+          "display_sp": true,
+          "not_for_sale": false,
+          "button": "Add",
+          "show_express": false
+        },
+        "images": [
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/214431_11-madhur-sugar-refined.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/214431_11-madhur-sugar-refined.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/214431_11-madhur-sugar-refined.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/214431_11-madhur-sugar-refined.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/214431_11-madhur-sugar-refined.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/214431-2_4-madhur-sugar-refined.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/214431-2_4-madhur-sugar-refined.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/214431-2_4-madhur-sugar-refined.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/214431-2_4-madhur-sugar-refined.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/214431-2_4-madhur-sugar-refined.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/214431-3_3-madhur-sugar-refined.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/214431-3_3-madhur-sugar-refined.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/214431-3_3-madhur-sugar-refined.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/214431-3_3-madhur-sugar-refined.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/214431-3_3-madhur-sugar-refined.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/214431-4_3-madhur-sugar-refined.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/214431-4_3-madhur-sugar-refined.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/214431-4_3-madhur-sugar-refined.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/214431-4_3-madhur-sugar-refined.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/214431-4_3-madhur-sugar-refined.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/214431-5_2-madhur-sugar-refined.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/214431-5_2-madhur-sugar-refined.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/214431-5_2-madhur-sugar-refined.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/214431-5_2-madhur-sugar-refined.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/214431-5_2-madhur-sugar-refined.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/214431-6_2-madhur-sugar-refined.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/214431-6_2-madhur-sugar-refined.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/214431-6_2-madhur-sugar-refined.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/214431-6_2-madhur-sugar-refined.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/214431-6_2-madhur-sugar-refined.jpg"
+          }
+        ],
+        "variable_weight": null,
+        "brand": {
+          "name": "Madhur",
+          "slug": "madhur",
+          "url": "/pb/madhur/"
+        },
+        "additional_attr": {
+          "bby_lod": null,
+          "info": [
+            {
+              "id": null,
+              "type": "food_type",
+              "image_url": null,
+              "sub_type": "veg",
+              "label": "veg",
+              "position": null
+            }
+          ]
+        },
+        "tabs": [
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Madhur Sugar - Refined is a premium quality sugar, known for its exceptional purity and fine granules. Sourced from the best sugarcane crops, it undergoes a meticulous refining process to ensure it meets the highest standards of quality. This refined sugar is free from impurities and is perfect for a variety of culinary applications, including baking, confectionery, and sweetening beverages. Its consistent texture and sweetness enhance the flavour of every dish, making it a preferred choice in many households and professional kitchens. Madhur Sugar - Refined comes in convenient, hygienic packaging that ensures it remains fresh and uncontaminated. Trusted for its quality and consistency, it is an essential ingredient for all your sweetening needs.</p>\n        </div>",
+            "title": "About the Product"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 8906026900053</p><p>Manufactured &amp; Marketed by:Shree Renuka Sugars Ltd. BC 105, Havelock Road, Camp, Belgaum, Karnataka 590001</p><p>Country of origin: India</p><p>Best Before 10-03-2027.</p><p>Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date</p><p>For Queries/Feedback/Complaints, contact our customer care executive at 1860 123 1000 | Address:Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory bus stop. KR Puram, Bangalore-560016, Email: customerservice@bigbasket.com&nbsp;</p>\n        </div>",
+            "title": "Other Product Info"
+          }
+        ],
+        "tags": [
+          {
+            "header": "COUNTRY OF ORIGIN",
+            "values": [
+              {
+                "display_name": "India",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=country-of-origin--india",
+                "url": "/ts/173/country-of-origin/india"
+              }
+            ]
+          },
+          {
+            "header": "FOOD PREFERENCE",
+            "values": [
+              {
+                "display_name": "Vegetarian",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                "url": "/ts/787/food-preference/vegetarian"
+              }
+            ]
+          },
+          {
+            "header": "SUGAR TYPE",
+            "values": [
+              {
+                "display_name": "Refined Sugar",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=sugar-type--refined-sugar",
+                "url": "/ts/4354/sugar-type/refined-sugar"
+              }
+            ]
+          },
+          {
+            "header": "GRAIN SIZE",
+            "values": [
+              {
+                "display_name": "Crystal",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=grain-size--crystal",
+                "url": "/ts/4359/grain-size/crystal"
+              }
+            ]
+          },
+          {
+            "header": "OCCASION",
+            "values": [
+              {
+                "display_name": "Valentine",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=occasion--valentine",
+                "url": "/ts/5126/occasion/valentine"
+              }
+            ]
+          },
+          {
+            "header": "TOP DEALS",
+            "values": [
+              {
+                "display_name": "Deals",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=top-deals--deals",
+                "url": "/ts/15347/top-deals/deals"
+              }
+            ]
+          }
+        ],
+        "combo": null,
+        "category": {
+          "tlc_name": "Foodgrains, Oil & Masala",
+          "tlc_slug": "foodgrains-oil-masala",
+          "llc_slug": "type=pc&slug=sugar-jaggery",
+          "llc_name": "Sugar & Jaggery",
+          "llc_id": 1470
+        },
+        "rating_info": {
+          "avg_rating": "4.1",
+          "rating_count": 43833,
+          "review_count": 732,
+          "sku_id": 214431
+        },
+        "breadcrumb": [
+          {
+            "id": 381,
+            "name": "foodgrains, oil & masala",
+            "slug": "foodgrains-oil-masala",
+            "type": "pc",
+            "url": "/cl/foodgrains-oil-masala/"
+          },
+          {
+            "id": 391,
+            "name": "salt, sugar & jaggery",
+            "slug": "salt-sugar-jaggery",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+          },
+          {
+            "id": 1470,
+            "name": "sugar & jaggery",
+            "slug": "sugar-jaggery",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugar-jaggery/"
+          }
+        ],
+        "aplus_url": null,
+        "pricing": {
+          "discount": {
+            "mrp": "315",
+            "d_text": "",
+            "d_avail": "false",
+            "prim_price": {
+              "sp": "315",
+              "icon": {
+                "base_url": null,
+                "image": null,
+                "format": null
+              },
+              "desc": ""
+            },
+            "sec_price": {
+              "sp": null,
+              "icon": null,
+              "desc": null,
+              "background": null
+            },
+            "offer_entry_text": "",
+            "offer_available": "false"
+          },
+          "promo": null
+        },
+        "children": []
+      }
+    }
+  }
+}

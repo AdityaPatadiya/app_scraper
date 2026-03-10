@@ -1,0 +1,1571 @@
+{
+  "started_at_utc": "2026-03-10T07:01:00.658416+00:00",
+  "location": {
+    "pincode": "600001",
+    "name": "Chennai (George Town / GPO)",
+    "lat": "13.0837",
+    "lng": "80.2707"
+  },
+  "product_id": 40179976,
+  "status": "ok",
+  "response": {
+    "data": {
+      "product": {
+        "base_img_url": "https://www.bbassets.com/media/uploads",
+        "id": "40179976",
+        "desc": "Corn Flakes - Original",
+        "pack_desc": "",
+        "w": "1.15 kg",
+        "absolute_url": "/pd/40179976/kelloggs-corn-flakes-original-12-kg/",
+        "cart_count": 0,
+        "availability": {
+          "avail_status": "001",
+          "short_eta": null,
+          "medium_eta": null,
+          "long_eta": null,
+          "label": null,
+          "display_mrp": true,
+          "display_sp": true,
+          "not_for_sale": false,
+          "button": "Add",
+          "show_express": null
+        },
+        "images": [
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976_7-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976_7-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976_7-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976_7-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976_7-kelloggs-corn-flakes-original.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976-2_11-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976-2_11-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976-2_11-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976-2_11-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976-2_11-kelloggs-corn-flakes-original.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976-3_11-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976-3_11-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976-3_11-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976-3_11-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976-3_11-kelloggs-corn-flakes-original.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976-4_11-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976-4_11-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976-4_11-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976-4_11-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976-4_11-kelloggs-corn-flakes-original.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976-5_11-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976-5_11-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976-5_11-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976-5_11-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976-5_11-kelloggs-corn-flakes-original.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976-6_5-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976-6_5-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976-6_5-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976-6_5-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976-6_5-kelloggs-corn-flakes-original.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976-7_5-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976-7_5-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976-7_5-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976-7_5-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976-7_5-kelloggs-corn-flakes-original.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40179976-8_5-kelloggs-corn-flakes-original.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40179976-8_5-kelloggs-corn-flakes-original.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40179976-8_5-kelloggs-corn-flakes-original.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40179976-8_5-kelloggs-corn-flakes-original.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40179976-8_5-kelloggs-corn-flakes-original.jpg"
+          }
+        ],
+        "variable_weight": null,
+        "brand": {
+          "name": "Kellogg's",
+          "slug": "kelloggs",
+          "url": "/pb/kelloggs/"
+        },
+        "additional_attr": {
+          "bby_lod": null,
+          "info": [
+            {
+              "id": null,
+              "type": "food_type",
+              "image_url": null,
+              "sub_type": "veg",
+              "label": "veg",
+              "position": null
+            }
+          ]
+        },
+        "tabs": [
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Indulge in the perfect blend of health and flavour with the McVities Oats Cookies family pack. Infused with the goodness of ginger and the satisfying crunch of wheat flour, these cookies offer a truly unique and delightful experience. Bursting with a distinct ginger flavour and a nourishing, wholesome profile, they are the ideal treat for the whole family.\r\r\n \r\r\n Enjoy the perfect balance of taste and nutrition in every bite, as the ginger and wheat come together to create a mouthwatering, sensory delight. Whether you're looking for a healthy snack or a moment of indulgence, these cookies are sure to satisfy your cravings and leave you craving more of their irresistible flavour and texture.\n        </div>",
+            "title": "About the Product"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Corn Grits (90%), Sugar, Cereal Extract, Iodized Salt, Vitamins, Antioxidant (INS 307b), Minerals\n        </div>",
+            "title": "Ingredients"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 100g\r\nServing_Size: 30 g\r\nENERGY: 378 kcal\r\nENERGY FROM FAT: 9 kcal\r\nTOTAL FAT: 1.0 g\r\nSATURATED FATTY ACIDS: 0.6 g\r\nMONOUNSATURATED FATTY ACIDS: 0.1 g\r\nPOLYUNSATURATED FATTY ACIDS: 0.2 g\r\nTRANS FATTY ACIDS: 0 g\r\nCHOLESTEROL: 0 mg\r\nTOTAL CARBOHYDRATES: 86.9 g\r\nOF WHICH TOTAL SUGARS: 9.2 g\r\nOF WHICH ADDED SUGARS: 8.0 g\r\nOF WHICH DIETARY FIBRE: 2.5 g\r\nPROTEIN: 6.7 g\r\nSODIUM: 490 mg\r\nVITAMIN C: 33.0 mg\r\nVITAMIN B1: 1.0 mg\r\nVITAMIN B2: 1.2 mg\r\nVITAMIN B3: 13.4 mg\r\nVITAMIN B6: 1.7 mg\r\nVITAMIN B12: 0.33 \u00b5g\r\nFOLATE: 84.0 \u00b5g\r\nIRON: 9.0 mg\r\nCALCIUM: 236.0 mg\n        </div>",
+            "title": "Nutritional Facts"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            *Store in a cool and dry place\r\r\n *Avoid direct sunlight\n        </div>",
+            "title": "Storage"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            EAN Code: 901499010216 <br> FSSAI No: 10012062000031 <br> Manufacturer Name and Address: United Biscuits Pvt ltd,AT:Village-Ogli, yamuna Nagar road, kala-Amb,Dist, Srimour -173030 (H.P),INDIA <br> Marketed by: United Biscuits Private Limited, S-15-A, 2nd Floor, Sector B, Pocket - V, Vasant Square Mall, Vasant Kunj, New Delhi - 110070 <br> Country of origin: India <br> Best before 23-06-2026 <br> For Queries/Feedback/Complaints, Contact our Customer Care Executive at: Phone: 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory bus stop. KR Puram, Bangalore - 560016 Email:customerservice@bigbasket.com\n        </div>",
+            "title": "Other Product Info"
+          }
+        ],
+        "tags": [
+          {
+            "header": "COUNTRY OF ORIGIN",
+            "values": [
+              {
+                "display_name": "India",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=country-of-origin--india",
+                "url": "/ts/173/country-of-origin/india"
+              }
+            ]
+          },
+          {
+            "header": "FOOD PREFERENCE",
+            "values": [
+              {
+                "display_name": "Vegetarian",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                "url": "/ts/787/food-preference/vegetarian"
+              }
+            ]
+          },
+          {
+            "header": "FLAVOURS",
+            "values": [
+              {
+                "display_name": "natural",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=flavours--natural",
+                "url": "/ts/3178/flavours/natural"
+              }
+            ]
+          },
+          {
+            "header": "BASE INGREDIENT",
+            "values": [
+              {
+                "display_name": "Corn",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=base-ingredient--corn",
+                "url": "/ts/3480/base-ingredient/corn"
+              }
+            ]
+          },
+          {
+            "header": "OCCASION",
+            "values": [
+              {
+                "display_name": "Big Indian Grocery Sale",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=occasion--big-indian-grocery-sale",
+                "url": "/ts/4927/occasion/big-indian-grocery-sale"
+              },
+              {
+                "display_name": "Powerpacks",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=occasion--powerpacks",
+                "url": "/ts/6570/occasion/powerpacks"
+              }
+            ]
+          },
+          {
+            "header": "PRODUCT TYPE",
+            "values": [
+              {
+                "display_name": "SuperSaver",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=product-type--supersaver",
+                "url": "/ts/5058/product-type/supersaver"
+              }
+            ]
+          },
+          {
+            "header": "TOP DEALS",
+            "values": [
+              {
+                "display_name": "Deals",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=top-deals--deals",
+                "url": "/ts/15347/top-deals/deals"
+              }
+            ]
+          },
+          {
+            "header": "HEART HEALTHY",
+            "values": [
+              {
+                "display_name": "Keto Friendly",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=heart-healthy--keto-friendly",
+                "url": "/ts/17171/heart-healthy/keto-friendly"
+              }
+            ]
+          },
+          {
+            "header": "NUT FREE",
+            "values": [
+              {
+                "display_name": "Breakfast Picks",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=nut-free--breakfast-picks",
+                "url": "/ts/17211/nut-free/breakfast-picks"
+              }
+            ]
+          },
+          {
+            "header": "KIDS\u2019 NUTRITION",
+            "values": [
+              {
+                "display_name": "Healthy Pantry",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=kids-nutrition--healthy-pantry",
+                "url": "/ts/17233/kids-nutrition/healthy-pantry"
+              }
+            ]
+          },
+          {
+            "header": "HEALTH STORE",
+            "values": [
+              {
+                "display_name": "Heart Healthy",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=health-store--heart-healthy",
+                "url": "/ts/17594/health-store/heart-healthy"
+              },
+              {
+                "display_name": "Nut-Free",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=health-store--nut-free",
+                "url": "/ts/17601/health-store/nut-free"
+              }
+            ]
+          }
+        ],
+        "combo": null,
+        "category": {
+          "tlc_name": "Snacks & Branded Foods",
+          "tlc_slug": "snacks-branded-foods",
+          "llc_slug": "type=pc&slug=flakes",
+          "llc_name": "Flakes",
+          "llc_id": 411
+        },
+        "rating_info": {
+          "avg_rating": "4.1",
+          "rating_count": 5891,
+          "review_count": 28,
+          "sku_id": 40015688
+        },
+        "breadcrumb": [
+          {
+            "id": 398,
+            "name": "snacks & branded foods",
+            "slug": "snacks-branded-foods",
+            "type": "pc",
+            "url": "/cl/snacks-branded-foods/"
+          },
+          {
+            "id": 410,
+            "name": "breakfast cereals",
+            "slug": "breakfast-cereals",
+            "type": "pc",
+            "url": "/pc/snacks-branded-foods/breakfast-cereals/"
+          },
+          {
+            "id": 411,
+            "name": "flakes",
+            "slug": "flakes",
+            "type": "pc",
+            "url": "/pc/snacks-branded-foods/breakfast-cereals/flakes/"
+          }
+        ],
+        "aplus_url": "/media/uploads/groot/html/kelloggs_cornflakes_original_kcf-19-04-2021.html",
+        "pricing": {
+          "discount": {
+            "mrp": "471",
+            "d_text": "30% OFF",
+            "d_avail": "true",
+            "prim_price": {
+              "sp": "329",
+              "icon": {
+                "base_url": null,
+                "image": null,
+                "format": null
+              },
+              "desc": ""
+            },
+            "sec_price": {
+              "sp": null,
+              "icon": null,
+              "desc": null,
+              "background": null
+            },
+            "offer_entry_text": "Get @\u20b9329!",
+            "offer_available": "true"
+          },
+          "promo": null
+        },
+        "children": [
+          {
+            "id": "40121897",
+            "desc": "Corn Flakes - Original",
+            "pack_desc": "",
+            "w": "55 g",
+            "absolute_url": "/pd/40121897/kelloggs-corn-flakes-70-g/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "001",
+              "short_eta": null,
+              "medium_eta": null,
+              "long_eta": null,
+              "label": null,
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Add",
+              "show_express": null
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897_10-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897_10-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897_10-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897_10-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897_10-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897-2_10-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897-2_10-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897-2_10-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897-2_10-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897-2_10-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897-3_10-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897-3_10-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897-3_10-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897-3_10-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897-3_10-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897-4_10-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897-4_10-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897-4_10-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897-4_10-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897-4_10-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897-5_10-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897-5_10-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897-5_10-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897-5_10-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897-5_10-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897-6_9-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897-6_9-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897-6_9-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897-6_9-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897-6_9-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897-7_9-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897-7_9-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897-7_9-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897-7_9-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897-7_9-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40121897-8_9-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40121897-8_9-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40121897-8_9-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40121897-8_9-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40121897-8_9-kelloggs-corn-flakes.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Kellogg's",
+              "slug": "kelloggs",
+              "url": "/pb/kelloggs/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Indulge in the rich, creamy goodness of Wingreens Farms' Cheesy Sauce, a true culinary delight. Crafted with care by a renowned name in gourmet foods, this versatile sauce is a must-have addition to your pantry. Whether you're looking to elevate your pasta or spaghetti dishes, add a burst of flavour to your nachos, fries, or veggies, or create extraordinary culinary creations with its smooth, spreadable texture, this cheesy sauce is the perfect companion.\r\r\n\r\r\nMade with real cheese and wholesome ingredients, it provides essential nutrients such as protein, calcium, and vitamins, making it a wholesome addition to your diet. Indulge in the rich, velvety texture and unique cheesy flavour that will transform your ordinary meals into extraordinary culinary experiences.\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Corn Grits (90%), Sugar, Cereal Extract, Iodized Salt, Vitamins, Antioxidant (INS 307b), Minerals, ALLERGEN DECLARATION: CONTAINS WHEAT & BARLEY. MAY CONTAIN SOY, MILK, OATS & NUTS.\n        </div>",
+                "title": "Ingredients"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 100g\r\nServing_Size: 30 g\r\nEnergy: 378 kcal\r\nEnergy from Fat: 9 kcal\r\nTotal Fat: 1.0 g\r\nSaturated Fatty Acids: 0.5 g\r\nMonounsaturated Fatty Acids: 0.1 g\r\nPolyunsaturated Fatty Acids: 0.2 g\r\nTrans Fatty Acids: 0 g\r\nCholesterol: 0 mg\r\nTotal Carbohydrates: 85.9 g\r\nof which Total Sugars: 9.2 g\r\nof which Added Sugars: 8.0 g\r\nof which Dietary Fibre: 2.5 g\r\nProtein: 6.7 g\r\nSodium: 490 mg\r\nVitamin C: 33.0 mg\r\nVitamin B1: 1.8 mg\r\nVitamin B2: 1.2 mg\r\nVitamin B3: 13.4 mg\r\nVitamin B6: 1.7 mg\r\nVitamin B12: 0.33 \u00b5g\r\nFolate: 84.0 \u00b5g\r\nIron: 18 mg\r\nCalcium: 236.0 mg\r\nRDA: Recommended Dietary Allowances Milk Nutrient Values: Indian Food Composition Tables, NIN, ICMR, 2017 except Vit B12 (Nutritive Value of Indian Foods, NIN, ICMR).\n        </div>",
+                "title": "Nutritional Facts"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            * Store in a cool, dry place away from sunlight\r\r\n* Refrigerate after opening\n        </div>",
+                "title": "Storage"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            EAN Code: 8901499009661 <br> Country of origin: India <br> FSSAI No: 10017064000998 <br> Manufactured & Marketed by: WINGREENS FARMS PVT LTD, B-19 Info Technology Park, Sector 34, Gurugram, Haryana 122001 <br> For Queries/Feedback/Complaints, Contact our Customer Care Executive at: Phone: 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory bus stop. KR Puram, Bangalore - 560016 Email:customerservice@bigbasket.com<br> Best before 23-07-2026 <br>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "FLAVOURS",
+                "values": [
+                  {
+                    "display_name": "natural",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=flavours--natural",
+                    "url": "/ts/3178/flavours/natural"
+                  }
+                ]
+              },
+              {
+                "header": "BASE INGREDIENT",
+                "values": [
+                  {
+                    "display_name": "Corn",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=base-ingredient--corn",
+                    "url": "/ts/3480/base-ingredient/corn"
+                  }
+                ]
+              },
+              {
+                "header": "HEART HEALTHY",
+                "values": [
+                  {
+                    "display_name": "Keto Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=heart-healthy--keto-friendly",
+                    "url": "/ts/17171/heart-healthy/keto-friendly"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Breakfast Picks",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--breakfast-picks",
+                    "url": "/ts/17211/nut-free/breakfast-picks"
+                  }
+                ]
+              },
+              {
+                "header": "KIDS\u2019 NUTRITION",
+                "values": [
+                  {
+                    "display_name": "Healthy Pantry",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=kids-nutrition--healthy-pantry",
+                    "url": "/ts/17233/kids-nutrition/healthy-pantry"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Heart Healthy",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--heart-healthy",
+                    "url": "/ts/17594/health-store/heart-healthy"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Snacks & Branded Foods",
+              "tlc_slug": "snacks-branded-foods",
+              "llc_slug": "type=pc&slug=flakes",
+              "llc_name": "Flakes",
+              "llc_id": 411
+            },
+            "rating_info": {
+              "avg_rating": "4.1",
+              "rating_count": 5891,
+              "review_count": 28,
+              "sku_id": 40015688
+            },
+            "breadcrumb": [
+              {
+                "id": 398,
+                "name": "snacks & branded foods",
+                "slug": "snacks-branded-foods",
+                "type": "pc",
+                "url": "/cl/snacks-branded-foods/"
+              },
+              {
+                "id": 410,
+                "name": "breakfast cereals",
+                "slug": "breakfast-cereals",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/"
+              },
+              {
+                "id": 411,
+                "name": "flakes",
+                "slug": "flakes",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/flakes/"
+              }
+            ],
+            "aplus_url": "/media/uploads/groot/html/kelloggs_cornflakes_original_kcf-19-04-2021.html",
+            "pricing": {
+              "discount": {
+                "mrp": "20",
+                "d_text": "",
+                "d_avail": "false",
+                "prim_price": {
+                  "sp": "20",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          },
+          {
+            "id": "251018",
+            "desc": "Original Corn Flakes",
+            "pack_desc": "",
+            "w": "120 g",
+            "absolute_url": "/pd/251018/kelloggs-corn-flakes-100-g/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "001",
+              "short_eta": null,
+              "medium_eta": null,
+              "long_eta": null,
+              "label": null,
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Add",
+              "show_express": null
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018_10-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018_10-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018_10-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018_10-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018_10-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018-2_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018-2_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018-2_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018-2_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018-2_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018-3_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018-3_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018-3_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018-3_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018-3_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018-4_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018-4_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018-4_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018-4_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018-4_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018-5_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018-5_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018-5_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018-5_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018-5_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018-6_6-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018-6_6-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018-6_6-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018-6_6-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018-6_6-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018-7_6-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018-7_6-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018-7_6-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018-7_6-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018-7_6-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251018-8_6-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251018-8_6-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251018-8_6-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251018-8_6-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251018-8_6-kelloggs-corn-flakes.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Kellogg's",
+              "slug": "kelloggs",
+              "url": "/pb/kelloggs/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Kellogg's Corn Flakes is a nourishing and delightful ready-to-eat breakfast cereal that offers a delicious start to your day. Crafted from sun-ripened corn, these crispy, golden flakes are high in iron, vitamin C, and essential B vitamins, contributing to normal cognitive function and immune system support. Naturally cholesterol-free and low in fat, Kellogg's Corn Flakes is a versatile ingredient that can be enjoyed on its own or incorporated into a variety of tasty recipes loved by both kids and adults. With its crunchy texture and irresistible flavour, every bite of these corn flakes is as satisfying as the first, making it the perfect choice for a great day ahead.\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Corn Grits (90%), Sugar, Cereal Extract, Iodised Salt, Vitamins, Antioxidant (Ins 307B), Minerals\n        </div>",
+                "title": "Ingredients"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_Per: 100g\r\nServing_Size: 30g\r\nEnergy: 378 kcal\r\nEnergy From Fat: 9 kcal\r\nTotal Fat: 1.0 g\r\nSaturated Fatty Acids: 0.6 g\r\nMonounsaturated Fatty Acids: 0.1 g\r\nPolyunsaturated Fatty Acids: 0.2 g\r\nTrans Fatty Acids: 0 g\r\nCholesterol: 0 mg\r\nTotal Carbohydrates: 86.9 g\r\nTotal Sugars: 9.2 g\r\nAdded Sugars: 8.0 g\r\nDietary Fibre: 2.5 g\r\nProtein: 6.7 g\r\nSodium: 490 mg\r\nVitamin C: 33.0 mg\r\nVitamin B1: 1.0 mg\r\nVitamin B2: 1.2 mg\r\nVitamin B3: 13.4 mg\r\nVitamin B6: 1.7 mg\r\nVitamin B12: 0.33 ?g\r\nFolate: 84.0 ?g\r\nIron: 9.0 mg\r\ncalcium: 236.0 mg\n        </div>",
+                "title": "Nutritional Facts"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            *Store in an airtight container for freshness\n        </div>",
+                "title": "Storage"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 8901499008176 </p><p>FSSAI Number: 10013022002031, 10014044000876\r\n</p><p>Manufactured &amp; Marketed by: Kellogg India Pvt. Ltd.,\r\nPlot No. L2-L3 Taloja MIDC Dist. Raigad, Maharashtra, 410208\r\n</p><p>Country of Origin: India</p><p>Best before 08-07-2026 <br></p><p>Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date. <br></p><p>For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email: customerservice@bigbasket.com</p>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "FLAVOURS",
+                "values": [
+                  {
+                    "display_name": "natural",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=flavours--natural",
+                    "url": "/ts/3178/flavours/natural"
+                  }
+                ]
+              },
+              {
+                "header": "BASE INGREDIENT",
+                "values": [
+                  {
+                    "display_name": "Corn",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=base-ingredient--corn",
+                    "url": "/ts/3480/base-ingredient/corn"
+                  }
+                ]
+              },
+              {
+                "header": "HEART HEALTHY",
+                "values": [
+                  {
+                    "display_name": "Keto Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=heart-healthy--keto-friendly",
+                    "url": "/ts/17171/heart-healthy/keto-friendly"
+                  }
+                ]
+              },
+              {
+                "header": "GROWTH & RECOVERY",
+                "values": [
+                  {
+                    "display_name": "Amino Support",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=growth-recovery--amino-support",
+                    "url": "/ts/17189/growth-recovery/amino-support"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Snacks & Chips",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--snacks-chips",
+                    "url": "/ts/17209/nut-free/snacks-chips"
+                  },
+                  {
+                    "display_name": "Breakfast Picks",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--breakfast-picks",
+                    "url": "/ts/17211/nut-free/breakfast-picks"
+                  }
+                ]
+              },
+              {
+                "header": "KIDS\u2019 NUTRITION",
+                "values": [
+                  {
+                    "display_name": "Healthy Pantry",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=kids-nutrition--healthy-pantry",
+                    "url": "/ts/17233/kids-nutrition/healthy-pantry"
+                  }
+                ]
+              },
+              {
+                "header": "FEEL-GOOD BREAKFAST FIX",
+                "values": [
+                  {
+                    "display_name": "Protein-Powered",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=feel-good-breakfast-fix--protein-powered",
+                    "url": "/ts/17262/feel-good-breakfast-fix/protein-powered"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Heart Healthy",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--heart-healthy",
+                    "url": "/ts/17594/health-store/heart-healthy"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Snacks & Branded Foods",
+              "tlc_slug": "snacks-branded-foods",
+              "llc_slug": "type=pc&slug=flakes",
+              "llc_name": "Flakes",
+              "llc_id": 411
+            },
+            "rating_info": {
+              "avg_rating": "4.1",
+              "rating_count": 5891,
+              "review_count": 28,
+              "sku_id": 40015688
+            },
+            "breadcrumb": [
+              {
+                "id": 398,
+                "name": "snacks & branded foods",
+                "slug": "snacks-branded-foods",
+                "type": "pc",
+                "url": "/cl/snacks-branded-foods/"
+              },
+              {
+                "id": 410,
+                "name": "breakfast cereals",
+                "slug": "breakfast-cereals",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/"
+              },
+              {
+                "id": 411,
+                "name": "flakes",
+                "slug": "flakes",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/flakes/"
+              }
+            ],
+            "aplus_url": "/media/uploads/groot/html/kelloggs_cornflakes_original_kcf-19-04-2021.html",
+            "pricing": {
+              "discount": {
+                "mrp": "53",
+                "d_text": "",
+                "d_avail": "false",
+                "prim_price": {
+                  "sp": "53",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          },
+          {
+            "id": "251020",
+            "desc": "Corn Flakes - Original",
+            "pack_desc": "",
+            "w": "250 g",
+            "absolute_url": "/pd/251020/kelloggs-corn-flakes-250-g/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "001",
+              "short_eta": null,
+              "medium_eta": null,
+              "long_eta": null,
+              "label": null,
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Add",
+              "show_express": null
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020_10-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020_10-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020_10-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020_10-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020_10-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020-2_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020-2_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020-2_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020-2_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020-2_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020-3_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020-3_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020-3_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020-3_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020-3_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020-4_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020-4_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020-4_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020-4_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020-4_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020-5_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020-5_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020-5_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020-5_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020-5_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020-6_6-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020-6_6-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020-6_6-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020-6_6-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020-6_6-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020-7_6-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020-7_6-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020-7_6-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020-7_6-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020-7_6-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/251020-8_6-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/251020-8_6-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/251020-8_6-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/251020-8_6-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/251020-8_6-kelloggs-corn-flakes.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Kellogg's",
+              "slug": "kelloggs",
+              "url": "/pb/kelloggs/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <!DOCTYPE html>\r\r\n<html>\r\r\n<head>\r\r\n<meta charset=\"UTF-8\">\r\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> \r\r\n</head>\r\r\n\r\r\n<body>\r\r\n<div class=\"main_container\" style=\"max-width: 1000px;\r\r\nwidth:100%;\r\r\nmargin:0 auto;\">\r\r\n<div class=\"web\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/251020_151225_1.jpg\"\r\r\nstyle=\"width: 100%; display:block;\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/251020_151225_2.jpg\"\r\r\nstyle=\"width: 100%; display:block;\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/251020_151225_3.jpg\"\r\r\nstyle=\"width: 100%; display:block;\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/251020_151225_4.jpg\"\r\r\nstyle=\"width: 100%; display:block;\"> \r\r\n</div>\r\r\n</div>\r\r\n</body>\r\r\n</html>\n        </div>",
+                "title": "From the Brand"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Kellogg's Corn Flakes and Milk is a nourishing breakfast for your busy mornings. It is low in fat, naturally cholesterol-free free and also has the goodness of Power of 5- Energy to be active and alert, Protein, Iron, Immuno Nutrients, and Essential Vitamins. All you need to do is just add milk and jump-start your active day.</p><p><br></p>\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Corn Grits (90%), Sugar, Cereal Extract, lodized Salt, Vitamins, Antioxidant (INS 307b), Minerals\n        </div>",
+                "title": "Ingredients"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 100g\r\nServing_Size: 30g\r\nENERGY: 378kcal\r\nENERGY FROM FAT: 9kcal\r\nTOTAL FAT: 1.0g\r\nSATURATED FATTY ACIDS: 0.6g\r\nMONOUNSATURATED FATTY ACIDS: 0.1g\r\nPOLYUNSATURATED FATTY ACIDS: 0.2g\r\nTRANS FATTY ACIDS: 0g\r\nCHOLESTEROL: 0mg\r\nTOTAL CARBOHYDRATES: 86.9g\r\nTOTAL SUGARS: 9.2g\r\nADDED SUGARS: 8.0g\r\nDIETARY FIBRE: 2.5g\r\nPROTEIN: 6.7g\r\nSODIUM: 490mg\r\nVITAMIN C: 33.0mg\r\nVITAMIN B1: 1.0mg\r\nVITAMIN B2: 1.2mg\r\nVITAMIN B3: 13.4mg\r\nVITAMIN B6: 1.7mg\r\nVITAMIN B12: 0.33?g\r\nFOLATE: 84.0?g\r\nIRON: 9.0mg\r\nCALCIUM: 236.0mg\n        </div>",
+                "title": "Nutritional Facts"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 8901499008183 </p><p><br></p><p>FSSAI Number: 10013022002031, 10014044000876\r\r\r\n</p><p>Manufactured &amp; Marketed by: Kellogg India Pvt. Ltd.,\r\r\r\nPlot No. L2-L3 Taloja MIDC Dist. Raigad, Maharashtra, 410208\r\r\r\n</p><p>Country of Origin: India</p><p>Best before 23-06-2026 <br></p><p>Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date. <br></p><p>For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email: customerservice@bigbasket.com<br><br></p>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "FLAVOURS",
+                "values": [
+                  {
+                    "display_name": "natural",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=flavours--natural",
+                    "url": "/ts/3178/flavours/natural"
+                  }
+                ]
+              },
+              {
+                "header": "BASE INGREDIENT",
+                "values": [
+                  {
+                    "display_name": "Corn",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=base-ingredient--corn",
+                    "url": "/ts/3480/base-ingredient/corn"
+                  }
+                ]
+              },
+              {
+                "header": "HEART HEALTHY",
+                "values": [
+                  {
+                    "display_name": "Keto Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=heart-healthy--keto-friendly",
+                    "url": "/ts/17171/heart-healthy/keto-friendly"
+                  }
+                ]
+              },
+              {
+                "header": "GROWTH & RECOVERY",
+                "values": [
+                  {
+                    "display_name": "Amino Support",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=growth-recovery--amino-support",
+                    "url": "/ts/17189/growth-recovery/amino-support"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Snacks & Chips",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--snacks-chips",
+                    "url": "/ts/17209/nut-free/snacks-chips"
+                  },
+                  {
+                    "display_name": "Breakfast Picks",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--breakfast-picks",
+                    "url": "/ts/17211/nut-free/breakfast-picks"
+                  }
+                ]
+              },
+              {
+                "header": "KIDS\u2019 NUTRITION",
+                "values": [
+                  {
+                    "display_name": "Healthy Pantry",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=kids-nutrition--healthy-pantry",
+                    "url": "/ts/17233/kids-nutrition/healthy-pantry"
+                  }
+                ]
+              },
+              {
+                "header": "FEEL-GOOD BREAKFAST FIX",
+                "values": [
+                  {
+                    "display_name": "Protein-Powered",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=feel-good-breakfast-fix--protein-powered",
+                    "url": "/ts/17262/feel-good-breakfast-fix/protein-powered"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Heart Healthy",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--heart-healthy",
+                    "url": "/ts/17594/health-store/heart-healthy"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Snacks & Branded Foods",
+              "tlc_slug": "snacks-branded-foods",
+              "llc_slug": "type=pc&slug=flakes",
+              "llc_name": "Flakes",
+              "llc_id": 411
+            },
+            "rating_info": {
+              "avg_rating": "4.1",
+              "rating_count": 5891,
+              "review_count": 28,
+              "sku_id": 40015688
+            },
+            "breadcrumb": [
+              {
+                "id": 398,
+                "name": "snacks & branded foods",
+                "slug": "snacks-branded-foods",
+                "type": "pc",
+                "url": "/cl/snacks-branded-foods/"
+              },
+              {
+                "id": 410,
+                "name": "breakfast cereals",
+                "slug": "breakfast-cereals",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/"
+              },
+              {
+                "id": 411,
+                "name": "flakes",
+                "slug": "flakes",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/flakes/"
+              }
+            ],
+            "aplus_url": "/media/uploads/groot/html/kelloggs_cornflakes_original_kcf-19-04-2021.html",
+            "pricing": {
+              "discount": {
+                "mrp": "111",
+                "d_text": "",
+                "d_avail": "false",
+                "prim_price": {
+                  "sp": "111",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          },
+          {
+            "id": "122620",
+            "desc": "Corn Flakes - Original",
+            "pack_desc": "",
+            "w": "475 g",
+            "absolute_url": "/pd/122620/kelloggs-corn-flakes-475-g/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "001",
+              "short_eta": null,
+              "medium_eta": null,
+              "long_eta": null,
+              "label": null,
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Add",
+              "show_express": null
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620_13-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620_13-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620_13-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620_13-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620_13-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620-2_8-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620-2_8-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620-2_8-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620-2_8-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620-2_8-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620-3_8-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620-3_8-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620-3_8-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620-3_8-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620-3_8-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620-4_8-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620-4_8-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620-4_8-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620-4_8-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620-4_8-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620-5_8-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620-5_8-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620-5_8-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620-5_8-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620-5_8-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620-6_7-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620-6_7-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620-6_7-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620-6_7-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620-6_7-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620-7_5-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620-7_5-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620-7_5-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620-7_5-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620-7_5-kelloggs-corn-flakes.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/122620-8_5-kelloggs-corn-flakes.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/122620-8_5-kelloggs-corn-flakes.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/122620-8_5-kelloggs-corn-flakes.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/122620-8_5-kelloggs-corn-flakes.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/122620-8_5-kelloggs-corn-flakes.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Kellogg's",
+              "slug": "kelloggs",
+              "url": "/pb/kelloggs/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <!DOCTYPE html>\r\r\n<html>\r\r\n<head>\r\r\n<meta charset=\"UTF-8\">\r\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> \r\r\n</head>\r\r\n\r\r\n<body>\r\r\n<div class=\"main_container\" style=\"max-width: 1000px;\r\r\nwidth:100%;\r\r\nmargin:0 auto;\">\r\r\n<div class=\"web\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/122620_151225_1.jpg\"\r\r\nstyle=\"width: 100%; display:block;\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/122620_151225_2.jpg\"\r\r\nstyle=\"width: 100%; display:block;\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/122620_151225_3.jpg\"\r\r\nstyle=\"width: 100%; display:block;\">\r\r\n<img src=\"https://www.bigbasket.com/media/uploads/flatpages/mailer-images-aug/122620_151225_4.jpg\"\r\r\nstyle=\"width: 100%; display:block;\"> \r\r\n</div>\r\r\n</div>\r\r\n</body>\r\r\n</html>\n        </div>",
+                "title": "From the Brand"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Kellogg's Corn Flakes and Milk is a nourishing breakfast for your busy mornings. It is low in fat, naturally cholesterol free and also has the goodness of Power of 5- Energy to be active and alert, Protein, Iron, Immuno Nutrients and Essential Vitamins. All you need to do is just add milk and jump-start your active day.</p><p><br></p>\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Corn Grits (90%), Sugar, Cereal Extract, Iodized Salt, Vitamins, Antioxidant (INS 307b), Minerals\n        </div>",
+                "title": "Ingredients"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 100g\r\nServing_Size: 30g\r\nEnergy: 378kcal\r\nEnergy from Fat: 9kcal\r\nTotal Fat: 1.0g\r\nSaturated Fatty Acids: 0.6g\r\nMonounsaturated Fatty Acids: 0.1g\r\nPolyunsaturated Fatty Acids: 0.2g\r\nTrans Fatty Acids: 0g\r\nCholesterol: 0mg\r\nTotal Carbohydrates: 86.9g\r\nTotal Sugars: 9.2g\r\nAdded Sugars: 8.0g\r\nDietary Fibre: 2.5g\r\nProtein: 6.7g\r\nSodium: 490mg\r\nVitamin C: 33.0mg\r\nVitamin B1: 1.0mg\r\nVitamin B2: 1.2mg\r\nVitamin B3: 13.4mg\r\nVitamin B6: 1.7mg\r\nVitamin B12: 0.33?g\r\nFolate: 84.0?g\r\nIron: 9.0mg\r\nCalcium: 236.0mg\n        </div>",
+                "title": "Nutritional Facts"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 8901499008190&nbsp;</p><p><br></p><p>FSSAI Number: 10013022002031, 10014044000876\r\r\r\n</p><p>Manufactured &amp; Marketed by: Kellogg India Pvt. Ltd.,\r\r\r\nPlot No. L2-L3 Taloja MIDC Dist. Raigad, Maharashtra, 410208\r\r\r\n</p><p>Country of Origin: India</p><p><br></p><p>Best before 23-06-2026 <br></p><p>Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date. <br></p><p>For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email: customerservice@bigbasket.com</p>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "FLAVOURS",
+                "values": [
+                  {
+                    "display_name": "natural",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=flavours--natural",
+                    "url": "/ts/3178/flavours/natural"
+                  }
+                ]
+              },
+              {
+                "header": "BASE INGREDIENT",
+                "values": [
+                  {
+                    "display_name": "Corn",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=base-ingredient--corn",
+                    "url": "/ts/3480/base-ingredient/corn"
+                  }
+                ]
+              },
+              {
+                "header": "HEART HEALTHY",
+                "values": [
+                  {
+                    "display_name": "Keto Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=heart-healthy--keto-friendly",
+                    "url": "/ts/17171/heart-healthy/keto-friendly"
+                  }
+                ]
+              },
+              {
+                "header": "GROWTH & RECOVERY",
+                "values": [
+                  {
+                    "display_name": "Amino Support",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=growth-recovery--amino-support",
+                    "url": "/ts/17189/growth-recovery/amino-support"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Snacks & Chips",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--snacks-chips",
+                    "url": "/ts/17209/nut-free/snacks-chips"
+                  },
+                  {
+                    "display_name": "Breakfast Picks",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--breakfast-picks",
+                    "url": "/ts/17211/nut-free/breakfast-picks"
+                  }
+                ]
+              },
+              {
+                "header": "KIDS\u2019 NUTRITION",
+                "values": [
+                  {
+                    "display_name": "Healthy Pantry",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=kids-nutrition--healthy-pantry",
+                    "url": "/ts/17233/kids-nutrition/healthy-pantry"
+                  }
+                ]
+              },
+              {
+                "header": "FEEL-GOOD BREAKFAST FIX",
+                "values": [
+                  {
+                    "display_name": "Protein-Powered",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=feel-good-breakfast-fix--protein-powered",
+                    "url": "/ts/17262/feel-good-breakfast-fix/protein-powered"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Heart Healthy",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--heart-healthy",
+                    "url": "/ts/17594/health-store/heart-healthy"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Snacks & Branded Foods",
+              "tlc_slug": "snacks-branded-foods",
+              "llc_slug": "type=pc&slug=flakes",
+              "llc_name": "Flakes",
+              "llc_id": 411
+            },
+            "rating_info": {
+              "avg_rating": "4.1",
+              "rating_count": 5891,
+              "review_count": 28,
+              "sku_id": 40015688
+            },
+            "breadcrumb": [
+              {
+                "id": 398,
+                "name": "snacks & branded foods",
+                "slug": "snacks-branded-foods",
+                "type": "pc",
+                "url": "/cl/snacks-branded-foods/"
+              },
+              {
+                "id": 410,
+                "name": "breakfast cereals",
+                "slug": "breakfast-cereals",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/"
+              },
+              {
+                "id": 411,
+                "name": "flakes",
+                "slug": "flakes",
+                "type": "pc",
+                "url": "/pc/snacks-branded-foods/breakfast-cereals/flakes/"
+              }
+            ],
+            "aplus_url": "/media/uploads/groot/html/kelloggs_cornflakes_original_kcf-19-04-2021.html",
+            "pricing": {
+              "discount": {
+                "mrp": "195",
+                "d_text": "",
+                "d_avail": "false",
+                "prim_price": {
+                  "sp": "195",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          }
+        ]
+      }
+    }
+  }
+}

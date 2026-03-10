@@ -1,0 +1,171 @@
+{
+  "started_at_utc": "2026-03-10T07:00:42.997904+00:00",
+  "location": {
+    "pincode": "700001",
+    "name": "Kolkata (BBD Bagh)",
+    "lat": "22.5726",
+    "lng": "88.3639"
+  },
+  "product_id": 40242712,
+  "status": "ok",
+  "response": {
+    "data": {
+      "product": {
+        "base_img_url": "https://www.bbassets.com/media/uploads",
+        "id": "40242712",
+        "desc": "Tissue Roll - 3 Ply",
+        "pack_desc": "(320 Pulls Each)",
+        "w": "1 pc",
+        "absolute_url": "/pd/40242712/origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent-320-pcs/",
+        "cart_count": 0,
+        "availability": {
+          "avail_status": "001",
+          "short_eta": "1 day",
+          "medium_eta": "Get it in 1 day",
+          "long_eta": "Get it in 1 day",
+          "label": null,
+          "display_mrp": true,
+          "display_sp": true,
+          "not_for_sale": false,
+          "button": "Add",
+          "show_express": false
+        },
+        "images": [
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40242712_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40242712_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40242712_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40242712_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40242712_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40242712-2_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40242712-2_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40242712-2_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40242712-2_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40242712-2_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40242712-3_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40242712-3_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40242712-3_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40242712-3_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40242712-3_1-origami-good-karma-toilet-tissue-roll-3-ply-highly-absorbent.jpg"
+          }
+        ],
+        "variable_weight": null,
+        "brand": {
+          "name": "Origami Good Karma",
+          "slug": "origami-good-karma",
+          "url": "/pb/origami-good-karma/"
+        },
+        "additional_attr": {
+          "bby_lod": null,
+          "info": []
+        },
+        "tabs": [
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Origami Good Karma Toilet Roll is made with paper. It is highly absorbent and soft and is perfect for multipurpose use. It is a lint-free toilet tissue that is soft on your hands. These tissues are biodegradable and a great alternative to cloth handkerchiefs. They are a great option for household cleaning. It is safe, eco-friendly and hygienic to use. These are gentle on your skin and are perfect for one-time use.</p>\n        </div>",
+            "title": "About the Product"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            \n\n\n\n\n<ul style=\"list-style-type: circle;\"><li>Brand:- Origami Good Karma.</li><li>Type :- Toilet Roll.</li><li>Material :- Paper.</li><li>Colour:- Brown.</li><li>Features:- Unbleached, Extra Soft and Skin Contact Safe, Does not clog drains, 100% Recycled.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        </div>",
+            "title": "Specification"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <ul style=\"list-style-type: circle;\"><li>It is a great alternative to cloth handkerchiefs.</li><li>It helps you keep your face clean, it is safe and hygienic.</li><li>They are soft and biodegradable.</li></ul>\n\n\n\n\n\n\n\n\n\n\n        </div>",
+            "title": "Benefits"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <ul style=\"list-style-type: circle;\"><li>Open the pack and pull the tissue and use it as per requirements.</li><li>Use it to clean the kitchen, tables, or anywhere else.</li></ul>\n\n\n\n\n\n        </div>",
+            "title": "How to Use"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 40242712 <br>Manufacturer Name &amp; Marketed by Address: Origami Cellulo Private Limited,126 A,Sriranga Complex,Ashwath Nagar,Bengaluru-560094 <br>Country of Origin:India <br></p><p>  For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email: customerservice@bigbasket.com</p>\n        </div>",
+            "title": "Other Product Info"
+          }
+        ],
+        "tags": [
+          {
+            "header": "COUNTRY OF ORIGIN",
+            "values": [
+              {
+                "display_name": "India",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=country-of-origin--india",
+                "url": "/ts/173/country-of-origin/india"
+              }
+            ]
+          }
+        ],
+        "combo": null,
+        "category": {
+          "tlc_name": "Cleaning & Household",
+          "tlc_slug": "cleaning-household",
+          "llc_slug": "type=pc&slug=toilet-paper",
+          "llc_name": "Toilet Paper",
+          "llc_id": 660
+        },
+        "rating_info": {
+          "avg_rating": "4",
+          "rating_count": 83,
+          "review_count": 5,
+          "sku_id": 40242712
+        },
+        "breadcrumb": [
+          {
+            "id": 419,
+            "name": "cleaning & household",
+            "slug": "cleaning-household",
+            "type": "pc",
+            "url": "/cl/cleaning-household/"
+          },
+          {
+            "id": 1613,
+            "name": "disposables, garbage bag",
+            "slug": "disposables-garbage-bag",
+            "type": "pc",
+            "url": "/pc/cleaning-household/disposables-garbage-bag/"
+          },
+          {
+            "id": 660,
+            "name": "toilet paper",
+            "slug": "toilet-paper",
+            "type": "pc",
+            "url": "/pc/cleaning-household/disposables-garbage-bag/toilet-paper/"
+          }
+        ],
+        "aplus_url": null,
+        "pricing": {
+          "discount": {
+            "mrp": "85",
+            "d_text": "25% OFF",
+            "d_avail": "true",
+            "prim_price": {
+              "sp": "63.75",
+              "icon": {
+                "base_url": null,
+                "image": null,
+                "format": null
+              },
+              "desc": ""
+            },
+            "sec_price": {
+              "sp": null,
+              "icon": null,
+              "desc": null,
+              "background": null
+            },
+            "offer_entry_text": "Flash Sale!",
+            "offer_available": "true"
+          },
+          "promo": null
+        },
+        "children": []
+      }
+    }
+  }
+}

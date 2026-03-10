@@ -1,0 +1,233 @@
+{
+  "generated_at_utc": "2026-03-10T07:00:40.950344+00:00",
+  "products": [
+    214431,
+    30002246,
+    10000025,
+    294222,
+    40242712,
+    40179976,
+    40108477,
+    40108468
+  ],
+  "locations": [
+    {
+      "pincode": "700001",
+      "name": "Kolkata (BBD Bagh)",
+      "lat": "22.5726",
+      "lng": "88.3639"
+    },
+    {
+      "pincode": "110001",
+      "name": "New Delhi (Connaught Place)",
+      "lat": "28.6315",
+      "lng": "77.2167"
+    },
+    {
+      "pincode": "400001",
+      "name": "Mumbai (Fort / GPO)",
+      "lat": "18.9388",
+      "lng": "72.8354"
+    },
+    {
+      "pincode": "600001",
+      "name": "Chennai (George Town / GPO)",
+      "lat": "13.0837",
+      "lng": "80.2707"
+    }
+  ],
+  "results": [
+    {
+      "pincode": "700001",
+      "product_id": 214431,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_214431.json"
+    },
+    {
+      "pincode": "700001",
+      "product_id": 30002246,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_30002246.json"
+    },
+    {
+      "pincode": "700001",
+      "product_id": 10000025,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_10000025.json"
+    },
+    {
+      "pincode": "700001",
+      "product_id": 294222,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_294222.json"
+    },
+    {
+      "pincode": "700001",
+      "product_id": 40242712,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_40242712.json"
+    },
+    {
+      "pincode": "700001",
+      "product_id": 40179976,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_40179976.json"
+    },
+    {
+      "pincode": "700001",
+      "product_id": 40108477,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_40108477.json"
+    },
+    {
+      "pincode": "700001",
+      "product_id": 40108468,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_700001_40108468.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 214431,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_214431.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 30002246,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_30002246.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 10000025,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_10000025.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 294222,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_294222.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 40242712,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_40242712.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 40179976,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_40179976.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 40108477,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_40108477.json"
+    },
+    {
+      "pincode": "110001",
+      "product_id": 40108468,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_110001_40108468.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 214431,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_214431.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 30002246,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_30002246.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 10000025,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_10000025.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 294222,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_294222.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 40242712,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_40242712.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 40179976,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_40179976.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 40108477,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_40108477.json"
+    },
+    {
+      "pincode": "400001",
+      "product_id": 40108468,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_400001_40108468.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 214431,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_214431.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 30002246,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_30002246.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 10000025,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_10000025.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 294222,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_294222.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 40242712,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_40242712.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 40179976,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_40179976.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 40108477,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_40108477.json"
+    },
+    {
+      "pincode": "600001",
+      "product_id": 40108468,
+      "status": "ok",
+      "file": "/home/adityapatadiya/bigbasket/bigbasket/batch_outputs/bb_600001_40108468.json"
+    }
+  ]
+}

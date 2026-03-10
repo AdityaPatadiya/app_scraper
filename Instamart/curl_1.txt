@@ -61,13 +61,12 @@ curl --http2 --compressed -X GET \
 
 
 
-curl --http2 --compressed -G 'https://disc.swiggy.com/api/v1/instamart/product'   --data-urlencode 'lat=22.2964051'   --data-urlencode 'lng=70.79415639999999'   --data-urlencode 'product.product_id=KITP4MZKVL'   --data-urlencode 'page_name=product'   -H 'screen-name: store-item-view-instamart'   -H 'user-agent: Swiggy-Android'   -H 'tid: ...' -H 
-'sid: ...' -H 'token: ...'   -H 'accept: application/x-protobuf' -v
+curl --http2 --compressed -G 'https://disc.swiggy.com/api/v1/instamart/product'   --data-urlencode 'lat=12.889268'   --data-urlencode 'lng=77.639908'   --data-urlencode 'product.product_id=W9VV3GSONC'   --data-urlencode 'page_name=product'   -H 'screen-name: store-item-view-instamart'   -H 'user-agent: Swiggy-Android'   -H 'tid: ...' -H 'sid: ...' -H 'token: ...'   -H 'accept: application/x-protobuf' -v --output response
 
-
+https://www.swiggy.com/instamart/item/W9VV3GSONC
 
 curl --http2 --compressed -X GET \
-  'https://disc.swiggy.com/api/v1/instamart/product?lat=22.2964051&lng=70.79415639999999&product.product_id=6SG4IT8UOR&page_name=product&product.preferred_spin_id=8X06QEFD5J' \
+  'https://disc.swiggy.com/api/v1/instamart/product?lat=12.889268&lng=77.639908&product.product_id=W9VV3GSONC&page_name=product&product.preferred_spin_id=97VIJRXBA7' \
   -H 'screen-name: store-item-view-instamart' \
   -H 'user-agent: Swiggy-Android' \
   -H 'content-type: application/json; charset=utf-8' \
@@ -75,13 +74,13 @@ curl --http2 --compressed -X GET \
   -H 'sid: q299d497971-8c7e-442c-abf1-40cb0ce88' \
   -H 'version-code: 1693' \
   -H 'app-version: 4.103.3' \
-  -H 'latitude: 22.2964051' \
-  -H 'longitude: 70.79415639999999' \
+  -H 'latitude: 19.014795' \
+  -H 'longitude: 72.845451' \
   -H 'os-version: 13' \
   -H 'accessibility_enabled: false' \
   -H 'encoded-loyalty-context: /wYAAHNOYVBwWQDFAAB4wO+y9gEwCAEQARpGCJsFEAEaHQUN8D4VT05FX0ZPT0RfTU9WXzE5OV9MTV83IgAaFggCEAEaDlNVUEVSX09ORV9DT1JFIgAgATICEGQ4A0ACIk4IjgXqSAAsKAEyAxC8HjgDQAJKAQnwWSoCAQM6DAi1tKnNBhCArMbCAUIyChlNQVJLRVRfUExBQ0VfSURfU1dJR0dZX0lOEhVCVVNJTkVTU19MSU5FX1JFR1VMQVJSBRABIgEzWgsKCTIzOTYwNDM5OA==' \
-  -H 'current-latitude: 12.9128764' \
-  -H 'current-longitude: 77.6521342' \
+  -H 'current-latitude: 12.889268' \
+  -H 'current-longitude: 77.639908' \
   -H 'swuid: e03e2e1c4f4a5b0e' \
   -H 'token: 1f5e5ff9-0ec3-4940-bdb4-f12542852cc104baf57b-0c1b-44f0-803d-a4e0169e1a78' \
   -H 'deviceid: e03e2e1c4f4a5b0e' \

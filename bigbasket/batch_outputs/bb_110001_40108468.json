@@ -1,0 +1,900 @@
+{
+  "started_at_utc": "2026-03-10T07:00:49.691564+00:00",
+  "location": {
+    "pincode": "110001",
+    "name": "New Delhi (Connaught Place)",
+    "lat": "28.6315",
+    "lng": "77.2167"
+  },
+  "product_id": 40108468,
+  "status": "ok",
+  "response": {
+    "data": {
+      "product": {
+        "base_img_url": "https://www.bbassets.com/media/uploads",
+        "id": "40108468",
+        "desc": "Green Sweetener - With Natural Stevia, Zero Calories",
+        "pack_desc": "",
+        "w": "100 pcs",
+        "absolute_url": "/pd/40108468/sugar-free-green-100-natural-made-from-stevia-100-pellets/",
+        "cart_count": 0,
+        "availability": {
+          "avail_status": "001",
+          "short_eta": "1 day",
+          "medium_eta": "Get it in 1 day",
+          "long_eta": "Get it in 1 day",
+          "label": null,
+          "display_mrp": true,
+          "display_sp": true,
+          "not_for_sale": false,
+          "button": "Add",
+          "show_express": false
+        },
+        "images": [
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468-2_5-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468-2_5-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468-2_5-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468-2_5-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468-2_5-sugar-free-green-100-natural-made-from-stevia.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468-3_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468-4_3-sugar-free-green-100-natural-made-from-stevia.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468-5_3-sugar-free-green-100-natural-made-from-stevia.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468-6_2-sugar-free-green-100-natural-made-from-stevia.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468-7_2-sugar-free-green-100-natural-made-from-stevia.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108468-8_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108468-8_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108468-8_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108468-8_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108468-8_2-sugar-free-green-100-natural-made-from-stevia.jpg"
+          }
+        ],
+        "variable_weight": null,
+        "brand": {
+          "name": "Sugar Free",
+          "slug": "sugar-free",
+          "url": "/pb/sugar-free/"
+        },
+        "additional_attr": {
+          "bby_lod": null,
+          "info": [
+            {
+              "id": null,
+              "type": "food_type",
+              "image_url": null,
+              "sub_type": "veg",
+              "label": "veg",
+              "position": null
+            }
+          ]
+        },
+        "tabs": [
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Discover the natural sweetness of Sugar Free Green, a revolutionary stevia-based sweetener that offers a guilt-free way to indulge your cravings. Derived from 100% natural stevia leaves, this versatile product is perfect for cooking, baking, and flavouring your favourite beverages, desserts, and Indian sweets. With its Zero-calorie, Zero-sugar, and Zero-carbohydrate content, Sugar Free Green is an excellent choice for individuals with diabetes or those looking to manage their weight without sacrificing flavour. Boasting a smooth, clean taste and no unpleasant aftertaste, this natural sweetener is a trusted choice for millions, suitable for use in households, restaurants, and on-the-go. Whether you're seeking a healthier alternative to sugar or simply want to indulge your sweet tooth guilt-free, Sugar Free Green is the perfect solution to elevate your culinary experiences and embrace a sweeter, more balanced lifestyle.\n        </div>",
+            "title": "About the Product"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Carrier (Lactose), Dispersing Agent - Microcrystalline Cellulose, Noncaloric Sweetener - Steviol Glycoside, Binder - Croscarmellose Sodium, Anticaking Agent - Colloidal Silicon Dioxide, Magnesium Stearate; Allergen - Contains Milk.</p>\n        </div>",
+            "title": "Ingredients"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 1 Pellet\r\nServing_Size: 0.1g\r\nEnergy: 0.29 kcal\r\nFat: 0.0 g\r\nProtein: 0.0 g\r\nCarbohydrates: 0.07 g\r\nSugars: 0.04 g\r\nSucrose: 0.0 g\n        </div>",
+            "title": "Nutritional Facts"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 40108468 <br />Manufactured &amp; Marketed By: Zydus Wellness Sikkim, Mamring Forest Block, Sikkim 737132 &amp; Zydus Wellness Products Limited,<br />Zydus Corporate Park, Scheme No. 63, Survey No. 536, Khoraj (Gandhinagar), Nr. Vaishnodevi Circle, Ahmedabad-382481, Gujarat, India.<br />Country of origin: India <br />FSSAI Number : <br />Best before 10-03-2027 Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date. <br />For Queries/Feedback/Complaints, Contact our Customer Care Executive at: Phone: 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory bus stop. KR Puram, Bangalore - 560016 Email:customerservice@bigbasket.com</p>\n        </div>",
+            "title": "Other Product Info"
+          }
+        ],
+        "tags": [
+          {
+            "header": "COUNTRY OF ORIGIN",
+            "values": [
+              {
+                "display_name": "India",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=country-of-origin--india",
+                "url": "/ts/173/country-of-origin/india"
+              }
+            ]
+          },
+          {
+            "header": "FOOD PREFERENCE",
+            "values": [
+              {
+                "display_name": "Vegetarian",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                "url": "/ts/787/food-preference/vegetarian"
+              }
+            ]
+          },
+          {
+            "header": "SWEETNER TYPE",
+            "values": [
+              {
+                "display_name": "Sucralose",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=sweetner-type--sucralose",
+                "url": "/ts/4740/sweetner-type/sucralose"
+              }
+            ]
+          },
+          {
+            "header": "PRODUCT TYPE",
+            "values": [
+              {
+                "display_name": "SuperSaver",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=product-type--supersaver",
+                "url": "/ts/5058/product-type/supersaver"
+              }
+            ]
+          },
+          {
+            "header": "FRESH & ORGANIC",
+            "values": [
+              {
+                "display_name": "Natural Sweeteners",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=fresh-organic--natural-sweeteners",
+                "url": "/ts/17140/fresh-organic/natural-sweeteners"
+              }
+            ]
+          },
+          {
+            "header": "DIABETIC FRIENDLY",
+            "values": [
+              {
+                "display_name": "Sugar-Free Sweeteners",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=diabetic-friendly--sugar-free-sweeteners",
+                "url": "/ts/17153/diabetic-friendly/sugar-free-sweeteners"
+              }
+            ]
+          },
+          {
+            "header": "NUT FREE",
+            "values": [
+              {
+                "display_name": "Bakery & Sweets",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=nut-free--bakery-sweets",
+                "url": "/ts/17210/nut-free/bakery-sweets"
+              }
+            ]
+          },
+          {
+            "header": "HEALTH STORE",
+            "values": [
+              {
+                "display_name": "Diabetic Friendly",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=health-store--diabetic-friendly",
+                "url": "/ts/17588/health-store/diabetic-friendly"
+              },
+              {
+                "display_name": "Nut-Free",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=health-store--nut-free",
+                "url": "/ts/17601/health-store/nut-free"
+              }
+            ]
+          },
+          {
+            "header": "PHARMA STORE",
+            "values": [
+              {
+                "display_name": "Diabetes Care",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=pharma-store--diabetes-care",
+                "url": "/ts/17790/pharma-store/diabetes-care"
+              }
+            ]
+          }
+        ],
+        "combo": null,
+        "category": {
+          "tlc_name": "Foodgrains, Oil & Masala",
+          "tlc_slug": "foodgrains-oil-masala",
+          "llc_slug": "type=pc&slug=sugarfree-sweeteners",
+          "llc_name": "Sugarfree Sweeteners",
+          "llc_id": 1471
+        },
+        "rating_info": {
+          "avg_rating": "4.2",
+          "rating_count": 866,
+          "review_count": 15,
+          "sku_id": 40185117
+        },
+        "breadcrumb": [
+          {
+            "id": 381,
+            "name": "foodgrains, oil & masala",
+            "slug": "foodgrains-oil-masala",
+            "type": "pc",
+            "url": "/cl/foodgrains-oil-masala/"
+          },
+          {
+            "id": 391,
+            "name": "salt, sugar & jaggery",
+            "slug": "salt-sugar-jaggery",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+          },
+          {
+            "id": 1471,
+            "name": "sugarfree sweeteners",
+            "slug": "sugarfree-sweeteners",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/"
+          }
+        ],
+        "aplus_url": null,
+        "pricing": {
+          "discount": {
+            "mrp": "121",
+            "d_text": "",
+            "d_avail": "false",
+            "prim_price": {
+              "sp": "121",
+              "icon": {
+                "base_url": null,
+                "image": null,
+                "format": null
+              },
+              "desc": ""
+            },
+            "sec_price": {
+              "sp": null,
+              "icon": null,
+              "desc": null,
+              "background": null
+            },
+            "offer_entry_text": "",
+            "offer_available": "false"
+          },
+          "promo": null
+        },
+        "children": [
+          {
+            "id": "40185117",
+            "desc": "Green Sweetener - With Natural Stevia, Zero Calories",
+            "pack_desc": "(300 Pellets)",
+            "w": "1 pc",
+            "absolute_url": "/pd/40185117/sugar-free-green-100-natural-made-from-stevia-300-pellets-pellets/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "001",
+              "short_eta": "1 day",
+              "medium_eta": "Get it in 1 day",
+              "long_eta": "Get it in 1 day",
+              "label": null,
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Add",
+              "show_express": false
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117-2_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117-3_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117-3_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117-4_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117-4_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117-4_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117-4_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117-4_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117-5_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117-5_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117-5_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117-5_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117-5_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117-6_2-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117-7_2-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40185117-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40185117-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40185117-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40185117-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40185117-8_1-sugar-free-green-100-natural-made-from-stevia.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Sugar Free",
+              "slug": "sugar-free",
+              "url": "/pb/sugar-free/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Sugar Free is one of the oldest and most reliable brands that brings you healthy sweeteners suitable for your health goals. Sugar Free Green is derived from 100% natural stevia leaves that help individuals adopt a sweet yet healthy lifestyle without any guilt. This natural sweetener leaves no aftertaste and it is safe to consume. It can be added as a healthy alternative to sugar in cooking, baking, desserts, Indian sweets, beverages, cakes, etc. Zero sugar is the way to go in today\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s times. Whether you have any health condition or not, this product is sure to change your life for the better. Sugar Free Green is also available in powder jar, pouches, and sachets variations that are made suitable for healthy diets, hot/cold beverages across households, restaurants, and office setups, or during traveling.</p>\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 1 Pellet (0.1g)\r\nServing_Size: 0.1 g\r\nEnergy: 0.29 kcal\r\nFat: 0.0 g\r\nProtein: 0.0 g\r\nCarbohydrates: 0.07 g\r\nSugars: 0.04 g\r\nSucrose: 0.0 g\n        </div>",
+                "title": "Nutritional Facts"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 8901548431108 </p><p><br></p><p>Manufactured &amp; Marketed By: Zydus Wellness Sikkim Mamring Forest Block Sikkim 737132 &amp; Zydus Wellness Products Limited; Zydus Corporate Park Scheme No. 63 Survey No. 536 Khoraj (Gandhinagar) Nr. Vaishnodevi Circle Ahmedabad-382481 Gujarat India.</p><p><br></p><p>Country of origin: India </p><p><br></p><p>FSSAI Number : </p><p><br></p><p>Best before 09-09-2027</p><p><br></p><p>Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date.</p><p><br></p><p>For Queries/Feedback/Complaints, contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore - 560016 Email: customerservice@bigbasket.com</p>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "SWEETNER TYPE",
+                "values": [
+                  {
+                    "display_name": "Sucralose",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=sweetner-type--sucralose",
+                    "url": "/ts/4740/sweetner-type/sucralose"
+                  }
+                ]
+              },
+              {
+                "header": "PRODUCT TYPE",
+                "values": [
+                  {
+                    "display_name": "SuperSaver",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=product-type--supersaver",
+                    "url": "/ts/5058/product-type/supersaver"
+                  }
+                ]
+              },
+              {
+                "header": "FRESH & ORGANIC",
+                "values": [
+                  {
+                    "display_name": "Natural Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=fresh-organic--natural-sweeteners",
+                    "url": "/ts/17140/fresh-organic/natural-sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "DIABETIC FRIENDLY",
+                "values": [
+                  {
+                    "display_name": "Sugar-Free Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=diabetic-friendly--sugar-free-sweeteners",
+                    "url": "/ts/17153/diabetic-friendly/sugar-free-sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Bakery & Sweets",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--bakery-sweets",
+                    "url": "/ts/17210/nut-free/bakery-sweets"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetic Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--diabetic-friendly",
+                    "url": "/ts/17588/health-store/diabetic-friendly"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              },
+              {
+                "header": "PHARMA STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetes Care",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=pharma-store--diabetes-care",
+                    "url": "/ts/17790/pharma-store/diabetes-care"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Foodgrains, Oil & Masala",
+              "tlc_slug": "foodgrains-oil-masala",
+              "llc_slug": "type=pc&slug=sugarfree-sweeteners",
+              "llc_name": "Sugarfree Sweeteners",
+              "llc_id": 1471
+            },
+            "rating_info": {
+              "avg_rating": "4.2",
+              "rating_count": 866,
+              "review_count": 15,
+              "sku_id": 40185117
+            },
+            "breadcrumb": [
+              {
+                "id": 381,
+                "name": "foodgrains, oil & masala",
+                "slug": "foodgrains-oil-masala",
+                "type": "pc",
+                "url": "/cl/foodgrains-oil-masala/"
+              },
+              {
+                "id": 391,
+                "name": "salt, sugar & jaggery",
+                "slug": "salt-sugar-jaggery",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+              },
+              {
+                "id": 1471,
+                "name": "sugarfree sweeteners",
+                "slug": "sugarfree-sweeteners",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/"
+              }
+            ],
+            "aplus_url": null,
+            "pricing": {
+              "discount": {
+                "mrp": "309",
+                "d_text": "\u20b92 OFF",
+                "d_avail": "true",
+                "prim_price": {
+                  "sp": "306.53",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          },
+          {
+            "id": "40188094",
+            "desc": "Green Sweetener - With Natural Stevia, Zero Calories",
+            "pack_desc": "Jar",
+            "w": "200 g",
+            "absolute_url": "/pd/40188094/sugar-free-green-100-natural-made-from-stevia-200-g/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "000",
+              "short_eta": "1 day",
+              "medium_eta": "Get it in 1 day",
+              "long_eta": "Get it in 1 day",
+              "label": "Coming back soon",
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Notify Me",
+              "show_express": false
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094-2_4-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094-2_4-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094-3_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094-3_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094-3_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094-3_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094-3_3-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094-4_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094-4_3-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094-5_3-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094-5_3-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094-6_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094-6_2-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094-7_2-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094-7_2-sugar-free-green-100-natural-made-from-stevia.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40188094-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40188094-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40188094-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40188094-8_1-sugar-free-green-100-natural-made-from-stevia.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40188094-8_1-sugar-free-green-100-natural-made-from-stevia.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Sugar Free",
+              "slug": "sugar-free",
+              "url": "/pb/sugar-free/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Sugar Free is one of the oldest and most reliable brands that brings you healthy sweeteners suitable for your health goals. Sugar Free Green is derived from 100% natural stevia leaves that help individuals adopt a sweet yet healthy lifestyle without any guilt. This natural sweetener leaves no aftertaste and it is safe to consume. It can be added as a healthy alternative to sugar in cooking, baking, desserts, Indian sweets, beverages, cakes, etc. Zero sugar is the way to go in today\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s times. Whether you have any health condition or not, this product is sure to change your life for the better. Sugar Free Green is also available in powder, jar, pouches, and sachets variations that are made suitable for healthy diets, hot/cold beverages across households, restaurants, and office setups, or during travelling.</p>\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Nutrition_per: 1 serving (1g)\r\nServing_Size: 1g\r\nEnergy: 3.57 kcal\r\nFat: 0.0 g\r\nProtein: 0.0 g\r\nCarbohydrate: 0.96 g\r\nSugars: 0.77 g\r\nSucrose: 0.0 g\r\nPolyols: 0.19 g\n        </div>",
+                "title": "Nutritional Facts"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 40188094 </p><p><br></p><p>Manufactured &amp; Marketed By: Zydus Wellness, Sikkim Mamring Forest Block, Sikkim 737132 &amp; Zydus Wellness Products Limited; Zydus Corporate Park, Scheme No. 63, Survey No. 536, Khoraj (Gandhinagar), Nr. Vaishnodevi Circle, Ahmedabad-382481, Gujarat, India.</p><p><br></p><p>Country of origin: India </p><p><br></p><p>FSSAI Number: </p><p><br></p><p>Best before 10-03-2027</p><p><br></p><p>Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date.</p><p><br></p><p>For Queries/Feedback/Complaints, contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore - 560016 Email: customerservice@bigbasket.com</p>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "SWEETNER TYPE",
+                "values": [
+                  {
+                    "display_name": "Sucralose",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=sweetner-type--sucralose",
+                    "url": "/ts/4740/sweetner-type/sucralose"
+                  }
+                ]
+              },
+              {
+                "header": "PRODUCT TYPE",
+                "values": [
+                  {
+                    "display_name": "SuperSaver",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=product-type--supersaver",
+                    "url": "/ts/5058/product-type/supersaver"
+                  }
+                ]
+              },
+              {
+                "header": "FRESH & ORGANIC",
+                "values": [
+                  {
+                    "display_name": "Natural Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=fresh-organic--natural-sweeteners",
+                    "url": "/ts/17140/fresh-organic/natural-sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "DIABETIC FRIENDLY",
+                "values": [
+                  {
+                    "display_name": "Sugar-Free Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=diabetic-friendly--sugar-free-sweeteners",
+                    "url": "/ts/17153/diabetic-friendly/sugar-free-sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "SUGAR FREE",
+                "values": [
+                  {
+                    "display_name": "Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=sugar-free--sweeteners",
+                    "url": "/ts/17204/sugar-free/sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Bakery & Sweets",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--bakery-sweets",
+                    "url": "/ts/17210/nut-free/bakery-sweets"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetic Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--diabetic-friendly",
+                    "url": "/ts/17588/health-store/diabetic-friendly"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              },
+              {
+                "header": "PHARMA STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetes Care",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=pharma-store--diabetes-care",
+                    "url": "/ts/17790/pharma-store/diabetes-care"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Foodgrains, Oil & Masala",
+              "tlc_slug": "foodgrains-oil-masala",
+              "llc_slug": "type=pc&slug=sugarfree-sweeteners",
+              "llc_name": "Sugarfree Sweeteners",
+              "llc_id": 1471
+            },
+            "rating_info": {
+              "avg_rating": "4.2",
+              "rating_count": 866,
+              "review_count": 15,
+              "sku_id": 40185117
+            },
+            "breadcrumb": [
+              {
+                "id": 381,
+                "name": "foodgrains, oil & masala",
+                "slug": "foodgrains-oil-masala",
+                "type": "pc",
+                "url": "/cl/foodgrains-oil-masala/"
+              },
+              {
+                "id": 391,
+                "name": "salt, sugar & jaggery",
+                "slug": "salt-sugar-jaggery",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+              },
+              {
+                "id": 1471,
+                "name": "sugarfree sweeteners",
+                "slug": "sugarfree-sweeteners",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/"
+              }
+            ],
+            "aplus_url": null,
+            "pricing": {
+              "discount": {
+                "mrp": "281",
+                "d_text": "\u20b911 OFF",
+                "d_avail": "true",
+                "prim_price": {
+                  "sp": "269.76",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          }
+        ]
+      }
+    }
+  }
+}

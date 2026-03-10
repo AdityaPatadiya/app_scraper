@@ -1,0 +1,869 @@
+{
+  "started_at_utc": "2026-03-10T07:01:01.337809+00:00",
+  "location": {
+    "pincode": "600001",
+    "name": "Chennai (George Town / GPO)",
+    "lat": "13.0837",
+    "lng": "80.2707"
+  },
+  "product_id": 40108477,
+  "status": "ok",
+  "response": {
+    "data": {
+      "product": {
+        "base_img_url": "https://www.bbassets.com/media/uploads",
+        "id": "40108477",
+        "desc": "Gold",
+        "pack_desc": "",
+        "w": "100 pcs",
+        "absolute_url": "/pd/40108477/sugar-free-gold-low-calorie-sweetener-110-pellets/",
+        "cart_count": 0,
+        "availability": {
+          "avail_status": "001",
+          "short_eta": null,
+          "medium_eta": null,
+          "long_eta": null,
+          "label": null,
+          "display_mrp": true,
+          "display_sp": true,
+          "not_for_sale": false,
+          "button": "Add",
+          "show_express": null
+        },
+        "images": [
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477_5-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-2_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-2_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-2_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-2_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-2_5-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-3_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-3_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-3_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-3_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-3_5-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-4_5-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-5_5-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-6_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-6_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-6_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-6_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-6_3-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-7_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-7_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-7_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-7_3-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-7_3-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-8_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-8_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-8_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-8_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-8_2-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-9_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-9_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-9_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-9_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-9_2-sugar-free-gold-low-calorie-sweetener.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/40108477-10_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/40108477-10_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/40108477-10_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/40108477-10_2-sugar-free-gold-low-calorie-sweetener.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108477-10_2-sugar-free-gold-low-calorie-sweetener.jpg"
+          }
+        ],
+        "variable_weight": null,
+        "brand": {
+          "name": "Sugar Free",
+          "slug": "sugar-free",
+          "url": "/pb/sugar-free/"
+        },
+        "additional_attr": {
+          "bby_lod": null,
+          "info": [
+            {
+              "id": null,
+              "type": "food_type",
+              "image_url": null,
+              "sub_type": "veg",
+              "label": "veg",
+              "position": null
+            }
+          ]
+        },
+        "tabs": [
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Sugar Free Gold is your healthier alternative to sugar, made from the protein derivative aspartame. This low-calorie sweetener provides the delicious taste of sugar but with negligible calories, making it the ideal choice for those seeking to cut down on excess sugar intake. By incorporating Sugar Free Gold into your fitness routine, you can easily avoid up to 500 calories per day - a feat that would otherwise require an hour of strenuous exercise to achieve. Enjoy the sweetness you crave without the guilt, and take control of your calorie consumption with this versatile, sugar-free substitute. Sugar Free Gold is the top brand in the sugar-free category, trusted by health-conscious Indian families to support a fitness-friendly lifestyle. With its Zero-sugar formula and ability to replicate the functions of refined sugar, this product is a must-have for effective weight management and overall wellbeing.\n        </div>",
+            "title": "About the Product"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Bulking Agent- Lactose, Sweetener Aspartame and Stabilizer Polyvinyl pyrrolidone</p>\n        </div>",
+            "title": "Ingredients"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <ul>\r\r\n<li>Engery--2.8 kcal</li>\r\r\n<li>Protein -- 0.0g</li>\r\r\n<li>Fat --0.0g</li>\r\r\n<li>Carbohydrate-- 0.7g</li>\r\r\n<li>Sugar(sucrose)-0.0g</li>\r\r\n</ul>\n        </div>",
+            "title": "Nutritional Facts"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <ul>\r\r\n<li>Sugar Free Gold is a healthy alternative to sugar. Made with Aspartame, a protein derivative, Sugar Free Gold is a low-calorie substitute with the sweetness and taste of sugar. Store in a clean dry place in a air tight container.</li>\r\r\n<li>It is an ideal substitute as one sachet, in sweetness, is equivalent to a teaspoon of sugar.</li>\r\r\n<li>It can help you avoid almost 500 calories a day, as avoiding calories is easier than burning them.</li>\r\r\n<li>Sugar Free Gold is a boon for health-conscious people and diabetics.</li>\r\r\n</ul>\n        </div>",
+            "title": "Storage and Uses"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            EAN Code: 8901120143726 <br> Country of origin: India <br> Manufactured & Marketed by: Zydus Wellness Sikkim , Mamring Forest Block, Sikkim 737132  <br> Best before 09-09-2027 <br> Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date<br>For Queries/Feedback/Complaints, Contact our Customer Care Executive at: Phone: 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, No.18, 2nd & 3rd Floor, 80 Feet Main Road, Koramangala 4th Block, Bangalore - 560034 | Email: customerservice@bigbasket.com\n        </div>",
+            "title": "Other Product Info"
+          }
+        ],
+        "tags": [
+          {
+            "header": "COUNTRY OF ORIGIN",
+            "values": [
+              {
+                "display_name": "India",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=country-of-origin--india",
+                "url": "/ts/173/country-of-origin/india"
+              }
+            ]
+          },
+          {
+            "header": "FOOD PREFERENCE",
+            "values": [
+              {
+                "display_name": "Vegetarian",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                "url": "/ts/787/food-preference/vegetarian"
+              }
+            ]
+          },
+          {
+            "header": "SWEETNER TYPE",
+            "values": [
+              {
+                "display_name": "Aspartame",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=sweetner-type--aspartame",
+                "url": "/ts/4737/sweetner-type/aspartame"
+              }
+            ]
+          },
+          {
+            "header": "PRODUCT TYPE",
+            "values": [
+              {
+                "display_name": "SuperSaver",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=product-type--supersaver",
+                "url": "/ts/5058/product-type/supersaver"
+              }
+            ]
+          },
+          {
+            "header": "DIABETIC FRIENDLY",
+            "values": [
+              {
+                "display_name": "Sugar-Free Sweeteners",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=diabetic-friendly--sugar-free-sweeteners",
+                "url": "/ts/17153/diabetic-friendly/sugar-free-sweeteners"
+              }
+            ]
+          },
+          {
+            "header": "NUT FREE",
+            "values": [
+              {
+                "display_name": "Cooking & Baking",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=nut-free--cooking-baking",
+                "url": "/ts/17212/nut-free/cooking-baking"
+              }
+            ]
+          },
+          {
+            "header": "HEALTH STORE",
+            "values": [
+              {
+                "display_name": "Diabetic Friendly",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=health-store--diabetic-friendly",
+                "url": "/ts/17588/health-store/diabetic-friendly"
+              },
+              {
+                "display_name": "Nut-Free",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=health-store--nut-free",
+                "url": "/ts/17601/health-store/nut-free"
+              },
+              {
+                "display_name": "Low-Calories Munchies",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=health-store--low-calories-munchies",
+                "url": "/ts/17604/health-store/low-calories-munchies"
+              }
+            ]
+          },
+          {
+            "header": "PHARMA STORE",
+            "values": [
+              {
+                "display_name": "Diabetes Care",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=pharma-store--diabetes-care",
+                "url": "/ts/17790/pharma-store/diabetes-care"
+              }
+            ]
+          }
+        ],
+        "combo": null,
+        "category": {
+          "tlc_name": "Foodgrains, Oil & Masala",
+          "tlc_slug": "foodgrains-oil-masala",
+          "llc_slug": "type=pc&slug=sugarfree-sweeteners",
+          "llc_name": "Sugarfree Sweeteners",
+          "llc_id": 1471
+        },
+        "rating_info": {
+          "avg_rating": "4.2",
+          "rating_count": 1318,
+          "review_count": 16,
+          "sku_id": 242596
+        },
+        "breadcrumb": [
+          {
+            "id": 381,
+            "name": "foodgrains, oil & masala",
+            "slug": "foodgrains-oil-masala",
+            "type": "pc",
+            "url": "/cl/foodgrains-oil-masala/"
+          },
+          {
+            "id": 391,
+            "name": "salt, sugar & jaggery",
+            "slug": "salt-sugar-jaggery",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+          },
+          {
+            "id": 1471,
+            "name": "sugarfree sweeteners",
+            "slug": "sugarfree-sweeteners",
+            "type": "pc",
+            "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/"
+          }
+        ],
+        "aplus_url": null,
+        "pricing": {
+          "discount": {
+            "mrp": "75",
+            "d_text": "",
+            "d_avail": "true",
+            "prim_price": {
+              "sp": "74.4",
+              "icon": {
+                "base_url": null,
+                "image": null,
+                "format": null
+              },
+              "desc": ""
+            },
+            "sec_price": {
+              "sp": null,
+              "icon": null,
+              "desc": null,
+              "background": null
+            },
+            "offer_entry_text": "",
+            "offer_available": "false"
+          },
+          "promo": null
+        },
+        "children": [
+          {
+            "id": "40051769",
+            "desc": "Gold+ Low Calorie Sweetener",
+            "pack_desc": "(500 Pellets)",
+            "w": "50 g",
+            "absolute_url": "/pd/40051769/sugar-free-gold-low-calorie-sweetner-500-pellets/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "001",
+              "short_eta": null,
+              "medium_eta": null,
+              "long_eta": null,
+              "label": null,
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Add",
+              "show_express": null
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40051769_15-sugar-free-gold-low-calorie-sweetner.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40051769_15-sugar-free-gold-low-calorie-sweetner.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40051769_15-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40051769_15-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40051769_15-sugar-free-gold-low-calorie-sweetner.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40051769-2_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40051769-2_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40051769-2_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40051769-2_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40051769-2_14-sugar-free-gold-low-calorie-sweetner.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40051769-3_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40051769-3_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40051769-3_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40051769-3_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40051769-3_14-sugar-free-gold-low-calorie-sweetner.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40051769-4_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40051769-4_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40051769-4_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40051769-4_14-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40051769-4_14-sugar-free-gold-low-calorie-sweetner.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40051769-5_12-sugar-free-gold-low-calorie-sweetner.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40051769-5_12-sugar-free-gold-low-calorie-sweetner.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40051769-5_12-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40051769-5_12-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40051769-5_12-sugar-free-gold-low-calorie-sweetner.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40051769-6_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40051769-6_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40051769-6_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40051769-6_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40051769-6_7-sugar-free-gold-low-calorie-sweetner.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40051769-7_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40051769-7_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40051769-7_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40051769-7_7-sugar-free-gold-low-calorie-sweetner.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40051769-7_7-sugar-free-gold-low-calorie-sweetner.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Sugar Free",
+              "slug": "sugar-free",
+              "url": "/pb/sugar-free/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Sugar Free Gold+ is the top sweetner brand in sugar substitute category. Our expertise in sugar-free products that can be used as healthier substitutes for sugar helps a majority of Indian families shift towards a fitness-friendly lifestyle. The zero-sugar option is often used by people for weight management. It replicates the functions of refined sugar with much fewer calories.\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 8901548311981 </p><br><p> FSSAI No:  10012035000021 </p><br><p> Manufactured by: Zydus Wellness Products Limited, Plot No. 26, 27, 28, 30, 36 &amp; 37, Near Mamring Power House, Mamring Block, Namthang Elakha, Mamring-737132, South Sikkim, India </p><br><p> Marketed by: Zydus Wellness Products Limited, Zydus Corporate Park, Scheme No. 63 Survey No. 536, Khora) (Gandhinagar), Ne. Vaishnodevi Circle, Ahmedabad-382481, Gujarat, India </p><br><p> Country of origin: India </p><br><p> Best Before 09-09-2026 </p><br><p> Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date. </p><br><p> For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email:customerservice@bigbasket.com</p>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "SWEETNER TYPE",
+                "values": [
+                  {
+                    "display_name": "Aspartame",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=sweetner-type--aspartame",
+                    "url": "/ts/4737/sweetner-type/aspartame"
+                  }
+                ]
+              },
+              {
+                "header": "PRODUCT TYPE",
+                "values": [
+                  {
+                    "display_name": "SuperSaver",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=product-type--supersaver",
+                    "url": "/ts/5058/product-type/supersaver"
+                  }
+                ]
+              },
+              {
+                "header": "DIABETIC FRIENDLY",
+                "values": [
+                  {
+                    "display_name": "Sugar-Free Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=diabetic-friendly--sugar-free-sweeteners",
+                    "url": "/ts/17153/diabetic-friendly/sugar-free-sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "SUGAR FREE",
+                "values": [
+                  {
+                    "display_name": "Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=sugar-free--sweeteners",
+                    "url": "/ts/17204/sugar-free/sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Bakery & Sweets",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--bakery-sweets",
+                    "url": "/ts/17210/nut-free/bakery-sweets"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetic Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--diabetic-friendly",
+                    "url": "/ts/17588/health-store/diabetic-friendly"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              },
+              {
+                "header": "PHARMA STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetes Care",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=pharma-store--diabetes-care",
+                    "url": "/ts/17790/pharma-store/diabetes-care"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Foodgrains, Oil & Masala",
+              "tlc_slug": "foodgrains-oil-masala",
+              "llc_slug": "type=pc&slug=sugarfree-sweeteners",
+              "llc_name": "Sugarfree Sweeteners",
+              "llc_id": 1471
+            },
+            "rating_info": {
+              "avg_rating": "4.2",
+              "rating_count": 1318,
+              "review_count": 16,
+              "sku_id": 242596
+            },
+            "breadcrumb": [
+              {
+                "id": 381,
+                "name": "foodgrains, oil & masala",
+                "slug": "foodgrains-oil-masala",
+                "type": "pc",
+                "url": "/cl/foodgrains-oil-masala/"
+              },
+              {
+                "id": 391,
+                "name": "salt, sugar & jaggery",
+                "slug": "salt-sugar-jaggery",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+              },
+              {
+                "id": 1471,
+                "name": "sugarfree sweeteners",
+                "slug": "sugarfree-sweeteners",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/"
+              }
+            ],
+            "aplus_url": null,
+            "pricing": {
+              "discount": {
+                "mrp": "300",
+                "d_text": "\u20b92 OFF",
+                "d_avail": "true",
+                "prim_price": {
+                  "sp": "297.6",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          },
+          {
+            "id": "40108475",
+            "desc": "Gold+ Low Calorie Sweetener",
+            "pack_desc": "",
+            "w": "100 g",
+            "absolute_url": "/pd/40108475/sugar-free-gold-low-calorie-sweetener-100-g-jar/",
+            "cart_count": 0,
+            "availability": {
+              "avail_status": "001",
+              "short_eta": null,
+              "medium_eta": null,
+              "long_eta": null,
+              "label": null,
+              "display_mrp": true,
+              "display_sp": true,
+              "not_for_sale": false,
+              "button": "Add",
+              "show_express": null
+            },
+            "images": [
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40108475_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40108475_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40108475_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40108475_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108475_7-sugar-free-gold-low-calorie-sweetener.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40108475-2_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40108475-2_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40108475-2_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40108475-2_7-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108475-2_7-sugar-free-gold-low-calorie-sweetener.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40108475-3_6-sugar-free-gold-low-calorie-sweetener.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40108475-3_6-sugar-free-gold-low-calorie-sweetener.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40108475-3_6-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40108475-3_6-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108475-3_6-sugar-free-gold-low-calorie-sweetener.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40108475-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40108475-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40108475-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40108475-4_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108475-4_5-sugar-free-gold-low-calorie-sweetener.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40108475-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40108475-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40108475-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40108475-5_5-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108475-5_5-sugar-free-gold-low-calorie-sweetener.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40108475-6_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40108475-6_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40108475-6_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40108475-6_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108475-6_4-sugar-free-gold-low-calorie-sweetener.jpg"
+              },
+              {
+                "s": "https://www.bbassets.com/media/uploads/p/s/40108475-7_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "l": "https://www.bbassets.com/media/uploads/p/l/40108475-7_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "ml": null,
+                "m": "https://www.bbassets.com/media/uploads/p/m/40108475-7_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xl": "https://www.bbassets.com/media/uploads/p/xl/40108475-7_4-sugar-free-gold-low-calorie-sweetener.jpg",
+                "xxl": "https://www.bbassets.com/media/uploads/p/xxl/40108475-7_4-sugar-free-gold-low-calorie-sweetener.jpg"
+              }
+            ],
+            "variable_weight": null,
+            "brand": {
+              "name": "Sugar Free",
+              "slug": "sugar-free",
+              "url": "/pb/sugar-free/"
+            },
+            "additional_attr": {
+              "bby_lod": null,
+              "info": [
+                {
+                  "id": null,
+                  "type": "food_type",
+                  "image_url": null,
+                  "sub_type": "veg",
+                  "label": "veg",
+                  "position": null
+                }
+              ]
+            },
+            "tabs": [
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            Sugar Free Gold+ is the top sweetner brand in sugar substitute category. Our expertise in sugar-free products that can be used as healthier substitutes for sugar helps a majority of Indian families shift towards a fitness-friendly lifestyle. The zero-sugar option is often used by people for weight management. It replicates the functions of refined sugar with much fewer calories.\n        </div>",
+                "title": "About the Product"
+              },
+              {
+                "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>EAN Code: 8901120143917 </p><br><p> FSSAI No:  10012035000021 </p><br><p> Manufactured by: Zydus Wellness Products Limited, Plot No. 26, 27, 28, 30, 36 &amp; 37, Near Mamring Power House, Mamring Block, Namthang Elakha, Mamring-737132, South Sikkim, India </p><br><p> Marketed by: Zydus Wellness Products Limited, Zydus Corporate Park, Scheme No. 63 Survey No. 536, Khora) (Gandhinagar), Ne. Vaishnodevi Circle, Ahmedabad-382481, Gujarat, India </p><br><p> Country of origin: India </p><br><p> Best Before 05-03-2027 </p><br><p> Disclaimer: The expiry date shown here is for indicative purposes only. Please refer to the information provided on the product package received at delivery for the actual expiry date. </p><br><p> For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email:customerservice@bigbasket.com</p>\n        </div>",
+                "title": "Other Product Info"
+              }
+            ],
+            "tags": [
+              {
+                "header": "COUNTRY OF ORIGIN",
+                "values": [
+                  {
+                    "display_name": "India",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=country-of-origin--india",
+                    "url": "/ts/173/country-of-origin/india"
+                  }
+                ]
+              },
+              {
+                "header": "FOOD PREFERENCE",
+                "values": [
+                  {
+                    "display_name": "Vegetarian",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=food-preference--vegetarian",
+                    "url": "/ts/787/food-preference/vegetarian"
+                  }
+                ]
+              },
+              {
+                "header": "SWEETNER TYPE",
+                "values": [
+                  {
+                    "display_name": "Aspartame",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=sweetner-type--aspartame",
+                    "url": "/ts/4737/sweetner-type/aspartame"
+                  }
+                ]
+              },
+              {
+                "header": "PRODUCT TYPE",
+                "values": [
+                  {
+                    "display_name": "SuperSaver",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=product-type--supersaver",
+                    "url": "/ts/5058/product-type/supersaver"
+                  }
+                ]
+              },
+              {
+                "header": "DIABETIC FRIENDLY",
+                "values": [
+                  {
+                    "display_name": "Sugar-Free Sweeteners",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=diabetic-friendly--sugar-free-sweeteners",
+                    "url": "/ts/17153/diabetic-friendly/sugar-free-sweeteners"
+                  }
+                ]
+              },
+              {
+                "header": "NUT FREE",
+                "values": [
+                  {
+                    "display_name": "Bakery & Sweets",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=nut-free--bakery-sweets",
+                    "url": "/ts/17210/nut-free/bakery-sweets"
+                  }
+                ]
+              },
+              {
+                "header": "HEALTH STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetic Friendly",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--diabetic-friendly",
+                    "url": "/ts/17588/health-store/diabetic-friendly"
+                  },
+                  {
+                    "display_name": "Nut-Free",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=health-store--nut-free",
+                    "url": "/ts/17601/health-store/nut-free"
+                  }
+                ]
+              },
+              {
+                "header": "PHARMA STORE",
+                "values": [
+                  {
+                    "display_name": "Diabetes Care",
+                    "dest_type": "product_list",
+                    "dest_slug": "type=tag&slug=pharma-store--diabetes-care",
+                    "url": "/ts/17790/pharma-store/diabetes-care"
+                  }
+                ]
+              }
+            ],
+            "combo": null,
+            "category": {
+              "tlc_name": "Foodgrains, Oil & Masala",
+              "tlc_slug": "foodgrains-oil-masala",
+              "llc_slug": "type=pc&slug=sugarfree-sweeteners",
+              "llc_name": "Sugarfree Sweeteners",
+              "llc_id": 1471
+            },
+            "rating_info": {
+              "avg_rating": "4.2",
+              "rating_count": 1318,
+              "review_count": 16,
+              "sku_id": 242596
+            },
+            "breadcrumb": [
+              {
+                "id": 381,
+                "name": "foodgrains, oil & masala",
+                "slug": "foodgrains-oil-masala",
+                "type": "pc",
+                "url": "/cl/foodgrains-oil-masala/"
+              },
+              {
+                "id": 391,
+                "name": "salt, sugar & jaggery",
+                "slug": "salt-sugar-jaggery",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+              },
+              {
+                "id": 1471,
+                "name": "sugarfree sweeteners",
+                "slug": "sugarfree-sweeteners",
+                "type": "pc",
+                "url": "/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/"
+              }
+            ],
+            "aplus_url": null,
+            "pricing": {
+              "discount": {
+                "mrp": "154",
+                "d_text": "\u20b91 OFF",
+                "d_avail": "true",
+                "prim_price": {
+                  "sp": "152.77",
+                  "icon": {
+                    "base_url": null,
+                    "image": null,
+                    "format": null
+                  },
+                  "desc": ""
+                },
+                "sec_price": {
+                  "sp": null,
+                  "icon": null,
+                  "desc": null,
+                  "background": null
+                },
+                "offer_entry_text": "",
+                "offer_available": "false"
+              },
+              "promo": null
+            }
+          }
+        ]
+      }
+    }
+  }
+}

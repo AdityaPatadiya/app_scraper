@@ -1,0 +1,288 @@
+{
+  "started_at_utc": "2026-03-10T07:00:41.957218+00:00",
+  "location": {
+    "pincode": "700001",
+    "name": "Kolkata (BBD Bagh)",
+    "lat": "22.5726",
+    "lng": "88.3639"
+  },
+  "product_id": 10000025,
+  "status": "ok",
+  "response": {
+    "data": {
+      "product": {
+        "base_img_url": "https://www.bbassets.com/media/uploads",
+        "id": "10000025",
+        "desc": "Banana - Robusta",
+        "pack_desc": "(Approx. 6 - 8 pcs)",
+        "w": "1 kg",
+        "absolute_url": "/pd/10000025/fresho-banana-robusta-1-kg/",
+        "cart_count": 0,
+        "availability": {
+          "avail_status": "010",
+          "short_eta": null,
+          "medium_eta": null,
+          "long_eta": null,
+          "label": "We are currently not delivering this",
+          "display_mrp": false,
+          "display_sp": false,
+          "not_for_sale": null,
+          "button": "Notify Me",
+          "show_express": null
+        },
+        "images": [
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/10000025_32-fresho-banana-robusta.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/10000025_32-fresho-banana-robusta.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/10000025_32-fresho-banana-robusta.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/10000025_32-fresho-banana-robusta.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/10000025_32-fresho-banana-robusta.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/10000025-2_10-fresho-banana-robusta.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/10000025-2_10-fresho-banana-robusta.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/10000025-2_10-fresho-banana-robusta.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/10000025-2_10-fresho-banana-robusta.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/10000025-2_10-fresho-banana-robusta.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/10000025-3_9-fresho-banana-robusta.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/10000025-3_9-fresho-banana-robusta.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/10000025-3_9-fresho-banana-robusta.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/10000025-3_9-fresho-banana-robusta.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/10000025-3_9-fresho-banana-robusta.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/10000025-4_7-fresho-banana-robusta.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/10000025-4_7-fresho-banana-robusta.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/10000025-4_7-fresho-banana-robusta.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/10000025-4_7-fresho-banana-robusta.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/10000025-4_7-fresho-banana-robusta.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/10000025-5_7-fresho-banana-robusta.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/10000025-5_7-fresho-banana-robusta.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/10000025-5_7-fresho-banana-robusta.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/10000025-5_7-fresho-banana-robusta.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/10000025-5_7-fresho-banana-robusta.jpg"
+          },
+          {
+            "s": "https://www.bbassets.com/media/uploads/p/s/10000025-6_6-fresho-banana-robusta.jpg",
+            "l": "https://www.bbassets.com/media/uploads/p/l/10000025-6_6-fresho-banana-robusta.jpg",
+            "ml": null,
+            "m": "https://www.bbassets.com/media/uploads/p/m/10000025-6_6-fresho-banana-robusta.jpg",
+            "xl": "https://www.bbassets.com/media/uploads/p/xl/10000025-6_6-fresho-banana-robusta.jpg",
+            "xxl": "https://www.bbassets.com/media/uploads/p/xxl/10000025-6_6-fresho-banana-robusta.jpg"
+          }
+        ],
+        "variable_weight": {
+          "msg": " Please note that the item(s) in this product may vary slightly in size and weight. Hence, the actual weight of the product delivered can have a small variance. You will be billed based on the actual weight during order processing.  ",
+          "link": "/variableweight/?source=app"
+        },
+        "brand": {
+          "name": "fresho!",
+          "slug": "fresho",
+          "url": "/pb/fresho/"
+        },
+        "additional_attr": {
+          "bby_lod": null,
+          "info": []
+        },
+        "tabs": [
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            <p>Banana Robusta is one of the most widely consumed banana varieties. These bananas are known for their distinctive, sweet flavours and creamy texture. They have a vibrant yellow skin when ripe, which encases a high-starch content flesh, making them ideal for cooking and baking. Banana Robusta is also a key ingredient in smoothies, desserts, and even savoury dishes. Moreover, they have a longer shelf life compared to other varieties. The Robusta is not just a tasty snack, but also a versatile ingredient that enhances the flavours of many recipes. The Banana Robusta is appreciated for its size, typically larger than other banana species, making it a substantial snack. The variety is also frequently used in for items such as banana chips, banana bread, and baby food due to its consistent texture and sweetness.</p><p><br></p><p>Don't forget to check out our delicious fruit recipe - <a href=\"https://www.bigbasket.com/cookbook/recipes/1781/banana-smoothie/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bigbasket.com/cookbook/recipes/1781/banana-smoothie/ </a></p>\n        </div>",
+            "title": "About the Product"
+          },
+          {
+            "content": "<style type=\"text/css\"> @import url(\"https://www.bbassets.com/static/froala_style_v2.min.css\"); </style>\n        <div style=\"font-family: 'ProximaNova-Regular';font-size:13px;line-height: 18px;color:8f8f8f;\">\n            EAN Code: 81000002501048  <br> Sourced & Marketed By Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016<br> FSSAI:10015042002230 <br> Country of Origin: India <br> Use Within 3 Days from the date of delivery <br> For Queries/Feedback/Complaints, Contact our customer care executive at 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory Bus Stop. KR Puram, Bangalore-560016, Email: customerservice@bigbasket.com\n        </div>",
+            "title": "Other Product Info"
+          }
+        ],
+        "tags": [
+          {
+            "header": "COUNTRY OF ORIGIN",
+            "values": [
+              {
+                "display_name": "India",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=country-of-origin--india",
+                "url": "/ts/173/country-of-origin/india"
+              }
+            ]
+          },
+          {
+            "header": "FESTIVAL",
+            "values": [
+              {
+                "display_name": "Special Occasion",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=festival--special-occasion",
+                "url": "/ts/265/festival/special-occasion"
+              },
+              {
+                "display_name": "Shivratri",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=festival--shivratri",
+                "url": "/ts/5242/festival/shivratri"
+              }
+            ]
+          },
+          {
+            "header": "PRODUCT TYPE",
+            "values": [
+              {
+                "display_name": "SuperSaver",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=product-type--supersaver",
+                "url": "/ts/5058/product-type/supersaver"
+              }
+            ]
+          },
+          {
+            "header": "BANANA VARIETIES",
+            "values": [
+              {
+                "display_name": "Robusta",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=banana-varieties--robusta",
+                "url": "/ts/5297/banana-varieties/robusta"
+              }
+            ]
+          },
+          {
+            "header": "TOP DEALS",
+            "values": [
+              {
+                "display_name": "Deals",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=top-deals--deals",
+                "url": "/ts/15347/top-deals/deals"
+              }
+            ]
+          },
+          {
+            "header": "FRESH & ORGANIC",
+            "values": [
+              {
+                "display_name": "Farm-Fresh Picks",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=fresh-organic--farm-fresh-picks",
+                "url": "/ts/17141/fresh-organic/farm-fresh-picks"
+              }
+            ]
+          },
+          {
+            "header": "HEART HEALTHY",
+            "values": [
+              {
+                "display_name": "Keto Friendly",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=heart-healthy--keto-friendly",
+                "url": "/ts/17171/heart-healthy/keto-friendly"
+              }
+            ]
+          },
+          {
+            "header": "GROWTH & RECOVERY",
+            "values": [
+              {
+                "display_name": "Repair & Restore",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=growth-recovery--repair-restore",
+                "url": "/ts/17191/growth-recovery/repair-restore"
+              }
+            ]
+          },
+          {
+            "header": "KIDS\u2019 NUTRITION",
+            "values": [
+              {
+                "display_name": "Gut Support",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=kids-nutrition--gut-support",
+                "url": "/ts/17222/kids-nutrition/gut-support"
+              }
+            ]
+          },
+          {
+            "header": "USP_WIDGET_NEW",
+            "values": [
+              {
+                "display_name": "Perfectly Ripe",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=usp_widget_new--perfectly-ripe",
+                "url": "/ts/17983/usp_widget_new/perfectly-ripe"
+              },
+              {
+                "display_name": "",
+                "dest_type": "product_list",
+                "dest_slug": "type=tag&slug=usp_widget_new--",
+                "url": "/ts/17995/usp_widget_new/"
+              }
+            ]
+          }
+        ],
+        "combo": null,
+        "category": {
+          "tlc_name": "Fruits & Vegetables",
+          "tlc_slug": "fruits-vegetables",
+          "llc_slug": "type=pc&slug=banana-sapota-papaya",
+          "llc_name": "Banana, Sapota & Papaya",
+          "llc_id": 1685
+        },
+        "rating_info": {
+          "avg_rating": null,
+          "rating_count": null,
+          "review_count": null,
+          "sku_id": 10000025
+        },
+        "breadcrumb": [
+          {
+            "id": 489,
+            "name": "fruits & vegetables",
+            "slug": "fruits-vegetables",
+            "type": "pc",
+            "url": "/cl/fruits-vegetables/"
+          },
+          {
+            "id": 1344,
+            "name": "fresh fruits",
+            "slug": "fresh-fruits",
+            "type": "pc",
+            "url": "/pc/fruits-vegetables/fresh-fruits/"
+          },
+          {
+            "id": 1685,
+            "name": "banana, sapota & papaya",
+            "slug": "banana-sapota-papaya",
+            "type": "pc",
+            "url": "/pc/fruits-vegetables/fresh-fruits/banana-sapota-papaya/"
+          }
+        ],
+        "aplus_url": null,
+        "pricing": {
+          "discount": {
+            "mrp": null,
+            "d_text": null,
+            "d_avail": null,
+            "prim_price": {
+              "sp": null,
+              "icon": null,
+              "desc": null
+            },
+            "sec_price": null,
+            "offer_entry_text": null,
+            "offer_available": null
+          },
+          "promo": null
+        },
+        "children": []
+      }
+    }
+  }
+}
